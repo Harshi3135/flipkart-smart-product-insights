@@ -18,8 +18,8 @@ An interactive, three-page Power BI dashboard that links a **3D model of a fulfi
 | **Product Analytics** | Explore category share, brand ranking, discount levels, average rating, and retail vs discounted price. |
 | **Warehouse Operations** | Check stock by zone and rack, stock quantity by zone, stock distribution by category, and inventory age by velocity class. |
 
-![Product Analytics](Product_Analytics.png)
-![Warehouse Operations](Warehouse_Operations.png)
+![Product Analytics](Product Analytics.png)
+![Warehouse Operations](Warehouse Operations.png)
 
 ---
 
