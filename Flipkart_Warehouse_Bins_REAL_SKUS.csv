@@ -1,0 +1,1201 @@
+Bin_ID,Zone,Zone_Name,Rack,Bay,Level,SKU,Product_Name,Brand,Category,Qty,Bin_Capacity,Fill_Pct,Bin_Status,Unit_Price_INR,Stock_Value_INR,Velocity_Class,Days_In_Storage,Inbound_Date
+A-R01-B01-L1,A,Clothing,1,1,1,TSHE9CK2HHYWJ4E5,Okane Printed Men's Round Neck T-Shirt,Unbranded,Clothing,36,40,90,Overstock,419,15084,A-Fast,70,9/11/2026
+A-R01-B01-L2,A,Clothing,1,1,2,SRTE7PSSCM2H43MC,Provalley Solid Boy's Basic Shorts,Unbranded,Clothing,13,40,32.5,Optimal,959,12467,A-Fast,105,8/7/2026
+A-R01-B01-L3,A,Clothing,1,1,3,BRAE7FNDFAB2PRQD,Ladyland Life Women's Full Coverage Bra,Blue,Clothing,33,40,82.5,Optimal,349,11517,B-Medium,15,11/5/2026
+A-R01-B01-L4,A,Clothing,1,1,4,LJGE8WRYRQDNQMAY,Hello Dolly Women's Leggings,Unbranded,Clothing,30,40,75,Optimal,349,10470,B-Medium,31,10/20/2026
+A-R01-B01-L5,A,Clothing,1,1,5,SHTE5GT3CZ6RJJH2,22nd Street Women's Self Design Casual Shirt,Unbranded,Clothing,23,40,57.5,Optimal,389,8947,C-Slow,62,9/19/2026
+A-R01-B02-L1,A,Clothing,1,2,1,DREE6UDPXG5TDFCR,Inmark Women's Empire Waist Dress,Unbranded,Clothing,15,40,37.5,Optimal,718,10770,A-Fast,119,7/24/2026
+A-R01-B02-L2,A,Clothing,1,2,2,SWTECFYFTAWD79ZG,Tsavo Solid Turtle Neck Casual Men's Sweater,Unbranded,Clothing,25,40,62.5,Optimal,1399,34975,A-Fast,14,11/6/2026
+A-R01-B02-L3,A,Clothing,1,2,3,ACBECFGTEC5DXHPJ,Navaksha Necktie Men's  Combo,Unbranded,Clothing,39,40,97.5,Overstock,756,29484,C-Slow,56,9/25/2026
+A-R01-B02-L4,A,Clothing,1,2,4,SAREGSFVBWGSZACA,Mahek Saree Striped Fashion Cotton Sari,Mahek Saree,Clothing,22,40,55,Optimal,1500,33000,A-Fast,32,10/19/2026
+A-R01-B02-L5,A,Clothing,1,2,5,,,,,0,40,0,Empty,0,0,,0,
+A-R01-B03-L1,A,Clothing,1,3,1,DREE6D3EAYAHMAPE,Hugo Chavez Women's Maxi Dress,Unbranded,Clothing,28,40,70,Optimal,997,27916,B-Medium,106,8/6/2026
+A-R01-B03-L2,A,Clothing,1,3,2,,,,,0,40,0,Empty,0,0,,0,
+A-R01-B03-L3,A,Clothing,1,3,3,TSHEDH3BPV7ZEGCD,Nimya Solid Men's Polo Neck T-Shirt,Unbranded,Clothing,8,40,20,Low Stock,899,7192,C-Slow,65,9/16/2026
+A-R01-B03-L4,A,Clothing,1,3,4,SRTEGUA8AG9HYTAH,Nordlich Printed Women's Night Shorts,Nordlich,Clothing,38,40,95,Overstock,849,32262,B-Medium,102,8/10/2026
+A-R01-B03-L5,A,Clothing,1,3,5,LJGE8WRFZ83BD7G4,Hello Dolly Women's Leggings,Unbranded,Clothing,5,40,12.5,Low Stock,349,1745,B-Medium,30,10/21/2026
+A-R01-B04-L1,A,Clothing,1,4,1,SHTDXYNYTHQHTPQY,Karishma Women's Solid Formal Shirt,Unbranded,Clothing,28,40,70,Optimal,399,11172,B-Medium,44,10/7/2026
+A-R01-B04-L2,A,Clothing,1,4,2,,,,,0,40,0,Empty,0,0,,0,
+A-R01-B04-L3,A,Clothing,1,4,3,TOPE5W325WWQFR3B,Zink London Casual Full Sleeve Printed Women's Top,Unbranded,Clothing,10,40,25,Optimal,772,7720,C-Slow,19,11/1/2026
+A-R01-B04-L4,A,Clothing,1,4,4,SHTE6SEMFZTCW3NK,Tokyo Talkies Women's Printed Casual Shirt,Regular,Clothing,40,40,100,Overstock,324,12960,B-Medium,48,10/3/2026
+A-R01-B04-L5,A,Clothing,1,4,5,SHTE7P7XSYGKYGAX,"Modimania Women's Self Design Casual, Formal, Festive, Party",Slim,Clothing,23,40,57.5,Optimal,499,11477,A-Fast,82,8/30/2026
+A-R01-B05-L1,A,Clothing,1,5,1,TOPEYP876AAGE9NC,"Klick Casual, Formal, Party Sleeveless Solid Women's Top",Unbranded,Clothing,11,40,27.5,Optimal,439,4829,A-Fast,7,11/13/2026
+A-R01-B05-L2,A,Clothing,1,5,2,TROEY6NUCJBGCHZS,Sloper Regular Fit Men's Trousers,Unbranded,Clothing,39,40,97.5,Overstock,1019,39741,C-Slow,26,10/25/2026
+A-R01-B05-L3,A,Clothing,1,5,3,TIEEEBZ6RVHN8JZG,GetAbhi Solid Tie,Unbranded,Clothing,36,40,90,Overstock,351,12636,A-Fast,12,11/8/2026
+A-R01-B05-L4,A,Clothing,1,5,4,TSHEAKUG7CBUBEZT,Northern Lights Striped Men's V-neck T-Shirt,Unbranded,Clothing,20,40,50,Optimal,499,9980,C-Slow,114,7/29/2026
+A-R01-B05-L5,A,Clothing,1,5,5,TSHEJTYSMSXX8ZDM,Starsy Printed Girl's Round Neck White T-Shirt,Starsy,Clothing,7,40,17.5,Low Stock,359,2513,C-Slow,68,9/13/2026
+A-R01-B06-L1,A,Clothing,1,6,1,BRAEDQEEVBWB4FPB,S4S Stylish Women's Push-up Bra,Purple,Clothing,3,40,7.5,Low Stock,289,867,C-Slow,22,10/29/2026
+A-R01-B06-L2,A,Clothing,1,6,2,SHTEYYY4N2GNKWXH,Being Fab Women's Checkered Casual Shirt,Unbranded,Clothing,24,40,60,Optimal,329,7896,B-Medium,8,11/12/2026
+A-R01-B06-L3,A,Clothing,1,6,3,TOPE89KYEWKHKRDZ,Allen Solly Casual Sleeveless Solid Women's Top,Unbranded,Clothing,29,40,72.5,Optimal,1019,29551,C-Slow,5,11/15/2026
+A-R01-B06-L4,A,Clothing,1,6,4,KTAEBYZGVEMAPZUB,Parijat Embroidered Women's Straight Kurta,Unbranded,Clothing,23,40,57.5,Optimal,859,19757,C-Slow,58,9/23/2026
+A-R01-B06-L5,A,Clothing,1,6,5,,,,,0,40,0,Empty,0,0,,0,
+A-R01-B07-L1,A,Clothing,1,7,1,KRTEBVTFN8JAG656,Naksh Jaipur Casual Embroidered Women's Kurti,Unbranded,Clothing,3,40,7.5,Low Stock,869,2607,C-Slow,109,8/3/2026
+A-R01-B07-L2,A,Clothing,1,7,2,BRAE77MQX7VEEG35,SAP Printed Padded Women's Full Coverage Bra,Purple,Clothing,30,40,75,Optimal,550,16500,B-Medium,52,9/29/2026
+A-R01-B07-L3,A,Clothing,1,7,3,TSHE6KWDTQRGEWQZ,Nucode Graphic Print Men's Round Neck T-Shirt,Unbranded,Clothing,15,40,37.5,Optimal,299,4485,C-Slow,7,11/13/2026
+A-R01-B07-L4,A,Clothing,1,7,4,SHTE4ZP5ZKE3SWMA,Meira Women's Checkered Party Reversible Shirt,Regular,Clothing,37,40,92.5,Overstock,499,18463,C-Slow,63,9/18/2026
+A-R01-B07-L5,A,Clothing,1,7,5,DREEAW2FTWYNF7UQ,Kiosha Women's Shift Dress,Unbranded,Clothing,7,40,17.5,Low Stock,602,4214,A-Fast,50,10/1/2026
+A-R01-B08-L1,A,Clothing,1,8,1,ETHEGDTGYCFHJEEF,Lajo Women's Salwar and Dupatta Set,Lajo,Clothing,30,40,75,Optimal,2089,62670,A-Fast,98,8/14/2026
+A-R01-B08-L2,A,Clothing,1,8,2,SHTEAE8HHAH3GCWY,Jpeters Men's Solid Formal Shirt,Regular,Clothing,33,40,82.5,Optimal,2100,69300,B-Medium,117,7/26/2026
+A-R01-B08-L3,A,Clothing,1,8,3,TOPECGFUVZHKUFNN,"Sarva Party, Casual Sleeveless Self Design Women's Top",Unbranded,Clothing,39,40,97.5,Overstock,850,33150,C-Slow,62,9/19/2026
+A-R01-B08-L4,A,Clothing,1,8,4,BRAE3UG9NGHDQZZE,JSR Paris Beauty Pro Women's Full Coverage Bra,Skin,Clothing,9,40,22.5,Optimal,214,1926,A-Fast,110,8/2/2026
+A-R01-B08-L5,A,Clothing,1,8,5,SWSEBGYUPTH7GSHE,TSX Full Sleeve Solid Men's Sweatshirt,Unbranded,Clothing,14,40,35,Optimal,949,13286,B-Medium,114,7/29/2026
+A-R01-B09-L1,A,Clothing,1,9,1,BRAEDQDFHD8EME7D,S4S Stylish Women's Push-up Bra,Pink,Clothing,12,40,30,Optimal,199,2388,B-Medium,11,11/9/2026
+A-R01-B09-L2,A,Clothing,1,9,2,DREEBHBUXZUNYVGZ,La Zoire Women's Shift Dress,Unbranded,Clothing,8,40,20,Low Stock,849,6792,B-Medium,62,9/19/2026
+A-R01-B09-L3,A,Clothing,1,9,3,SHTE34TJTDDGP8TH,Goddess Women Women's Animal Print Casual Shirt,Slim,Clothing,30,40,75,Optimal,909,27270,B-Medium,70,9/11/2026
+A-R01-B09-L4,A,Clothing,1,9,4,SHTE6HYNUVRP8YAH,Colors Couture Women's Polka Print Casual Shirt,Slim Fit,Clothing,16,40,40,Optimal,499,7984,C-Slow,50,10/1/2026
+A-R01-B09-L5,A,Clothing,1,9,5,,,,,0,40,0,Empty,0,0,,0,
+A-R01-B10-L1,A,Clothing,1,10,1,SWDEGP9B8BQ3MJDE,Polkakart Printed Kurti & Leggings,Polkakart,Clothing,23,40,57.5,Optimal,549,12627,B-Medium,115,7/28/2026
+A-R01-B10-L2,A,Clothing,1,10,2,TSHE993QWXFTDWDV,Oviyon Printed Men's V-neck T-Shirt,Unbranded,Clothing,28,40,70,Optimal,449,12572,B-Medium,38,10/13/2026
+A-R01-B10-L3,A,Clothing,1,10,3,TSHE9CK2SWWG3FGN,Okane Striped Men's Polo Neck T-Shirt,Unbranded,Clothing,13,40,32.5,Optimal,419,5447,B-Medium,40,10/11/2026
+A-R01-B10-L4,A,Clothing,1,10,4,BRAEDSGAZMGQDKTJ,S4S Stylish Women's Push-up Bra,Pink,Clothing,3,40,7.5,Low Stock,379,1137,C-Slow,57,9/24/2026
+A-R01-B10-L5,A,Clothing,1,10,5,BRAEE5HR7UM4CZ7D,Riya Gold Girl's Full Coverage Bra,Beige,Clothing,25,40,62.5,Optimal,249,6225,B-Medium,14,11/6/2026
+A-R02-B01-L1,A,Clothing,2,1,1,BRAE7FNDZBHFZFKA,Ladyland Jenifer Women's Full Coverage Bra,Black,Clothing,25,40,62.5,Optimal,349,8725,B-Medium,55,9/26/2026
+A-R02-B01-L2,A,Clothing,2,1,2,TSHE93RZ2NZMX5RT,Ocean Race Solid Men's Round Neck T-Shirt,Unbranded,Clothing,31,40,77.5,Optimal,272,8432,B-Medium,56,9/25/2026
+A-R02-B01-L3,A,Clothing,2,1,3,SKIEG6R7Y6N66FS5,Gwyn lingerie Floral Print Women's Gathered Skirt,Gwyn lingerie,Clothing,9,40,22.5,Optimal,599,5391,B-Medium,89,8/23/2026
+A-R02-B01-L4,A,Clothing,2,1,4,TOPEDDAENUQDFTMN,Trend Arrest Casual 3/4 Sleeve Solid Women's Top,Unbranded,Clothing,29,40,72.5,Optimal,399,11571,C-Slow,98,8/14/2026
+A-R02-B01-L5,A,Clothing,2,1,5,SHTEGZ4M2DTFNYBV,Shoprillo Women's Solid Formal Shirt,Shoprillo,Clothing,37,40,92.5,Overstock,805,29785,C-Slow,84,8/28/2026
+A-R02-B02-L1,A,Clothing,2,2,1,RNCE9PYZZBNKRGBN,Quechua Rain Cut Solid Boy's Raincoat,Unbranded,Clothing,33,40,82.5,Optimal,499,16467,A-Fast,110,8/2/2026
+A-R02-B02-L2,A,Clothing,2,2,2,,,,,0,40,0,Empty,0,0,,0,
+A-R02-B02-L3,A,Clothing,2,2,3,DREECZJEGFFEWCW4,Allen Solly Girl's Gathered Dress,Unbranded,Clothing,29,40,72.5,Optimal,1119,32451,A-Fast,30,10/21/2026
+A-R02-B02-L4,A,Clothing,2,2,4,BRAE5F3KHHPXDMUR,Younky Fashion Women's T-Shirt Bra,Black,Clothing,3,40,7.5,Low Stock,149,447,A-Fast,37,10/14/2026
+A-R02-B02-L5,A,Clothing,2,2,5,SHTEBSMGPBSRYKKB,C M Clothing Women's Printed Casual Shirt,Realx Fit,Clothing,5,40,12.5,Low Stock,299,1495,B-Medium,3,11/17/2026
+A-R02-B03-L1,A,Clothing,2,3,1,SWTECFYFTAWD79ZG,Tsavo Solid Turtle Neck Casual Men's Sweater,Unbranded,Clothing,22,40,55,Optimal,1399,30778,C-Slow,78,9/3/2026
+A-R02-B03-L2,A,Clothing,2,3,2,KRTEDNFBBYXFESXD,Shreenathprint Casual Printed Women's Kurti,Unbranded,Clothing,11,40,27.5,Optimal,219,2409,B-Medium,23,10/28/2026
+A-R02-B03-L3,A,Clothing,2,3,3,,,,,0,40,0,Empty,0,0,,0,
+A-R02-B03-L4,A,Clothing,2,3,4,KRTECENGCNKAHSP9,Rama Festive Animal Print Women's Kurti,Unbranded,Clothing,37,40,92.5,Overstock,449,16613,A-Fast,103,8/9/2026
+A-R02-B03-L5,A,Clothing,2,3,5,SHTECV69KMGUCXM7,Kingswood Men's Solid Formal Shirt,Slim,Clothing,14,40,35,Optimal,499,6986,B-Medium,19,11/1/2026
+A-R02-B04-L1,A,Clothing,2,4,1,BRAE5F3KK3YG52UR,Younky Fashion Women's T-Shirt Bra,Brown,Clothing,13,40,32.5,Optimal,149,1937,C-Slow,38,10/13/2026
+A-R02-B04-L2,A,Clothing,2,4,2,TKPEGZCWJBFYQ7DG,Abstract Mood Solid Girl's Black Track Pants,Abstract Mood,Clothing,7,40,17.5,Low Stock,750,5250,C-Slow,100,8/12/2026
+A-R02-B04-L3,A,Clothing,2,4,3,LJGE8NS7MQMKXJPD,NE Women's Leggings,Unbranded,Clothing,24,40,60,Optimal,369,8856,B-Medium,69,9/12/2026
+A-R02-B04-L4,A,Clothing,2,4,4,ACBEA449WHCY6BRR,Oye Top With Skirts Girl's  Combo,Unbranded,Clothing,5,40,12.5,Low Stock,449,2245,B-Medium,55,9/26/2026
+A-R02-B04-L5,A,Clothing,2,4,5,TSHECQN9RFWAUFUA,Orange Plum Printed Men's Round Neck T-Shirt,Unbranded,Clothing,28,40,70,Optimal,399,11172,B-Medium,97,8/15/2026
+A-R02-B05-L1,A,Clothing,2,5,1,SWSEH99UGGCZCUCG,Romano Full Sleeve Striped Men's Sweatshirt,Romano,Clothing,35,40,87.5,Optimal,1875,65625,A-Fast,56,9/25/2026
+A-R02-B05-L2,A,Clothing,2,5,2,,,,,0,40,0,Empty,0,0,,0,
+A-R02-B05-L3,A,Clothing,2,5,3,TSHECQN9XHWVXNXZ,Orange Plum Printed Men's Round Neck T-Shirt,Unbranded,Clothing,10,40,25,Optimal,399,3990,C-Slow,20,10/31/2026
+A-R02-B05-L4,A,Clothing,2,5,4,SHTE5Y65Q27B6XTS,La Rochelle Women's Geometric Print Casual Reversible Shirt,Slim,Clothing,8,40,20,Low Stock,349,2792,B-Medium,31,10/20/2026
+A-R02-B05-L5,A,Clothing,2,5,5,SHTDVC4GXFZM7WGR,Hermosear Women's Solid Casual Shirt,Unbranded,Clothing,5,40,12.5,Low Stock,499,2495,A-Fast,71,9/10/2026
+A-R02-B06-L1,A,Clothing,2,6,1,TOPDZFGCFH8AMJ4B,Cation Casual Short Sleeve Solid Women's Top,Unbranded,Clothing,28,40,70,Optimal,499,13972,B-Medium,100,8/12/2026
+A-R02-B06-L2,A,Clothing,2,6,2,TSHE3GHHVKJAY8DY,One For Blue Printed Men's Round Neck T-Shirt,Unbranded,Clothing,23,40,57.5,Optimal,899,20677,A-Fast,36,10/15/2026
+A-R02-B06-L3,A,Clothing,2,6,3,BRAEAC839PBQV9KF,Sonari D-14 Women's Full Coverage Bra,Cherry,Clothing,35,40,87.5,Optimal,710,24850,A-Fast,55,9/26/2026
+A-R02-B06-L4,A,Clothing,2,6,4,CSPE7MZDXTGHMJHR,Love From India Women's Camisole,Unbranded,Clothing,24,40,60,Optimal,903,21672,A-Fast,106,8/6/2026
+A-R02-B06-L5,A,Clothing,2,6,5,BZREEA4MHGKY7UHX,Allen Solly Solid Single Breasted Casual Boy's Blazer,Allen Solly,Clothing,37,40,92.5,Overstock,2799,103563,A-Fast,16,11/4/2026
+A-R02-B07-L1,A,Clothing,2,7,1,TSHE6UDNZAD6PVVE,Numero Uno Printed Men's Round Neck T-Shirt,Unbranded,Clothing,5,40,12.5,Low Stock,558,2790,B-Medium,89,8/23/2026
+A-R02-B07-L2,A,Clothing,2,7,2,TGTEJFP2XDDEJVNV,Champ Solid Men's Swimming Long Shorts Tights,Champ,Clothing,31,40,77.5,Optimal,390,12090,B-Medium,100,8/12/2026
+A-R02-B07-L3,A,Clothing,2,7,3,TOPECPG5FWV8FUQ5,"SFDS Casual, Formal, Party Short Sleeve Self Design Women's ",Unbranded,Clothing,18,40,45,Optimal,999,17982,B-Medium,22,10/29/2026
+A-R02-B07-L4,A,Clothing,2,7,4,PANEGYX2UKXFYWRJ,Miss Clyra Women's Brief Panty,Miss Clyra,Clothing,19,40,47.5,Optimal,199,3781,C-Slow,12,11/8/2026
+A-R02-B07-L5,A,Clothing,2,7,5,SHTE8ZWWYJBHQHTK,GoodwillImpex Women's Solid Casual Shirt,Regular,Clothing,34,40,85,Optimal,399,13566,B-Medium,103,8/9/2026
+A-R02-B08-L1,A,Clothing,2,8,1,,,,,0,40,0,Empty,0,0,,0,
+A-R02-B08-L2,A,Clothing,2,8,2,SKIEJG79FNUZGFMS,"Antistreet Printed, Self Design, Solid Women's Regular Black",Antistreet,Clothing,31,40,77.5,Optimal,1026,31806,B-Medium,98,8/14/2026
+A-R02-B08-L3,A,Clothing,2,8,3,BRAEB2S8RZZRXMT3,Tia by Ten on Ten Percy Women's T-Shirt Bra,Black,Clothing,10,40,25,Optimal,399,3990,C-Slow,90,8/22/2026
+A-R02-B08-L4,A,Clothing,2,8,4,SKIEBU7HGPED7CBC,Cotton Breeze Printed Women's A-line Skirt,Unbranded,Clothing,9,40,22.5,Optimal,275,2475,B-Medium,7,11/13/2026
+A-R02-B08-L5,A,Clothing,2,8,5,PTLE9Q93BGZP8APV,Generation Z Cotton Solid Patiala,Unbranded,Clothing,17,40,42.5,Optimal,699,11883,C-Slow,120,7/23/2026
+A-R02-B09-L1,A,Clothing,2,9,1,DUPEGNY42VRHCFMA,IPG Cotton Solid Women's Dupatta,IPG,Clothing,32,40,80,Optimal,250,8000,B-Medium,73,9/8/2026
+A-R02-B09-L2,A,Clothing,2,9,2,SHTEDWTVTHSU5XCU,Highlander Men's Printed Casual Shirt,Slim,Clothing,36,40,90,Overstock,714,25704,C-Slow,92,8/20/2026
+A-R02-B09-L3,A,Clothing,2,9,3,BRAEARZHZU3F3YGY,Urbaano Bridal Bra Pack Women's Full Coverage Bra,Purple,Clothing,19,40,47.5,Optimal,489,9291,B-Medium,18,11/2/2026
+A-R02-B09-L4,A,Clothing,2,9,4,,,,,0,40,0,Empty,0,0,,0,
+A-R02-B09-L5,A,Clothing,2,9,5,NSTE4SBXUUEFHGGV,TAB91 Praveen Women's Printed Top & Pyjama Set,TAB91,Clothing,23,40,57.5,Optimal,749,17227,B-Medium,13,11/7/2026
+A-R02-B10-L1,A,Clothing,2,10,1,TOPE5MCE7YUGFMHY,Zink London Casual Sleeveless Solid Women's Top,Unbranded,Clothing,32,40,80,Optimal,722,23104,C-Slow,46,10/5/2026
+A-R02-B10-L2,A,Clothing,2,10,2,DREEDR97B3HHSNBH,Cutecumber Girl's A-line Dress,Unbranded,Clothing,17,40,42.5,Optimal,1560,26520,C-Slow,96,8/16/2026
+A-R02-B10-L3,A,Clothing,2,10,3,BRAE3RFCXFYJQ9B2,Younky Fashion Women's Full Coverage Bra,Dark Green,Clothing,7,40,17.5,Low Stock,149,1043,C-Slow,18,11/2/2026
+A-R02-B10-L4,A,Clothing,2,10,4,SWSEDXEYHWHW5UF4,Sobre Estilo Full Sleeve Solid Men's Sweatshirt,Unbranded,Clothing,37,40,92.5,Overstock,699,25863,A-Fast,31,10/20/2026
+A-R02-B10-L5,A,Clothing,2,10,5,BRAEB2ZTMFRTJDDF,S4S Stylish Women's Full Coverage Bra,Blue,Clothing,6,40,15,Low Stock,159,954,A-Fast,15,11/5/2026
+A-R03-B01-L1,A,Clothing,3,1,1,DREE7PGWPSUCATZN,Meee Women's Empire Waist Dress,Unbranded,Clothing,19,40,47.5,Optimal,647,12293,A-Fast,112,7/31/2026
+A-R03-B01-L2,A,Clothing,3,1,2,TSHE3YHBSTHKCYS4,Provalley Printed Boy's Round Neck T-Shirt,Unbranded,Clothing,31,40,77.5,Optimal,799,24769,C-Slow,27,10/24/2026
+A-R03-B01-L3,A,Clothing,3,1,3,,,,,0,40,0,Empty,0,0,,0,
+A-R03-B01-L4,A,Clothing,3,1,4,,,,,0,40,0,Empty,0,0,,0,
+A-R03-B01-L5,A,Clothing,3,1,5,TSHEE3MZY7KCMDVV,Imbindass Printed Men's Round Neck T-Shirt,Unbranded,Clothing,14,40,35,Optimal,499,6986,B-Medium,54,9/27/2026
+A-R03-B02-L1,A,Clothing,3,2,1,,,,,0,40,0,Empty,0,0,,0,
+A-R03-B02-L2,A,Clothing,3,2,2,FABEAJUHWGPHZUGU,Awesome Silk Embroidered Blouse Material,Unbranded,Clothing,36,40,90,Overstock,699,25164,A-Fast,31,10/20/2026
+A-R03-B02-L3,A,Clothing,3,2,3,TRODZNTFF9EXWB5S,Zovi Regular Fit Men's Trousers,Unbranded,Clothing,31,40,77.5,Optimal,519,16089,A-Fast,28,10/23/2026
+A-R03-B02-L4,A,Clothing,3,2,4,,,,,0,40,0,Empty,0,0,,0,
+A-R03-B02-L5,A,Clothing,3,2,5,SHTEATTURTG7HX3X,Eves Pret A Porter Women's Solid Casual Linen Shirt,Regular,Clothing,8,40,20,Low Stock,399,3192,C-Slow,22,10/29/2026
+A-R03-B03-L1,A,Clothing,3,3,1,SKIEJEF9UDVPHGWA,Indiatrendzs Embellished Women's A-line Yellow Skirt,Indiatrendzs,Clothing,9,40,22.5,Optimal,360,3240,B-Medium,20,10/31/2026
+A-R03-B03-L2,A,Clothing,3,3,2,TSHE7JZRV8YGQFFC,Northern Lights Solid Men's Round Neck T-Shirt,Unbranded,Clothing,32,40,80,Optimal,769,24608,B-Medium,34,10/17/2026
+A-R03-B03-L3,A,Clothing,3,3,3,KRTEB48YQ2KV6CZE,Flora Casual Self Design Women's Kurti,Unbranded,Clothing,22,40,55,Optimal,425,9350,C-Slow,120,7/23/2026
+A-R03-B03-L4,A,Clothing,3,3,4,JCKEDWXX2FFGCCHJ,Yepme Full Sleeve Solid Men's Jacket,Unbranded,Clothing,16,40,40,Optimal,899,14384,A-Fast,22,10/29/2026
+A-R03-B03-L5,A,Clothing,3,3,5,SHTE8W9QTNENVHJ5,Ishin Designer Studio Women's Solid Casual Shirt,Regular,Clothing,40,40,100,Overstock,449,17960,A-Fast,116,7/27/2026
+A-R03-B04-L1,A,Clothing,3,4,1,NDNEGCSFUTGDBNCP,Simrit Women's Nighty,Simrit,Clothing,34,40,85,Optimal,895,30430,B-Medium,25,10/26/2026
+A-R03-B04-L2,A,Clothing,3,4,2,SHTE69H6WWXCNFTA,Fbbic Women's Printed Casual Shirt,Slim,Clothing,37,40,92.5,Overstock,499,18463,B-Medium,96,8/16/2026
+A-R03-B04-L3,A,Clothing,3,4,3,TOPE7DNYGMFPSU4J,Aaliya Casual Sleeveless Solid Women's Top,Unbranded,Clothing,40,40,100,Overstock,700,28000,A-Fast,8,11/12/2026
+A-R03-B04-L4,A,Clothing,3,4,4,ACBECSFFNEUFZSYE,Abhira Top Girl's  Combo,Unbranded,Clothing,36,40,90,Overstock,1029,37044,C-Slow,13,11/7/2026
+A-R03-B04-L5,A,Clothing,3,4,5,KTAEBYMZKYFHRPJX,Parijat Embroidered Women's Straight Kurta,Unbranded,Clothing,34,40,85,Optimal,899,30566,C-Slow,85,8/27/2026
+A-R03-B05-L1,A,Clothing,3,5,1,DREE3HGEK7VH4ZWP,Miss Chase Women's A-line Dress,Unbranded,Clothing,30,40,75,Optimal,959,28770,A-Fast,41,10/10/2026
+A-R03-B05-L2,A,Clothing,3,5,2,TOPEHZNZ9YZYYAPU,Satovira Party Sleeveless Solid Women's Top,Satovira,Clothing,32,40,80,Optimal,1499,47968,C-Slow,20,10/31/2026
+A-R03-B05-L3,A,Clothing,3,5,3,DREEAGZYZRQJHSFE,Kasturi Women's Gathered Dress,Unbranded,Clothing,14,40,35,Optimal,699,9786,A-Fast,102,8/10/2026
+A-R03-B05-L4,A,Clothing,3,5,4,NDNEGCSGWWRHXNQV,Simrit Women's Nighty,Simrit,Clothing,12,40,30,Optimal,895,10740,C-Slow,11,11/9/2026
+A-R03-B05-L5,A,Clothing,3,5,5,PYJEJMKJHAK78KJH,Kothari Girl's Pyjama,Kothari,Clothing,33,40,82.5,Optimal,299,9867,C-Slow,13,11/7/2026
+A-R03-B06-L1,A,Clothing,3,6,1,TOPEGWURCXSZMQ6H,Gkidz Casual Short Sleeve Printed Girl's Top,Gkidz,Clothing,33,40,82.5,Optimal,899,29667,C-Slow,78,9/3/2026
+A-R03-B06-L2,A,Clothing,3,6,2,BRAEDSGAWGRCQSFG,S4S Stylish Women's Push-up Bra,Purple,Clothing,18,40,45,Optimal,379,6822,C-Slow,1,11/19/2026
+A-R03-B06-L3,A,Clothing,3,6,3,TSHEA7W9TKGJGCKP,Nucode Striped Men's Polo Neck T-Shirt,Unbranded,Clothing,19,40,47.5,Optimal,499,9481,A-Fast,81,8/31/2026
+A-R03-B06-L4,A,Clothing,3,6,4,SHTE6PXKYFE8Y3JT,Eva De Moda Women's Graphic Print Casual Shirt,Regular,Clothing,31,40,77.5,Optimal,349,10819,C-Slow,16,11/4/2026
+A-R03-B06-L5,A,Clothing,3,6,5,,,,,0,40,0,Empty,0,0,,0,
+A-R03-B07-L1,A,Clothing,3,7,1,JEAECN2QDGZMGFDC,Reckler Slim Fit Men's Jeans,Slim,Clothing,20,40,50,Optimal,5299,105980,C-Slow,58,9/23/2026
+A-R03-B07-L2,A,Clothing,3,7,2,SHTEBG9CGJ5N9RGZ,Richworth Men's Solid Formal Shirt,Regular,Clothing,38,40,95,Overstock,599,22762,A-Fast,88,8/24/2026
+A-R03-B07-L3,A,Clothing,3,7,3,TROEBQGHANHWD3BW,urbantouch Regular Fit Men's Trousers,Unbranded,Clothing,23,40,57.5,Optimal,1799,41377,A-Fast,5,11/15/2026
+A-R03-B07-L4,A,Clothing,3,7,4,FABEG9CY7FZQQJYE,"Styleworld Chanderi, Cotton Embroidered Semi-stitched Salwar",Styleworld,Clothing,6,40,15,Low Stock,1392,8352,B-Medium,76,9/5/2026
+A-R03-B07-L5,A,Clothing,3,7,5,ACBEAGHHHWJAHA9C,Oye Top Girl's  Combo,Unbranded,Clothing,25,40,62.5,Blocked,479,11975,A-Fast,39,10/12/2026
+A-R03-B08-L1,A,Clothing,3,8,1,BRAEE4P4QGQ9ZVVA,ShowTime Women's T-Shirt Bra,Black,Clothing,22,40,55,Optimal,140,3080,B-Medium,24,10/27/2026
+A-R03-B08-L2,A,Clothing,3,8,2,ETHEGBVPYKM2GZUY,Lajo Women's Salwar and Dupatta Set,Lajo,Clothing,29,40,72.5,Optimal,1388,40252,C-Slow,14,11/6/2026
+A-R03-B08-L3,A,Clothing,3,8,3,FABE4KCTTX3UB4DT,Giftsnfriends Cotton Printed Dress/Top Material,Unbranded,Clothing,34,40,85,Optimal,590,20060,C-Slow,75,9/6/2026
+A-R03-B08-L4,A,Clothing,3,8,4,TSHE5HQFW3MXDYKV,Nucode Solid Men's Polo Neck T-Shirt,Unbranded,Clothing,27,40,67.5,Optimal,399,10773,B-Medium,51,9/30/2026
+A-R03-B08-L5,A,Clothing,3,8,5,PYJEJY5ZFUMTXEHR,INDIRANG Baby Girl's Pyjama,INDIRANG,Clothing,8,40,20,Low Stock,399,3192,B-Medium,90,8/22/2026
+A-R03-B09-L1,A,Clothing,3,9,1,SOCEJPT5AHPUGYX4,Mode Men's Floral Print Crew Length Socks,Mode,Clothing,31,40,77.5,Optimal,96,2976,B-Medium,106,8/6/2026
+A-R03-B09-L2,A,Clothing,3,9,2,SHTECRHEZH2TBSE8,Goodwill Impex Women's Solid Casual Shirt,Regular Fit,Clothing,33,40,82.5,Optimal,399,13167,C-Slow,46,10/5/2026
+A-R03-B09-L3,A,Clothing,3,9,3,DREEARU9CNFR3GZZ,Magnetic Designs Women's Maxi Dress,Unbranded,Clothing,19,40,47.5,Optimal,769,14611,A-Fast,91,8/21/2026
+A-R03-B09-L4,A,Clothing,3,9,4,TSHE8HQPNBGJVF3C,Okane Solid Men's Round Neck T-Shirt,Unbranded,Clothing,35,40,87.5,Optimal,699,24465,B-Medium,104,8/8/2026
+A-R03-B09-L5,A,Clothing,3,9,5,KRTEJ6ZDJMD6MCWS,Cotton Fab Printed Women's Maternity Wear Kurti,Cotton Fab,Clothing,27,40,67.5,Optimal,780,21060,B-Medium,91,8/21/2026
+A-R03-B10-L1,A,Clothing,3,10,1,TSHE6KWCZDGYYZZH,Nucode Graphic Print Men's Round Neck T-Shirt,Unbranded,Clothing,6,40,15,Low Stock,299,1794,B-Medium,23,10/28/2026
+A-R03-B10-L2,A,Clothing,3,10,2,BRAE2NF6QBUFMJTU,Oleva Women's Full Coverage Bra,Blue,Clothing,18,40,45,Optimal,99,1782,B-Medium,69,9/12/2026
+A-R03-B10-L3,A,Clothing,3,10,3,DREEAW2FTWYNF7UQ,Kiosha Women's Shift Dress,Unbranded,Clothing,38,40,95,Overstock,602,22876,B-Medium,45,10/6/2026
+A-R03-B10-L4,A,Clothing,3,10,4,TSHEJCQ2VWZAKZJ4,Fanideaz Printed Men's Round Neck Grey T-Shirt,Fanideaz,Clothing,36,40,90,Overstock,549,19764,B-Medium,103,8/9/2026
+A-R03-B10-L5,A,Clothing,3,10,5,TOPEBN6MZNGGZEMY,Ir Acc Casual Roll-up Sleeve Self Design Women's Top,Unbranded,Clothing,14,40,35,Optimal,475,6650,C-Slow,60,9/21/2026
+A-R04-B01-L1,A,Clothing,4,1,1,BRAE3TSHUSSFTGHN,Grafion Comfortable Women's Full Coverage Bra,Red,Clothing,35,40,87.5,Blocked,139,4865,B-Medium,28,10/23/2026
+A-R04-B01-L2,A,Clothing,4,1,2,LJGEJ3G6J6Y4UUH8,"Zrestha Women's Brown, Pink, Orange Leggings",Zrestha,Clothing,40,40,100,Overstock,899,35960,C-Slow,51,9/30/2026
+A-R04-B01-L3,A,Clothing,4,1,3,BRAECJ7STGGUPS8T,PrivateLifes Polka Lace Women's T-Shirt Bra,Black,Clothing,20,40,50,Optimal,399,7980,B-Medium,98,8/14/2026
+A-R04-B01-L4,A,Clothing,4,1,4,JEADYGM9AFTXAH7J,Momento Regular Fit Men's Jeans,Unbranded,Clothing,27,40,67.5,Optimal,990,26730,A-Fast,66,9/15/2026
+A-R04-B01-L5,A,Clothing,4,1,5,SHTE7H6NVYGH6SRR,Teemoods Women's Solid Casual Shirt,Regular Fit,Clothing,29,40,72.5,Optimal,499,14471,A-Fast,97,8/15/2026
+A-R04-B02-L1,A,Clothing,4,2,1,SKIEAUABAREMXMD4,109f Checkered Women's Regular Skirt,Unbranded,Clothing,25,40,62.5,Optimal,750,18750,B-Medium,99,8/13/2026
+A-R04-B02-L2,A,Clothing,4,2,2,,,,,0,40,0,Empty,0,0,,0,
+A-R04-B02-L3,A,Clothing,4,2,3,TSHE7KBHSZGHUHHE,Ovl Graphic Print Men's Round Neck T-Shirt,Unbranded,Clothing,16,40,40,Optimal,419,6704,B-Medium,78,9/3/2026
+A-R04-B02-L4,A,Clothing,4,2,4,SKIE5AQJAEXH5GYG,Marusthali Printed Women's Wrap Around Skirt,Unbranded,Clothing,12,40,30,Optimal,499,5988,B-Medium,35,10/16/2026
+A-R04-B02-L5,A,Clothing,4,2,5,LJGE8MZSZZKEDAXG,Kimmy Women's Leggings,Unbranded,Clothing,8,40,20,Low Stock,299,2392,C-Slow,25,10/26/2026
+A-R04-B03-L1,A,Clothing,4,3,1,SWTEAFYHVZTBZKHC,British Cross Argyle Round Neck Casual Men's Sweater,Unbranded,Clothing,13,40,32.5,Optimal,1019,13247,A-Fast,28,10/23/2026
+A-R04-B03-L2,A,Clothing,4,3,2,BRAECBXJJYYERAHY,Wolfie Pro Women's Push-up Bra,Black,Clothing,39,40,97.5,Overstock,320,12480,C-Slow,93,8/19/2026
+A-R04-B03-L3,A,Clothing,4,3,3,BRAEDUVZUVNNFF3F,Riya Gold Women's Full Coverage Bra,Multicolor,Clothing,7,40,17.5,Low Stock,249,1743,C-Slow,6,11/14/2026
+A-R04-B03-L4,A,Clothing,4,3,4,LJGEFHZQFRXZFSSE,Tjaggies Women's Leggings,Unbranded,Clothing,31,40,77.5,Optimal,344,10664,C-Slow,111,8/1/2026
+A-R04-B03-L5,A,Clothing,4,3,5,SHTECQYNKGZNNBRP,Specimen Men's Solid Casual Shirt,Slim,Clothing,31,40,77.5,Optimal,1999,61969,B-Medium,48,10/3/2026
+A-R04-B04-L1,A,Clothing,4,4,1,TSHE3YHBGYYEDCAF,Provalley Printed Boy's Round Neck T-Shirt,Unbranded,Clothing,37,40,92.5,Overstock,799,29563,B-Medium,53,9/28/2026
+A-R04-B04-L2,A,Clothing,4,4,2,TOPECENJ85HRQQHA,Dewberries Formal Short Sleeve Self Design Women's Top,Unbranded,Clothing,19,40,47.5,Optimal,1699,32281,A-Fast,28,10/23/2026
+A-R04-B04-L3,A,Clothing,4,4,3,TSHE7AX3Y42HMJBV,Nimya Solid Men's Polo Neck T-Shirt,Unbranded,Clothing,16,40,40,Optimal,699,11184,B-Medium,21,10/30/2026
+A-R04-B04-L4,A,Clothing,4,4,4,BRAEE3HEHFEYSXRZ,"ShowTime Women's Full Coverage, T-Shirt Bra",Beige,Clothing,3,40,7.5,Low Stock,135,405,A-Fast,2,11/18/2026
+A-R04-B04-L5,A,Clothing,4,4,5,BRAEFSFYTXZ4FCDR,Vivity Women's Plunge Bra,White,Clothing,35,40,87.5,Optimal,299,10465,B-Medium,2,11/18/2026
+A-R04-B05-L1,A,Clothing,4,5,1,TKPDS6ZEQCGBRX9V,Gritstones Solid Women's Track Pants,Unbranded,Clothing,12,40,30,Optimal,499,5988,A-Fast,92,8/20/2026
+A-R04-B05-L2,A,Clothing,4,5,2,ACBEAGHHSUKWYKFX,Oye Top Girl's  Combo,Unbranded,Clothing,7,40,17.5,Low Stock,479,3353,B-Medium,49,10/2/2026
+A-R04-B05-L3,A,Clothing,4,5,3,TSHE9K9JEJBYHQQF,Ocean Race Graphic Print Men's Round Neck T-Shirt,Unbranded,Clothing,8,40,20,Low Stock,299,2392,C-Slow,74,9/7/2026
+A-R04-B05-L4,A,Clothing,4,5,4,TROEFJ39TCJCFGXN,UCB Baby Girl's Trousers,UCB,Clothing,14,40,35,Optimal,797,11158,C-Slow,6,11/14/2026
+A-R04-B05-L5,A,Clothing,4,5,5,NDNEBA9VMD7ZEKXZ,Fasense Women's Nighty,Unbranded,Clothing,32,40,80,Optimal,519,16608,C-Slow,114,7/29/2026
+A-R04-B06-L1,A,Clothing,4,6,1,BRAE5PKZ8QXFHWGK,Q-rious Adore Women's Balconette Bra,Black,Clothing,7,40,17.5,Low Stock,149,1043,B-Medium,14,11/6/2026
+A-R04-B06-L2,A,Clothing,4,6,2,,,,,0,40,0,Empty,0,0,,0,
+A-R04-B06-L3,A,Clothing,4,6,3,KRTEJ7ATWVYZT3QZ,Cotton Fab Printed Women's Maternity Wear Kurti,Cotton Fab,Clothing,38,40,95,Overstock,630,23940,B-Medium,119,7/24/2026
+A-R04-B06-L4,A,Clothing,4,6,4,SWSECD6QKHNNPX3T,Ceylin Full Sleeve Printed Women's Sweatshirt,Unbranded,Clothing,28,40,70,Optimal,1259,35252,C-Slow,47,10/4/2026
+A-R04-B06-L5,A,Clothing,4,6,5,SHTE4G4UY96BX7Y8,Westhreads Women's Solid Casual Shirt,Relaxed,Clothing,31,40,77.5,Optimal,499,15469,B-Medium,41,10/10/2026
+A-R04-B07-L1,A,Clothing,4,7,1,,,,,0,40,0,Empty,0,0,,0,
+A-R04-B07-L2,A,Clothing,4,7,2,TSHEF3Z3XMJDZ7T5,Ninja Turtles Printed Men's Round Neck T-Shirt,Unbranded,Clothing,25,40,62.5,Optimal,418,10450,C-Slow,51,9/30/2026
+A-R04-B07-L3,A,Clothing,4,7,3,BRAEGP6SFGYKNNCD,Souminie by Belle Lingeries - Pure Cotton Non Stretchable Bl,Souminie,Clothing,15,40,37.5,Optimal,250,3750,A-Fast,64,9/17/2026
+A-R04-B07-L4,A,Clothing,4,7,4,SHTEEV5FXESXZC6C,I Know Men's Solid Casual Dark Blue Shirt,I Know,Clothing,12,40,30,Optimal,934,11208,B-Medium,37,10/14/2026
+A-R04-B07-L5,A,Clothing,4,7,5,DREEDN3AH7TSH3R8,Jaune Women's Sheath Dress,Unbranded,Clothing,12,40,30,Optimal,1499,17988,C-Slow,51,9/30/2026
+A-R04-B08-L1,A,Clothing,4,8,1,CSPEGWZGQ66HYAKY,LIENZ Women's Camisole,LIENZ,Clothing,9,40,22.5,Optimal,325,2925,A-Fast,49,10/2/2026
+A-R04-B08-L2,A,Clothing,4,8,2,FABEGGHHGSVCHGFV,Sinina Chanderi Embroidered Salwar Suit Dupatta Material,Sinina,Clothing,11,40,27.5,Optimal,1000,11000,C-Slow,10,11/10/2026
+A-R04-B08-L3,A,Clothing,4,8,3,BRAE84GGENBAJ5DX,Zeroradius White and Black Strapless Women's Tube Bra,White,Clothing,32,40,80,Optimal,249,7968,B-Medium,26,10/25/2026
+A-R04-B08-L4,A,Clothing,4,8,4,JEAEBXFPPEKSVGFD,PuppetNx Slim Fit Boy's Jeans,Slim,Clothing,12,40,30,Optimal,845,10140,A-Fast,86,8/26/2026
+A-R04-B08-L5,A,Clothing,4,8,5,TSHE4V48699JSKU9,Okane Printed Men's Round Neck T-Shirt,Unbranded,Clothing,22,40,55,Optimal,299,6578,B-Medium,15,11/5/2026
+A-R04-B09-L1,A,Clothing,4,9,1,,,,,0,40,0,Empty,0,0,,0,
+A-R04-B09-L2,A,Clothing,4,9,2,SHTEDSV76NNTFZ4E,Mask Lifestyle Women's Printed Casual Shirt,Slim,Clothing,21,40,52.5,Optimal,475,9975,B-Medium,11,11/9/2026
+A-R04-B09-L3,A,Clothing,4,9,3,SWSE9ZHPG5FTCYSY,Sports 52 Wear Full Sleeve Solid Men's Sweatshirt,Unbranded,Clothing,25,40,62.5,Optimal,899,22475,B-Medium,110,8/2/2026
+A-R04-B09-L4,A,Clothing,4,9,4,PYJEGYHUETSHGVMW,Shaun Boy's Pyjama,Shaun,Clothing,29,40,72.5,Optimal,801,23229,B-Medium,104,8/8/2026
+A-R04-B09-L5,A,Clothing,4,9,5,NDNEGCSG2EKSBYHG,Simrit Women's Nighty,Simrit,Clothing,26,40,65,Optimal,895,23270,B-Medium,25,10/26/2026
+A-R04-B10-L1,A,Clothing,4,10,1,TSHE3EYCJ37K844S,Okane Self Design Men's Polo Neck T-Shirt,Unbranded,Clothing,8,40,20,Low Stock,330,2640,B-Medium,84,8/28/2026
+A-R04-B10-L2,A,Clothing,4,10,2,,,,,0,40,0,Empty,0,0,,0,
+A-R04-B10-L3,A,Clothing,4,10,3,DREDVC24VGNSAKFZ,Miss Chase Women's High Low Dress,Unbranded,Clothing,10,40,25,Optimal,620,6200,C-Slow,25,10/26/2026
+A-R04-B10-L4,A,Clothing,4,10,4,SWTEB56UNGUSYZH2,Status Quo Solid Round Neck Casual Men's Sweater,Unbranded,Clothing,20,40,50,Optimal,1619,32380,B-Medium,7,11/13/2026
+A-R04-B10-L5,A,Clothing,4,10,5,SWTEYZ7YNGBQATFY,Duke Striped Casual Men's Sweater,Unbranded,Clothing,25,40,62.5,Optimal,1271,31775,A-Fast,37,10/14/2026
+B-R01-B01-L1,B,Jewellery,1,1,1,NKCEGG44XAHJEPCD,Shopernow Medallions Alloy Necklace,Shopernow,Jewellery,12,40,30,Optimal,699,8388,A-Fast,23,10/28/2026
+B-R01-B01-L2,B,Jewellery,1,1,2,NKCDU4RZJCR4DRHJ,"Voylla Metal, Alloy Necklace",Voylla,Jewellery,19,40,47.5,Optimal,200,3800,C-Slow,26,10/25/2026
+B-R01-B01-L3,B,Jewellery,1,1,3,BBAEEFYGHMGZFDUP,Urthn Alloy Bangle Set,Urthn,Jewellery,12,40,30,Optimal,745,8940,B-Medium,10,11/10/2026
+B-R01-B01-L4,B,Jewellery,1,1,4,NKCEG26PMGGQWG27,Magic 22K Yellow Gold Plated Brass Chain,Magic,Jewellery,17,40,42.5,Blocked,1212,20604,C-Slow,15,11/5/2026
+B-R01-B01-L5,B,Jewellery,1,1,5,RNGEDAKAYYUNYW9P,Radiant Bay Drizzle White Gold Diamond 14 K Ring,Radiant Bay,Jewellery,33,40,82.5,Optimal,35350,1166550,B-Medium,42,10/9/2026
+B-R01-B02-L1,B,Jewellery,1,2,1,RNGE7M92W7Q2JWHU,Karatcraft Sp Bloom Yellow Gold Diamond 18 K Ring,Karatcraft,Jewellery,39,40,97.5,Overstock,15599,608361,A-Fast,105,8/7/2026
+B-R01-B02-L2,B,Jewellery,1,2,2,NKCDYQ3RMQKPZVZN,Voylla Yellow Gold Plated Alloy Necklace,Voylla,Jewellery,16,40,40,Optimal,390,6240,A-Fast,68,9/13/2026
+B-R01-B02-L3,B,Jewellery,1,2,3,RNGEBWEAGNSJF9HA,WhiteGems Fascinating Karowe Gold Diamond 18 K Ring,WhiteGems,Jewellery,13,40,32.5,Optimal,28996,376948,B-Medium,98,8/14/2026
+B-R01-B02-L4,B,Jewellery,1,2,4,RNGE2FAGANHFJF2W,Rakam Gold Diamond Yellow Gold 18 K Ring,Rakam,Jewellery,39,40,97.5,Overstock,38143,1487577,A-Fast,118,7/25/2026
+B-R01-B02-L5,B,Jewellery,1,2,5,NKCE4GF84FMT6GSM,Hawai Rings Fashion Jewellery (Golden) Alloy Necklace,Hawai,Jewellery,2,40,5,Low Stock,449,898,A-Fast,19,11/1/2026
+B-R01-B03-L1,B,Jewellery,1,3,1,NKCDYQ3RMQKPZVZN,Voylla Yellow Gold Plated Alloy Necklace,Voylla,Jewellery,39,40,97.5,Overstock,390,15210,B-Medium,69,9/12/2026
+B-R01-B03-L2,B,Jewellery,1,3,2,BCHEF5M6ECJAHRHU,"Outdazzle Designer Mustache for Men's Suit, Jackets, Shirts ",Outdazzle,Jewellery,25,40,62.5,Optimal,547,13675,C-Slow,69,9/12/2026
+B-R01-B03-L3,B,Jewellery,1,3,3,RNGEAM4MSHF34GHZ,P.N.Gadgil Jewellers Gold Diamond 18K Yellow Gold 18 K Ring,P.N.Gadgil Jewellers,Jewellery,33,40,82.5,Optimal,15530,512490,A-Fast,117,7/26/2026
+B-R01-B03-L4,B,Jewellery,1,3,4,BBAEGFCTGA8BCDTA,Dilan Jewels Alloy Zircon 18K Yellow Gold Bangle Set,Dilan Jewels,Jewellery,32,40,80,Optimal,2340,74880,A-Fast,59,9/22/2026
+B-R01-B03-L5,B,Jewellery,1,3,5,BBAE76S5FUWHZG3T,Nirosha Leather Bracelet,Nirosha,Jewellery,33,40,82.5,Optimal,249,8217,B-Medium,70,9/11/2026
+B-R01-B04-L1,B,Jewellery,1,4,1,NKCDW898UNJX5BWE,Aara Arts Shaded green Beads Alloy Necklace,Aara Arts,Jewellery,14,40,35,Optimal,660,9240,B-Medium,49,10/2/2026
+B-R01-B04-L2,B,Jewellery,1,4,2,BBADYE6HFZKJD6FG,"Mrigya Alloy, Metal Bangle Set",Mrigya,Jewellery,23,40,57.5,Optimal,399,9177,B-Medium,50,10/1/2026
+B-R01-B04-L3,B,Jewellery,1,4,3,BBAEDVQEPDVQPFWD,"Vaishali Bindi and Bangles Brass, Copper Bangle Set",Vaishali Bindi and Bangles,Jewellery,34,40,85,Blocked,249,8466,C-Slow,99,8/13/2026
+B-R01-B04-L4,B,Jewellery,1,4,4,NKCE9PFFHANGKXHZ,Jewel Paradise Brass Plated Brass Necklace,Jewel Paradise,Jewellery,11,40,27.5,Blocked,399,4389,C-Slow,87,8/25/2026
+B-R01-B04-L5,B,Jewellery,1,4,5,NKCDXEGWFZXNVNAD,Voylla Crystal Alloy Necklace,Voylla,Jewellery,29,40,72.5,Optimal,414,12006,B-Medium,6,11/14/2026
+B-R01-B05-L1,B,Jewellery,1,5,1,NKCECZFZWBDN26NY,Divine Forever Alloy Necklace,Divine Forever,Jewellery,20,40,50,Optimal,299,5980,A-Fast,60,9/21/2026
+B-R01-B05-L2,B,Jewellery,1,5,2,BBAECGVHRKGVGEHM,Jewelizer Leather Bracelet,Jewelizer,Jewellery,8,40,20,Low Stock,249,1992,B-Medium,59,9/22/2026
+B-R01-B05-L3,B,Jewellery,1,5,3,NKCE8RB5ZXQ4HGGZ,Indian Charm Bone Necklace,Indian Charm,Jewellery,19,40,47.5,Optimal,405,7695,B-Medium,84,8/28/2026
+B-R01-B05-L4,B,Jewellery,1,5,4,NKCDZHF7YJM5HBFP,Voylla Cubic Zirconia Alloy Necklace,Voylla,Jewellery,31,40,77.5,Optimal,159,4929,A-Fast,91,8/21/2026
+B-R01-B05-L5,B,Jewellery,1,5,5,NKCEBHGBEZKFGHZR,DressBerry Crystal Enamel Plated Metal Necklace,DressBerry,Jewellery,14,40,35,Optimal,224,3136,A-Fast,106,8/6/2026
+B-R01-B06-L1,B,Jewellery,1,6,1,RNGEDAK9ZYKDEFT5,Radiant Bay Five Stone Yellow Gold Diamond 14 K Ring,Radiant Bay,Jewellery,23,40,57.5,Optimal,26550,610650,B-Medium,20,10/31/2026
+B-R01-B06-L2,B,Jewellery,1,6,2,NKCEFGFURYNWH2DR,Voylla Voylla Bold And Trendy Necklace With Gold And Black B,Voylla,Jewellery,21,40,52.5,Optimal,399,8379,A-Fast,59,9/22/2026
+B-R01-B06-L3,B,Jewellery,1,6,3,NKCDYQ3RX7K2GGT5,Voylla Yellow Gold Plated Alloy Necklace,Voylla,Jewellery,39,40,97.5,Overstock,370,14430,A-Fast,7,11/13/2026
+B-R01-B06-L4,B,Jewellery,1,6,4,JWSE6KAFNXHKYHPT,Beora Angle Wings Alloy Jewel Set,Beora,Jewellery,20,40,50,Optimal,349,6980,B-Medium,28,10/23/2026
+B-R01-B06-L5,B,Jewellery,1,6,5,NKCEFZ28RPFNBRAH,"Jiya Fashion Pretties Crystal, Stainless Steel Necklace",Jiya Fashion Pretties,Jewellery,16,40,40,Optimal,300,4800,B-Medium,5,11/15/2026
+B-R01-B07-L1,B,Jewellery,1,7,1,RNGEYQZEZ8P3EMJF,JacknJewel Felicity Diamond Stone Gold 18K Yellow Gold 18 K ,JacknJewel,Jewellery,11,40,27.5,Optimal,27999,307989,C-Slow,26,10/25/2026
+B-R01-B07-L2,B,Jewellery,1,7,2,NKCEDF2ZPGYDRGXQ,"Fns Alloy, Fabric Necklace",Fns,Jewellery,10,40,25,Optimal,270,2700,C-Slow,107,8/5/2026
+B-R01-B07-L3,B,Jewellery,1,7,3,RNGEDAPSZFBHAGJY,Radiant Bay Wish Trio Yellow Gold Diamond 18 K Ring,Radiant Bay,Jewellery,30,40,75,Optimal,19559,586770,A-Fast,60,9/21/2026
+B-R01-B07-L4,B,Jewellery,1,7,4,NKCE2YCPGMPDFUPF,Voylla Cubic Zirconia Silver Plated Alloy Necklace,Voylla,Jewellery,13,40,32.5,Optimal,140,1820,C-Slow,73,9/8/2026
+B-R01-B07-L5,B,Jewellery,1,7,5,NKCE6NHRGBEHGZHB,Indian Charm Brown Beads Bone Necklace,Indian Charm,Jewellery,29,40,72.5,Optimal,359,10411,A-Fast,99,8/13/2026
+B-R01-B08-L1,B,Jewellery,1,8,1,NKCE4PZ6YXXW7SPR,Jewelizer Alloy Necklace,Jewelizer,Jewellery,9,40,22.5,Optimal,299,2691,A-Fast,84,8/28/2026
+B-R01-B08-L2,B,Jewellery,1,8,2,JWSEFR3BJZY9GM9Y,Dancing Girl Alloy Jewel Set,Dancing Girl,Jewellery,6,40,15,Low Stock,799,4794,B-Medium,85,8/27/2026
+B-R01-B08-L3,B,Jewellery,1,8,3,RNGE7M92HQECSUYG,Karatcraft Lynne Yellow Gold Diamond 18 K Ring,Karatcraft,Jewellery,37,40,92.5,Overstock,23286,861582,C-Slow,4,11/16/2026
+B-R01-B08-L4,B,Jewellery,1,8,4,ERGE44U9QGSFRFGT,Pearl Paradise Elements Swarovski Crystal Stone Dangle Earri,Pearl Paradise,Jewellery,4,40,10,Low Stock,1242,4968,B-Medium,59,9/22/2026
+B-R01-B08-L5,B,Jewellery,1,8,5,RNGE9B79KRZG5UWK,GB Jewellery Charming Alloy Cubic Zirconia Yellow Gold Ring,GB Jewellery,Jewellery,18,40,45,Optimal,399,7182,C-Slow,89,8/23/2026
+B-R01-B09-L1,B,Jewellery,1,9,1,BCHEEYZYHGZ5W6SX,Anuradha Art Designer Brooch,Anuradha Art,Jewellery,8,40,20,Low Stock,375,3000,B-Medium,111,8/1/2026
+B-R01-B09-L2,B,Jewellery,1,9,2,JWSEBZNZJ95BR6SJ,Voylla Alloy Jewel Set,Voylla,Jewellery,29,40,72.5,Optimal,783,22707,C-Slow,108,8/4/2026
+B-R01-B09-L3,B,Jewellery,1,9,3,NKCECZKQGZXVZ2RY,A M International Alloy Necklace,A M International,Jewellery,19,40,47.5,Optimal,555,10545,C-Slow,37,10/14/2026
+B-R01-B09-L4,B,Jewellery,1,9,4,BBAEFG3B7FV7JBNZ,YugshaJewels Silver Ruby Rhodium Bracelet,YugshaJewels,Jewellery,17,40,42.5,Optimal,5999,101983,B-Medium,113,7/30/2026
+B-R01-B09-L5,B,Jewellery,1,9,5,NKCE8SESAZ4K8HZC,Ziveg Alloy Necklace,Ziveg,Jewellery,31,40,77.5,Optimal,449,13919,B-Medium,11,11/9/2026
+B-R01-B10-L1,B,Jewellery,1,10,1,NKCE2F5HAT2RPJEY,Jewelizer Crystal Alloy Necklace,Jewelizer,Jewellery,6,40,15,Low Stock,499,2994,A-Fast,52,9/29/2026
+B-R01-B10-L2,B,Jewellery,1,10,2,,,,,0,40,0,Empty,0,0,,0,
+B-R01-B10-L3,B,Jewellery,1,10,3,RNGE7GVYEFVQKHAM,Karatcraft Ribbon Knot Yellow Gold Diamond 18 K Ring,Karatcraft,Jewellery,20,40,50,Optimal,29190,583800,C-Slow,81,8/31/2026
+B-R01-B10-L4,B,Jewellery,1,10,4,NKCEANMPAJGAFRPZ,Fashion Jewellery Alloy Necklace,Fashion Jewellery,Jewellery,11,40,27.5,Optimal,239,2629,B-Medium,61,9/20/2026
+B-R01-B10-L5,B,Jewellery,1,10,5,NKCEAGXHK66GHUGP,Galz4ever Antique Colour Bead Alloy Necklace,Galz4ever,Jewellery,28,40,70,Optimal,249,6972,B-Medium,45,10/6/2026
+B-R02-B01-L1,B,Jewellery,2,1,1,JWSDVGJBFEBFZZWQ,Pretty Women Alloy Jewel Set,Pretty Women,Jewellery,9,40,22.5,Optimal,595,5355,C-Slow,31,10/20/2026
+B-R02-B01-L2,B,Jewellery,2,1,2,NKCDWBPZTRZJTVR2,"Voylla Metal, Alloy Necklace",Voylla,Jewellery,13,40,32.5,Optimal,360,4680,B-Medium,36,10/15/2026
+B-R02-B01-L3,B,Jewellery,2,1,3,,,,,0,40,0,Empty,0,0,,0,
+B-R02-B01-L4,B,Jewellery,2,1,4,NKCEDF2ZPGYDRGXQ,"Fns Alloy, Fabric Necklace",Fns,Jewellery,38,40,95,Overstock,270,10260,B-Medium,31,10/20/2026
+B-R02-B01-L5,B,Jewellery,2,1,5,RNGEDAPYKMVRHUEB,Radiant Bay Princess to Be White Gold Diamond 18 K Ring,Radiant Bay,Jewellery,25,40,62.5,Optimal,25602,640050,C-Slow,92,8/20/2026
+B-R02-B02-L1,B,Jewellery,2,2,1,NKCE6KGHUEVNGVZJ,Voylla Artifictial Jali Enamel Alloy Necklace,Voylla,Jewellery,23,40,57.5,Blocked,421,9683,A-Fast,117,7/26/2026
+B-R02-B02-L2,B,Jewellery,2,2,2,RNGE7M92FWMWGPHD,Karatcraft Zetra Yellow Gold Diamond 18 K Ring,Karatcraft,Jewellery,9,40,22.5,Optimal,30842,277578,B-Medium,23,10/28/2026
+B-R02-B02-L3,B,Jewellery,2,2,3,JWSDXV8PQAGRPUFH,Voylla Alloy Jewel Set,Voylla,Jewellery,3,40,7.5,Low Stock,530,1590,C-Slow,119,7/24/2026
+B-R02-B02-L4,B,Jewellery,2,2,4,,,,,0,40,0,Empty,0,0,,0,
+B-R02-B02-L5,B,Jewellery,2,2,5,NKCEA7TVVNXCK6BB,Harini Crystal Yellow Gold Plated Alloy Necklace,Harini,Jewellery,12,40,30,Optimal,330,3960,B-Medium,85,8/27/2026
+B-R02-B03-L1,B,Jewellery,2,3,1,BBAE8JJH2F47KTHD,Kuhuk Plastic Bangle Set,Kuhuk,Jewellery,2,40,5,Low Stock,388,776,B-Medium,47,10/4/2026
+B-R02-B03-L2,B,Jewellery,2,3,2,RNGEBUDN25RXMZAZ,"KuberBox Sortilège Pearl Gold Diamond, Pearl 14K White Gold ",KuberBox,Jewellery,31,40,77.5,Blocked,26054,807674,B-Medium,25,10/26/2026
+B-R02-B03-L3,B,Jewellery,2,3,3,NKCEASCZGVMSHYZZ,Greek Sojourn Enamel Plated Ceramic Necklace,Greek Sojourn,Jewellery,3,40,7.5,Blocked,499,1497,B-Medium,27,10/24/2026
+B-R02-B03-L4,B,Jewellery,2,3,4,BBADZUEQ65WVS6FG,Harp Metal Cuff,Harp,Jewellery,24,40,60,Optimal,450,10800,A-Fast,86,8/26/2026
+B-R02-B03-L5,B,Jewellery,2,3,5,NKCECFF6WBAYGMSG,Herbal Jewellery Cotton Dori Necklace,Herbal Jewellery,Jewellery,39,40,97.5,Overstock,499,19461,B-Medium,79,9/2/2026
+B-R02-B04-L1,B,Jewellery,2,4,1,BBADXFQG5SQPQ52G,Pearlz Ocean Alloy Bracelet,Pearlz Ocean,Jewellery,36,40,90,Blocked,299,10764,A-Fast,39,10/12/2026
+B-R02-B04-L2,B,Jewellery,2,4,2,JWSECG6Z6HEAHDC4,Voylla Alloy Jewel Set,Voylla,Jewellery,2,40,5,Low Stock,669,1338,B-Medium,14,11/6/2026
+B-R02-B04-L3,B,Jewellery,2,4,3,NKCEBGPNHHCBGME2,Aaishwarya Offwhite Irregulare Shapes Alloy Necklace,Aaishwarya,Jewellery,12,40,30,Blocked,559,6708,C-Slow,19,11/1/2026
+B-R02-B04-L4,B,Jewellery,2,4,4,NKCEDAN8ZMVMTDMB,Fashionite A Very Stylish Plastic Bead With Golden Chain Met,Fashionite,Jewellery,14,40,35,Optimal,499,6986,C-Slow,22,10/29/2026
+B-R02-B04-L5,B,Jewellery,2,4,5,RNGDXJ5UVGSEGHGQ,Jewelhub 18k Hallmark & VS-G Diamond Gold 18 K Ring,Jewelhub,Jewellery,6,40,15,Low Stock,16781,100686,B-Medium,66,9/15/2026
+B-R02-B05-L1,B,Jewellery,2,5,1,JWSEEGTJUZTQAMUZ,Terracotta Terracotta Jewel Set,Terracotta,Jewellery,12,40,30,Blocked,500,6000,C-Slow,28,10/23/2026
+B-R02-B05-L2,B,Jewellery,2,5,2,BCHEGAPMNHUGG233,Avaron projekt Bow With Pearl Detailing Brooch,Avaron projekt,Jewellery,37,40,92.5,Overstock,699,25863,B-Medium,77,9/4/2026
+B-R02-B05-L3,B,Jewellery,2,5,3,,,,,0,40,0,Empty,0,0,,0,
+B-R02-B05-L4,B,Jewellery,2,5,4,,,,,0,40,0,Empty,0,0,,0,
+B-R02-B05-L5,B,Jewellery,2,5,5,NKCE4VA4M2ZKZGUY,JDX Alloy Necklace,JDX,Jewellery,29,40,72.5,Optimal,299,8671,C-Slow,97,8/15/2026
+B-R02-B06-L1,B,Jewellery,2,6,1,RNGE7GVYAFKAAZXN,Karatcraft Lyncis Yellow Gold Diamond 18 K Ring,Karatcraft,Jewellery,27,40,67.5,Optimal,30611,826497,A-Fast,22,10/29/2026
+B-R02-B06-L2,B,Jewellery,2,6,2,NKCECQYZEHSGRYBT,Hotpiper Designer White Yellow Gold Plated Acrylic Necklace,Hotpiper,Jewellery,40,40,100,Overstock,475,19000,C-Slow,101,8/11/2026
+B-R02-B06-L3,B,Jewellery,2,6,3,NKCEAVZ3QEWNHQNR,Willmore Bone Choker,Willmore,Jewellery,37,40,92.5,Overstock,250,9250,B-Medium,38,10/13/2026
+B-R02-B06-L4,B,Jewellery,2,6,4,,,,,0,40,0,Empty,0,0,,0,
+B-R02-B06-L5,B,Jewellery,2,6,5,NKCE6UWH3WCEYB79,Fashionzaadi Geometric Alloy Necklace,Fashionzaadi,Jewellery,10,40,25,Optimal,199,1990,B-Medium,86,8/26/2026
+B-R02-B07-L1,B,Jewellery,2,7,1,ERGE3E2SFXBEN7HP,"Sukkhi Lavish Yellow Gold, Rhodium Alloy Jhumki Earring",Sukkhi,Jewellery,36,40,90,Overstock,501,18036,B-Medium,120,7/23/2026
+B-R02-B07-L2,B,Jewellery,2,7,2,NKCDYPDS8THDBS7K,GoldNera Brass Chain,GoldNera,Jewellery,19,40,47.5,Optimal,299,5681,A-Fast,61,9/20/2026
+B-R02-B07-L3,B,Jewellery,2,7,3,,,,,0,40,0,Empty,0,0,,0,
+B-R02-B07-L4,B,Jewellery,2,7,4,JWSECGFUDCQNHYRH,Voylla Alloy Jewel Set,Voylla,Jewellery,30,40,75,Optimal,669,20070,B-Medium,7,11/13/2026
+B-R02-B07-L5,B,Jewellery,2,7,5,BBAE9S9FAADRB9MC,Kuhuk Plastic Bangle Set,Kuhuk,Jewellery,18,40,45,Optimal,440,7920,C-Slow,111,8/1/2026
+B-R02-B08-L1,B,Jewellery,2,8,1,BBAEAFBA9PMBVZH4,Vidhya Kangan Acrylic Enamel Bangle Set,Vidhya Kangan,Jewellery,27,40,67.5,Optimal,250,6750,B-Medium,19,11/1/2026
+B-R02-B08-L2,B,Jewellery,2,8,2,BBADSEZDTFDW6BPD,925 Silver Alloy Silver Bracelet,925 Silver,Jewellery,26,40,65,Optimal,1498,38948,B-Medium,116,7/27/2026
+B-R02-B08-L3,B,Jewellery,2,8,3,RNGDQSVDZEPAGZSN,BlueStone The Supra White Gold Diamond 18 K Ring,BlueStone,Jewellery,18,40,45,Optimal,29927,538686,A-Fast,99,8/13/2026
+B-R02-B08-L4,B,Jewellery,2,8,4,JWSECGFUDCQNHYRH,Voylla Alloy Jewel Set,Voylla,Jewellery,9,40,22.5,Optimal,669,6021,C-Slow,38,10/13/2026
+B-R02-B08-L5,B,Jewellery,2,8,5,NKCE2F5HAT2RPJEY,Jewelizer Crystal Alloy Necklace,Jewelizer,Jewellery,11,40,27.5,Optimal,499,5489,B-Medium,7,11/13/2026
+B-R02-B09-L1,B,Jewellery,2,9,1,NKCE9PFFJHGX23NG,Jewel Paradise Brass Plated Brass Necklace,Jewel Paradise,Jewellery,4,40,10,Low Stock,399,1596,A-Fast,65,9/16/2026
+B-R02-B09-L2,B,Jewellery,2,9,2,NKCDWBRYRTQZUS5S,"VR Designers Glass, Metal Necklace",VR Designers,Jewellery,30,40,75,Optimal,230,6900,B-Medium,46,10/5/2026
+B-R02-B09-L3,B,Jewellery,2,9,3,JWSE7Q2JFBKVSFSK,Vatsalya Creation Traditional Alloy Jewel Set,Vatsalya Creation,Jewellery,27,40,67.5,Optimal,900,24300,C-Slow,112,7/31/2026
+B-R02-B09-L4,B,Jewellery,2,9,4,NKCDU4RZJCR4DRHJ,"Voylla Metal, Alloy Necklace",Voylla,Jewellery,39,40,97.5,Overstock,200,7800,B-Medium,60,9/21/2026
+B-R02-B09-L5,B,Jewellery,2,9,5,RNGE88Q9VZYCC8VT,Karatcraft Trimaya Eternity Gold Diamond 18 K Ring,Karatcraft,Jewellery,13,40,32.5,Optimal,35995,467935,B-Medium,70,9/11/2026
+B-R02-B10-L1,B,Jewellery,2,10,1,RNGE7GVY3VFVAF6X,Karatcraft Scalaria Yellow Gold Diamond 18 K Ring,Karatcraft,Jewellery,26,40,65,Optimal,26675,693550,B-Medium,41,10/10/2026
+B-R02-B10-L2,B,Jewellery,2,10,2,BCHEGFZ8KKS5549R,Anuradha Art Antique Golden Polished Brooch,Anuradha Art,Jewellery,4,40,10,Low Stock,450,1800,B-Medium,33,10/18/2026
+B-R02-B10-L3,B,Jewellery,2,10,3,RNGE7GVYBJSFESSJ,Karatcraft Esperanza Yellow Gold Diamond 18 K Ring,Karatcraft,Jewellery,38,40,95,Overstock,27470,1043860,A-Fast,43,10/8/2026
+B-R02-B10-L4,B,Jewellery,2,10,4,NKCE9YFB8UHTCAPF,Fashion Jewellery Alloy Necklace,Fashion Jewellery,Jewellery,26,40,65,Optimal,239,6214,C-Slow,9,11/11/2026
+B-R02-B10-L5,B,Jewellery,2,10,5,NKCED2ZGYUHRCCHF,Zakaah Jewels Sterling Silver Plated Stone Necklace,Zakaah Jewels,Jewellery,19,40,47.5,Optimal,499,9481,C-Slow,118,7/25/2026
+B-R03-B01-L1,B,Jewellery,3,1,1,RNGEDF5HYMYZBJAG,Karatcraft Lilac Gold Diamond 18 K Ring,Karatcraft,Jewellery,8,40,20,Low Stock,32640,261120,A-Fast,21,10/30/2026
+B-R03-B01-L2,B,Jewellery,3,1,2,BBAE4CP64NZGRGEK,Eclat Brass Rhodium Bracelet,Eclat,Jewellery,12,40,30,Optimal,899,10788,B-Medium,106,8/6/2026
+B-R03-B01-L3,B,Jewellery,3,1,3,NKCEGE6VUFPSFVZW,Imagica Emerald Stone Necklace,Imagica,Jewellery,9,40,22.5,Optimal,599,5391,B-Medium,6,11/14/2026
+B-R03-B01-L4,B,Jewellery,3,1,4,NKCEA5FHAKKSQCK7,Galz4ever Blue Beaded Drop Chain Fashion Alloy Necklace,Galz4ever,Jewellery,15,40,37.5,Optimal,399,5985,C-Slow,16,11/4/2026
+B-R03-B01-L5,B,Jewellery,3,1,5,RNGE7GVYHYXZZJDQ,Karatcraft Vinea Yellow Gold Diamond 18 K Ring,Karatcraft,Jewellery,7,40,17.5,Low Stock,27786,194502,B-Medium,112,7/31/2026
+B-R03-B02-L1,B,Jewellery,3,2,1,RNGEYFH68YRGQUWT,WearYourShine by PCJ The Radelle Diamond Gold Diamond Yellow,WearYourShine by PCJ,Jewellery,39,40,97.5,Overstock,31673,1235247,B-Medium,23,10/28/2026
+B-R03-B02-L2,B,Jewellery,3,2,2,NKCEAPCYJZYZXDKZ,Aaradhi Divya Mantra Turquoise Gemstone For Wealth and Posit,Aaradhi,Jewellery,18,40,45,Optimal,699,12582,C-Slow,84,8/28/2026
+B-R03-B02-L3,B,Jewellery,3,2,3,NKCDWBPZVFY7H9UY,"Voylla Metal, Alloy Necklace",Voylla,Jewellery,32,40,80,Optimal,352,11264,B-Medium,48,10/3/2026
+B-R03-B02-L4,B,Jewellery,3,2,4,BBAECARBVWVQGCZX,Indoart Acrylic Cubic Zirconia Chudas,Indoart,Jewellery,11,40,27.5,Optimal,595,6545,B-Medium,52,9/29/2026
+B-R03-B02-L5,B,Jewellery,3,2,5,RNGEC8PZZSVJF59G,Fullcutdiamond FCDR7203R Yellow Gold Diamond 18K Yellow Gold,Fullcutdiamond,Jewellery,20,40,50,Optimal,32137,642740,B-Medium,48,10/3/2026
+B-R03-B03-L1,B,Jewellery,3,3,1,JWSDU5SDFJVVBEGC,Utsavi Alloy Jewel Set,Utsavi,Jewellery,28,40,70,Optimal,449,12572,A-Fast,98,8/14/2026
+B-R03-B03-L2,B,Jewellery,3,3,2,BCHEHYUKDZZPZBH2,JUHI CREATIONS GW2 Brooch,JUHI CREATIONS,Jewellery,12,40,30,Optimal,300,3600,B-Medium,4,11/16/2026
+B-R03-B03-L3,B,Jewellery,3,3,3,BCHEGTZFDWMDGEJB,Scion Floral Saree Pin Quilling Brooch,Scion,Jewellery,2,40,5,Low Stock,120,240,A-Fast,82,8/30/2026
+B-R03-B03-L4,B,Jewellery,3,3,4,NKCDU4RZFY7GYGHF,"Voylla Metal, Alloy Necklace",Voylla,Jewellery,23,40,57.5,Blocked,478,10994,B-Medium,57,9/24/2026
+B-R03-B03-L5,B,Jewellery,3,3,5,BBAE4BR6QAUEK73K,"Sparkle Street Brass, Enamel Bangle Set",Sparkle Street,Jewellery,6,40,15,Low Stock,1125,6750,C-Slow,98,8/14/2026
+B-R03-B04-L1,B,Jewellery,3,4,1,RNGDQSVDZFVDFNDV,BlueStone The Tahira White Gold Diamond 18 K Ring,BlueStone,Jewellery,20,40,50,Optimal,28543,570860,B-Medium,17,11/3/2026
+B-R03-B04-L2,B,Jewellery,3,4,2,NKCE49ATFAUMZ8Z7,Indian Fashion Guru Artificial Jewellery Ceramic Necklace,Indian Fashion Guru,Jewellery,18,40,45,Optimal,299,5382,B-Medium,108,8/4/2026
+B-R03-B04-L3,B,Jewellery,3,4,3,BBAEAKYFXTAFYY8Y,Payalwala Princess Delight Alloy Silver Bracelet,Payalwala,Jewellery,30,40,75,Optimal,499,14970,B-Medium,14,11/6/2026
+B-R03-B04-L4,B,Jewellery,3,4,4,NKCEBHGBGFDE2QCG,DressBerry Crystal Enamel Plated Metal Necklace,DressBerry,Jewellery,30,40,75,Optimal,404,12120,C-Slow,100,8/12/2026
+B-R03-B04-L5,B,Jewellery,3,4,5,NKCEBG9BWANRRRS2,Dhrohar Black and Gold Tone Rose Gold Plated Alloy Necklace,Dhrohar,Jewellery,32,40,80,Optimal,449,14368,B-Medium,51,9/30/2026
+B-R03-B05-L1,B,Jewellery,3,5,1,ANKEGPVMFV9BJBJM,Wise Pebble Stylish Alloy Anklet,Wise Pebble,Jewellery,8,40,20,Low Stock,383,3064,C-Slow,100,8/12/2026
+B-R03-B05-L2,B,Jewellery,3,5,2,BBADVZCAZQWTNWYF,Sukkhi Zinc Rhodium Bangle,Sukkhi,Jewellery,17,40,42.5,Optimal,479,8143,B-Medium,105,8/7/2026
+B-R03-B05-L3,B,Jewellery,3,5,3,BBAEDSHVNWG3EZEZ,Lamika Creations Alloy Bracelet,Lamika Creations,Jewellery,13,40,32.5,Optimal,399,5187,B-Medium,116,7/27/2026
+B-R03-B05-L4,B,Jewellery,3,5,4,BBAE7C7JERSTNYNH,Trinketbag Alloy Bangle,Trinketbag,Jewellery,37,40,92.5,Overstock,349,12913,C-Slow,50,10/1/2026
+B-R03-B05-L5,B,Jewellery,3,5,5,NKCE7MMGF4PPGNA6,"UpTown Metal, Alloy Necklace",UpTown,Jewellery,3,40,7.5,Low Stock,450,1350,B-Medium,12,11/8/2026
+B-R03-B06-L1,B,Jewellery,3,6,1,RNGEH3ESZASB7FHM,Manirathnum Pearl Gemstone Silver Ring Sterling Silver Pearl,Manirathnum,Jewellery,37,40,92.5,Blocked,450,16650,A-Fast,60,9/21/2026
+B-R03-B06-L2,B,Jewellery,3,6,2,RNGEC89ZYATB76JX,Diti Jewellery Stately Platinum Diamond Ring,Diti Jewellery,Jewellery,9,40,22.5,Optimal,27300,245700,B-Medium,64,9/17/2026
+B-R03-B06-L3,B,Jewellery,3,6,3,NKCEBMDCVPMF2GTX,Hotpiper Beautiful Cubic Zirconia Yellow Gold Plated Acrylic,Hotpiper,Jewellery,8,40,20,Low Stock,490,3920,C-Slow,99,8/13/2026
+B-R03-B06-L4,B,Jewellery,3,6,4,BBAEDZHYZMSMVVTY,Viva Fashions Alloy Pearl Rhodium Bangle Set,Viva Fashions,Jewellery,24,40,60,Optimal,750,18000,B-Medium,53,9/28/2026
+B-R03-B06-L5,B,Jewellery,3,6,5,RNGEFP2XDHURBWYP,Clara Certified Katela 6.5 cts or 7.25 ratti Elegant Sterlin,Clara,Jewellery,17,40,42.5,Optimal,2360,40120,C-Slow,15,11/5/2026
+B-R03-B07-L1,B,Jewellery,3,7,1,NKCDYPDSHYHZV6VZ,GoldNera Brass Chain,GoldNera,Jewellery,13,40,32.5,Optimal,299,3887,B-Medium,32,10/19/2026
+B-R03-B07-L2,B,Jewellery,3,7,2,RNGEA9ZXYKAZPEGD,BlueStone The Morning Glory Band White Gold Diamond 18 K Rin,BlueStone,Jewellery,40,40,100,Overstock,36576,1463040,A-Fast,10,11/10/2026
+B-R03-B07-L3,B,Jewellery,3,7,3,BCHEG9K9WW28QZBH,Silver Shoppee Valentine Special Brooch,Silver Shoppee,Jewellery,19,40,47.5,Optimal,620,11780,B-Medium,25,10/26/2026
+B-R03-B07-L4,B,Jewellery,3,7,4,NKCE6ADEFJSNNB89,Voylla Artifictial Classic Plain Yellow Gold Plated Alloy Ne,Voylla,Jewellery,28,40,70,Optimal,263,7364,C-Slow,66,9/15/2026
+B-R03-B07-L5,B,Jewellery,3,7,5,BCHEF5MAVC8GEXTA,"Outdazzle Designer Scorpio for Men's Suit, Jackets, Shirts &",Outdazzle,Jewellery,4,40,10,Low Stock,547,2188,C-Slow,115,7/28/2026
+B-R03-B08-L1,B,Jewellery,3,8,1,BCHEG2BGEXDJDHFT,Anuradha Art Silver Polished Brooch,Anuradha Art,Jewellery,3,40,7.5,Low Stock,275,825,A-Fast,93,8/19/2026
+B-R03-B08-L2,B,Jewellery,3,8,2,NKCE6GJ5JHFKSM6T,GoldNera Alloy Necklace,GoldNera,Jewellery,24,40,60,Optimal,499,11976,C-Slow,66,9/15/2026
+B-R03-B08-L3,B,Jewellery,3,8,3,BBAEB64FHHFVTZ6N,Dazzle Collections Alloy Bracelet,Dazzle Collections,Jewellery,19,40,47.5,Optimal,229,4351,C-Slow,7,11/13/2026
+B-R03-B08-L4,B,Jewellery,3,8,4,NKCECGT3NM7QF8WE,Ickor Copper Plated Copper Necklace,Ickor,Jewellery,12,40,30,Optimal,299,3588,B-Medium,107,8/5/2026
+B-R03-B08-L5,B,Jewellery,3,8,5,NKCE9PFFXGMFX5PB,Jewel Paradise Brass Plated Brass Necklace,Jewel Paradise,Jewellery,10,40,25,Optimal,399,3990,A-Fast,112,7/31/2026
+B-R03-B09-L1,B,Jewellery,3,9,1,NKCECPQAGXHB56HY,Gene Shoppiee Enamel Plated Alloy Necklace,Gene Shoppiee,Jewellery,16,40,40,Optimal,199,3184,B-Medium,105,8/7/2026
+B-R03-B09-L2,B,Jewellery,3,9,2,RNGDQSVDUZFH8J5P,"BlueStone The Bougainvillea White Gold Sapphire, Diamond 18 ",BlueStone,Jewellery,37,40,92.5,Overstock,35529,1314573,C-Slow,92,8/20/2026
+B-R03-B09-L3,B,Jewellery,3,9,3,RNGE53GCZDR54FAA,Jisha Rhythm Of Love Gold Diamond 14 K Ring,Jisha,Jewellery,5,40,12.5,Low Stock,37551,187755,C-Slow,12,11/8/2026
+B-R03-B09-L4,B,Jewellery,3,9,4,NKCEAVZ3FCDEUZHG,Gift Island Alloy Necklace,Gift Island,Jewellery,23,40,57.5,Optimal,399,9177,B-Medium,7,11/13/2026
+B-R03-B09-L5,B,Jewellery,3,9,5,NKCE5TFVHZDZTAYH,IESD Metal Necklace,IESD,Jewellery,24,40,60,Optimal,320,7680,C-Slow,47,10/4/2026
+B-R03-B10-L1,B,Jewellery,3,10,1,BCHEG2BGR3FYMQ5Z,Anuradha Art Silver Polished Brooch,Anuradha Art,Jewellery,19,40,47.5,Optimal,650,12350,B-Medium,49,10/2/2026
+B-R03-B10-L2,B,Jewellery,3,10,2,NKCE8W9KCSRHGZEP,Zaisch Mother of Pearl Necklace,Zaisch,Jewellery,29,40,72.5,Optimal,349,10121,C-Slow,91,8/21/2026
+B-R03-B10-L3,B,Jewellery,3,10,3,NKCEAJP6W76CRZXU,Galz4ever White & Bead Alloy Necklace,Galz4ever,Jewellery,3,40,7.5,Low Stock,229,687,B-Medium,116,7/27/2026
+B-R03-B10-L4,B,Jewellery,3,10,4,NKCE5QGTUCGYNZZ5,Joyeria Milan Orange And Black Beaded Resin Necklace,Joyeria Milan,Jewellery,34,40,85,Optimal,499,16966,C-Slow,118,7/25/2026
+B-R03-B10-L5,B,Jewellery,3,10,5,NKCDYPDSHYHZV6VZ,GoldNera Brass Chain,GoldNera,Jewellery,25,40,62.5,Optimal,299,7475,A-Fast,62,9/19/2026
+B-R04-B01-L1,B,Jewellery,4,1,1,NKCED6EXHFFHUFEW,Jadoo Collections Alloy Necklace,Jadoo Collections,Jewellery,4,40,10,Low Stock,399,1596,C-Slow,55,9/26/2026
+B-R04-B01-L2,B,Jewellery,4,1,2,BBAECYHFGYUNRWXU,99HomeMart Metal Cubic Zirconia Bangle,99HomeMart,Jewellery,8,40,20,Low Stock,689,5512,C-Slow,16,11/4/2026
+B-R04-B01-L3,B,Jewellery,4,1,3,NKCE2F5HAT2RPJEY,Jewelizer Crystal Alloy Necklace,Jewelizer,Jewellery,6,40,15,Low Stock,499,2994,A-Fast,59,9/22/2026
+B-R04-B01-L4,B,Jewellery,4,1,4,NKCE9YFBBNJ82UVB,Fashion Jewellery Alloy Necklace,Fashion Jewellery,Jewellery,4,40,10,Low Stock,239,956,C-Slow,77,9/4/2026
+B-R04-B01-L5,B,Jewellery,4,1,5,NKCECC6EY68FVVNF,Voylla Artificial Classic Plain Yellow Gold Plated Alloy Nec,Voylla,Jewellery,8,40,20,Low Stock,349,2792,B-Medium,78,9/3/2026
+B-R04-B02-L1,B,Jewellery,4,2,1,NKCE8RB5ZXQ4HGGZ,Indian Charm Bone Necklace,Indian Charm,Jewellery,39,40,97.5,Overstock,405,15795,B-Medium,11,11/9/2026
+B-R04-B02-L2,B,Jewellery,4,2,2,NKCE9G2AFPSFBUBS,Voylla Artificial Simplicity Plain Crystal Silver Plated All,Voylla,Jewellery,17,40,42.5,Optimal,279,4743,B-Medium,100,8/12/2026
+B-R04-B02-L3,B,Jewellery,4,2,3,NKCEB98TFGDFKT9G,Eshoppee One Direction Alloy Necklace,Eshoppee,Jewellery,6,40,15,Low Stock,239,1434,A-Fast,112,7/31/2026
+B-R04-B02-L4,B,Jewellery,4,2,4,RNGEDAQ3YZH3WJHW,Radiant Bay Modish Yellow Gold Diamond 14 K Ring,Radiant Bay,Jewellery,5,40,12.5,Low Stock,32979,164895,B-Medium,18,11/2/2026
+B-R04-B02-L5,B,Jewellery,4,2,5,RNGE9HDAS6JR3G32,BlueStone The Apolonius Yellow Gold Diamond 18 K Ring,BlueStone,Jewellery,21,40,52.5,Optimal,37014,777294,C-Slow,108,8/4/2026
+B-R04-B03-L1,B,Jewellery,4,3,1,BBAECWEYQEARSJFB,Kalaai Lac Bangle Set,Kalaai,Jewellery,2,40,5,Low Stock,725,1450,C-Slow,32,10/19/2026
+B-R04-B03-L2,B,Jewellery,4,3,2,NKCE7B6T9H36HZGH,Gia Plastic Necklace,Gia,Jewellery,23,40,57.5,Optimal,249,5727,C-Slow,8,11/12/2026
+B-R04-B03-L3,B,Jewellery,4,3,3,NRSEGS9MVZYYGVJE,Radhesh Creation Crystal Yellow Gold Plated Brass Nathiya,Radhesh Creation,Jewellery,39,40,97.5,Overstock,525,20475,C-Slow,55,9/26/2026
+B-R04-B03-L4,B,Jewellery,4,3,4,RNGE7GVYRZNSZGZN,Karatcraft Einser Yellow Gold Diamond 18 K Ring,Karatcraft,Jewellery,39,40,97.5,Overstock,29380,1145820,A-Fast,44,10/7/2026
+B-R04-B03-L5,B,Jewellery,4,3,5,BBAEE8A9A2TAUQQ2,Zaveri Pearls Zinc 18K Yellow Gold Bangle,Zaveri Pearls,Jewellery,7,40,17.5,Low Stock,990,6930,C-Slow,82,8/30/2026
+B-R04-B04-L1,B,Jewellery,4,4,1,NKCE9GY4ZH4Q4K69,Fashion Era Metal Necklace,Fashion Era,Jewellery,3,40,7.5,Low Stock,199,597,C-Slow,63,9/18/2026
+B-R04-B04-L2,B,Jewellery,4,4,2,NKCE966EN2EBAFMH,Jewel Touch Spiritual Gold Double Leaf Shape Alloy Necklace,Jewel Touch,Jewellery,40,40,100,Overstock,299,11960,B-Medium,95,8/17/2026
+B-R04-B04-L3,B,Jewellery,4,4,3,BBAEAXFQHHMF3EYZ,Riana Copper Copper Bangle,Riana,Jewellery,31,40,77.5,Optimal,649,20119,C-Slow,16,11/4/2026
+B-R04-B04-L4,B,Jewellery,4,4,4,NKCE8HSQJQBPRSGY,Itzmyfashion Alloy Necklace,Itzmyfashion,Jewellery,2,40,5,Low Stock,399,798,B-Medium,92,8/20/2026
+B-R04-B04-L5,B,Jewellery,4,4,5,BBAE9VRNE9E9NFMZ,Knighthood Alloy Bracelet,Knighthood,Jewellery,29,40,72.5,Optimal,699,20271,A-Fast,88,8/24/2026
+B-R04-B05-L1,B,Jewellery,4,5,1,NKCE9PFFFSGMMHZA,Jewel Paradise Brass Plated Brass Necklace,Jewel Paradise,Jewellery,21,40,52.5,Blocked,399,8379,B-Medium,46,10/5/2026
+B-R04-B05-L2,B,Jewellery,4,5,2,JWSDXV8PZQXWKY2A,Voylla Alloy Jewel Set,Voylla,Jewellery,35,40,87.5,Optimal,590,20650,B-Medium,79,9/2/2026
+B-R04-B05-L3,B,Jewellery,4,5,3,,,,,0,40,0,Empty,0,0,,0,
+B-R04-B05-L4,B,Jewellery,4,5,4,NKCEBUG2XMBRJDGV,Voylla Artificial Classic Oxidised Silver Plated Alloy Neckl,Voylla,Jewellery,34,40,85,Optimal,431,14654,B-Medium,15,11/5/2026
+B-R04-B05-L5,B,Jewellery,4,5,5,,,,,0,40,0,Empty,0,0,,0,
+B-R04-B06-L1,B,Jewellery,4,6,1,BBAE5GMYFGAVM4X4,Kuhuk Plastic Bangle Set,Kuhuk,Jewellery,22,40,55,Optimal,300,6600,B-Medium,50,10/1/2026
+B-R04-B06-L2,B,Jewellery,4,6,2,NKCEAFM7UZG85XFJ,"Village Handicrafts Rose Gold Plated Glass, Metal, Stone Nec",Village Handicrafts,Jewellery,38,40,95,Overstock,441,16758,B-Medium,53,9/28/2026
+B-R04-B06-L3,B,Jewellery,4,6,3,RNGE7GVZCPHUFFRT,Karatcraft Two leaves Yellow Gold Diamond 18 K Ring,Karatcraft,Jewellery,13,40,32.5,Blocked,29156,379028,C-Slow,85,8/27/2026
+B-R04-B06-L4,B,Jewellery,4,6,4,,,,,0,40,0,Empty,0,0,,0,
+B-R04-B06-L5,B,Jewellery,4,6,5,RNGDX7UXPY96DH4G,Shashvat Jewels Yellow Gold Diamond 14 K Ring,Shashvat Jewels,Jewellery,18,40,45,Optimal,36363,654534,B-Medium,56,9/25/2026
+B-R04-B07-L1,B,Jewellery,4,7,1,NKCE9AZMZQVFTVJ2,ETTI Metal Necklace,ETTI,Jewellery,40,40,100,Overstock,199,7960,B-Medium,59,9/22/2026
+B-R04-B07-L2,B,Jewellery,4,7,2,BBAECPQAHY5U8C9D,Gene Shoppiee Metal Bangle,Gene Shoppiee,Jewellery,20,40,50,Optimal,119,2380,B-Medium,57,9/24/2026
+B-R04-B07-L3,B,Jewellery,4,7,3,BCHEHYUH8K4NQBJD,Anuradha Art Chabi Challa Brooch,Anuradha Art,Jewellery,21,40,52.5,Optimal,1550,32550,A-Fast,109,8/3/2026
+B-R04-B07-L4,B,Jewellery,4,7,4,NKCE966EZXUGCQRJ,Jewel Touch Bright Sapphire Scale Shape Design Alloy Necklac,Jewel Touch,Jewellery,19,40,47.5,Optimal,480,9120,B-Medium,53,9/28/2026
+B-R04-B07-L5,B,Jewellery,4,7,5,NKCEAGXHYGDBWMWZ,Galz4ever Green & Gold Bunch Alloy Necklace,Galz4ever,Jewellery,35,40,87.5,Optimal,299,10465,B-Medium,15,11/5/2026
+B-R04-B08-L1,B,Jewellery,4,8,1,NKCE9PFFFTHPRM7P,Jewel Paradise Brass Plated Brass Necklace,Jewel Paradise,Jewellery,36,40,90,Overstock,399,14364,B-Medium,44,10/7/2026
+B-R04-B08-L2,B,Jewellery,4,8,2,RNGDQ5GGZ3RXUZHN,BlueStone The Cyprian Trinity Gold Diamond 18 K Ring,BlueStone,Jewellery,27,40,67.5,Optimal,33151,895077,A-Fast,95,8/17/2026
+B-R04-B08-L3,B,Jewellery,4,8,3,BBAE7WGBNCZZ5RPY,SRSB Metal Bracelet,SRSB,Jewellery,33,40,82.5,Optimal,625,20625,C-Slow,80,9/1/2026
+B-R04-B08-L4,B,Jewellery,4,8,4,NKCE9GY4SYA5JJW4,"Gia White Gold Plated Alloy, Metal Necklace",Gia,Jewellery,35,40,87.5,Optimal,329,11515,C-Slow,82,8/30/2026
+B-R04-B08-L5,B,Jewellery,4,8,5,NKCEAGXHF37GN8DA,Galz4ever Tarq & Red Bunch Alloy Necklace,Galz4ever,Jewellery,17,40,42.5,Optimal,249,4233,C-Slow,62,9/19/2026
+B-R04-B09-L1,B,Jewellery,4,9,1,BBAEDVR7XHQYQDMU,"Vaishali Bindi and Bangles Brass, Copper Bangle Set",Vaishali Bindi and Bangles,Jewellery,4,40,10,Low Stock,249,996,C-Slow,112,7/31/2026
+B-R04-B09-L2,B,Jewellery,4,9,2,RNGE3JRMX6YUMJVG,"Ratnam Gold Ruby, Diamond 14 K Ring",Ratnam,Jewellery,11,40,27.5,Optimal,35850,394350,C-Slow,39,10/12/2026
+B-R04-B09-L3,B,Jewellery,4,9,3,NKCECZFZNVGGSVBT,Divine Forever Metal Necklace,Divine Forever,Jewellery,27,40,67.5,Blocked,499,13473,B-Medium,96,8/16/2026
+B-R04-B09-L4,B,Jewellery,4,9,4,BCHEF9ZEK3JFWSZF,Tangerine Crystal Brooch,Tangerine,Jewellery,20,40,50,Optimal,399,7980,C-Slow,28,10/23/2026
+B-R04-B09-L5,B,Jewellery,4,9,5,NKCE9TBZD2EGXYJ3,Voylla Precious Simplicity Plain Sterling Silver Chain,Voylla,Jewellery,31,40,77.5,Optimal,309,9579,A-Fast,47,10/4/2026
+B-R04-B10-L1,B,Jewellery,4,10,1,NKCEY8KWY33FCUYD,Flirtchick Yellow Gold Plated Alloy Necklace,Flirtchick,Jewellery,30,40,75,Optimal,499,14970,C-Slow,75,9/6/2026
+B-R04-B10-L2,B,Jewellery,4,10,2,RNGE864HSZNYXZCG,Karatcraft Dulce Gold Diamond 18 K Ring,Karatcraft,Jewellery,4,40,10,Low Stock,27223,108892,B-Medium,8,11/12/2026
+B-R04-B10-L3,B,Jewellery,4,10,3,RNGDQSVDZ5SWRCZY,BlueStone The Aster White Gold Diamond 18 K Ring,BlueStone,Jewellery,19,40,47.5,Optimal,26857,510283,B-Medium,46,10/5/2026
+B-R04-B10-L4,B,Jewellery,4,10,4,NKCE83F3VSBGYD6D,Jewel Touch Birthing White Multlayer Alloy Necklace,Jewel Touch,Jewellery,22,40,55,Optimal,350,7700,B-Medium,78,9/3/2026
+B-R04-B10-L5,B,Jewellery,4,10,5,BBAE8YQE2ZC6AFEH,Kuhuk Plastic Bangle Set,Kuhuk,Jewellery,39,40,97.5,Overstock,200,7800,C-Slow,47,10/4/2026
+C-R01-B01-L1,C,Footwear,1,1,1,SHOE5QZ2KHYSXCZR,Donner Tan Leather Men's Loafers,Unbranded,Footwear,25,40,62.5,Optimal,399,9975,B-Medium,4,11/16/2026
+C-R01-B01-L2,C,Footwear,1,1,2,,,,,0,40,0,Empty,0,0,,0,
+C-R01-B01-L3,C,Footwear,1,1,3,SNDE7RMR597YAKXB,Fashnopolism Women Wedges,Unbranded,Footwear,10,40,25,Optimal,1199,11990,A-Fast,14,11/6/2026
+C-R01-B01-L4,C,Footwear,1,1,4,SNDE88HQ2ETES45A,Style Her Women Wedges,Unbranded,Footwear,32,40,80,Optimal,425,13600,B-Medium,108,8/4/2026
+C-R01-B01-L5,C,Footwear,1,1,5,SNDEHZPDZMNZGHEQ,Katalogue Women Heels,Katalogue,Footwear,26,40,65,Blocked,1750,45500,C-Slow,80,9/1/2026
+C-R01-B02-L1,C,Footwear,1,2,1,SHOEFVT6YAKB9XTE,Schtaron Loafers,Schtaron,Footwear,11,40,27.5,Optimal,499,5489,B-Medium,44,10/7/2026
+C-R01-B02-L2,C,Footwear,1,2,2,SFFEGF6KZ9PPM4SN,Leather chief Slippers,Leather chief,Footwear,14,40,35,Optimal,899,12586,C-Slow,116,7/27/2026
+C-R01-B02-L3,C,Footwear,1,2,3,SHOEBQ8UW6G2HEVG,Solester Loafers,Unbranded,Footwear,21,40,52.5,Optimal,698,14658,C-Slow,44,10/7/2026
+C-R01-B02-L4,C,Footwear,1,2,4,SHOECQQFS9D6CFNC,Credos Loafers,Unbranded,Footwear,24,40,60,Optimal,899,21576,B-Medium,45,10/6/2026
+C-R01-B02-L5,C,Footwear,1,2,5,SFFEHQVASF8FGSD7,LRB Slippers,LRB,Footwear,16,40,40,Optimal,179,2864,A-Fast,90,8/22/2026
+C-R01-B03-L1,C,Footwear,1,3,1,SHOE2FQCEAQCPYTS,Steppings Trendy Boots,Unbranded,Footwear,33,40,82.5,Optimal,719,23727,B-Medium,1,11/19/2026
+C-R01-B03-L2,C,Footwear,1,3,2,SNDDY9RZPHET6BHX,Lord's Antique Gold Women's Peeptoe Heels Women Heels,Unbranded,Footwear,29,40,72.5,Optimal,1650,47850,C-Slow,119,7/24/2026
+C-R01-B03-L3,C,Footwear,1,3,3,SFFEGGPCZJ5D8D6C,Jon Pep Slippers,Jon Pep,Footwear,10,40,25,Optimal,229,2290,B-Medium,79,9/2/2026
+C-R01-B03-L4,C,Footwear,1,3,4,SNDECV6YCADQHMUQ,Leatherworld Women Wedges,Unbranded,Footwear,39,40,97.5,Overstock,499,19461,B-Medium,37,10/14/2026
+C-R01-B03-L5,C,Footwear,1,3,5,,,,,0,40,0,Empty,0,0,,0,
+C-R01-B04-L1,C,Footwear,1,4,1,SHOE68H5VYFUXUWK,Benera Omn Camouflage Boots,Unbranded,Footwear,38,40,95,Overstock,1800,68400,A-Fast,96,8/16/2026
+C-R01-B04-L2,C,Footwear,1,4,2,SPMDHEZ4GT8R8HCH,Woly Smooth Leather Shoe Cream,Woly,Footwear,28,40,70,Optimal,200,5600,A-Fast,27,10/24/2026
+C-R01-B04-L3,C,Footwear,1,4,3,SNDE67G9YZRHAS9T,Liza Women Heels,Unbranded,Footwear,28,40,70,Optimal,745,20860,A-Fast,90,8/22/2026
+C-R01-B04-L4,C,Footwear,1,4,4,SHOEFVT74G5BYHDY,Schtaron Loafers,Schtaron,Footwear,20,40,50,Blocked,499,9980,C-Slow,84,8/28/2026
+C-R01-B04-L5,C,Footwear,1,4,5,SHOED6C5ZGCBKTP2,Credos Loafers,Unbranded,Footwear,5,40,12.5,Low Stock,1099,5495,C-Slow,114,7/29/2026
+C-R01-B05-L1,C,Footwear,1,5,1,SNDE3CYGBGUTYRSH,Faith Leenise 1000873 Women Heels,Unbranded,Footwear,9,40,22.5,Optimal,690,6210,C-Slow,110,8/2/2026
+C-R01-B05-L2,C,Footwear,1,5,2,SHOE3Q3CDZMYZRRP,Faith 10001438 Lace Up Shoes,Unbranded,Footwear,19,40,47.5,Optimal,1795,34105,C-Slow,84,8/28/2026
+C-R01-B05-L3,C,Footwear,1,5,3,SHOE558ZECPBYKXG,True Soles Boots,Unbranded,Footwear,28,40,70,Optimal,1999,55972,B-Medium,35,10/16/2026
+C-R01-B05-L4,C,Footwear,1,5,4,SNDEF3HVZW4NPVCN,Shooz Women Heels,Unbranded,Footwear,34,40,85,Optimal,995,33830,B-Medium,19,11/1/2026
+C-R01-B05-L5,C,Footwear,1,5,5,SNDEY7QPXUF5PZSZ,La Isla Women Heels,Unbranded,Footwear,18,40,45,Optimal,569,10242,C-Slow,56,9/25/2026
+C-R01-B06-L1,C,Footwear,1,6,1,SHOE6VTKJZUXHDAT,Bruno Manetti 1475 Lace Up Shoes,Unbranded,Footwear,25,40,62.5,Optimal,1519,37975,A-Fast,119,7/24/2026
+C-R01-B06-L2,C,Footwear,1,6,2,SHOEJ3AZDMUAUMMY,My Look KBSB-05-Beige-41 Bellies,My Look,Footwear,5,40,12.5,Low Stock,499,2495,C-Slow,2,11/18/2026
+C-R01-B06-L3,C,Footwear,1,6,3,SNDE5HENGYQVEAN9,Studio 9 Mash Platform Women Wedges,Unbranded,Footwear,32,40,80,Blocked,740,23680,C-Slow,91,8/21/2026
+C-R01-B06-L4,C,Footwear,1,6,4,SHOEDGFRZKGZZF8M,Gai Style Loafers,Unbranded,Footwear,33,40,82.5,Optimal,1595,52635,B-Medium,71,9/10/2026
+C-R01-B06-L5,C,Footwear,1,6,5,SNDE7NSTNHAEACGG,Hepburnette Women Heels,Unbranded,Footwear,31,40,77.5,Optimal,999,30969,B-Medium,24,10/27/2026
+C-R01-B07-L1,C,Footwear,1,7,1,SNDEHYMW2V3UDM7W,Flat n Heels Women Heels,Flat n Heels,Footwear,40,40,100,Overstock,2399,95960,A-Fast,47,10/4/2026
+C-R01-B07-L2,C,Footwear,1,7,2,SNDEGZ8XGC4BWUZF,Little Frog Men Sandals,Little Frog,Footwear,17,40,42.5,Optimal,1340,22780,C-Slow,17,11/3/2026
+C-R01-B07-L3,C,Footwear,1,7,3,SNDEBGHBFVGJRFND,Mochi Women Flats,Unbranded,Footwear,27,40,67.5,Optimal,623,16821,A-Fast,93,8/19/2026
+C-R01-B07-L4,C,Footwear,1,7,4,SNDEGJFWJVCQY4BG,REMSON INDIA Women Flats,REMSON INDIA,Footwear,32,40,80,Blocked,399,12768,B-Medium,13,11/7/2026
+C-R01-B07-L5,C,Footwear,1,7,5,SFFEGZ6HSERKW3NQ,Corona Slippers,Corona,Footwear,38,40,95,Overstock,449,17062,C-Slow,67,9/14/2026
+C-R01-B08-L1,C,Footwear,1,8,1,SNDEEAFUXUYASSYN,A Click Away Women Heels,Unbranded,Footwear,19,40,47.5,Optimal,699,13281,B-Medium,18,11/2/2026
+C-R01-B08-L2,C,Footwear,1,8,2,SHODF2C2WGTMVQFZ,Alberto Torresi Loafers,Unbranded,Footwear,3,40,7.5,Low Stock,1536,4608,B-Medium,119,7/24/2026
+C-R01-B08-L3,C,Footwear,1,8,3,SNDEFV9492G7GYX6,NELL Women Sandals,NELL,Footwear,34,40,85,Optimal,1485,50490,C-Slow,13,11/7/2026
+C-R01-B08-L4,C,Footwear,1,8,4,SHOEGHJVFNAQQ2CK,NOMADIC Loafers,NOMADIC,Footwear,2,40,5,Low Stock,999,1998,B-Medium,7,11/13/2026
+C-R01-B08-L5,C,Footwear,1,8,5,SHOE34YXGQYWM45Y,Zoot24 8186-5 Casual Shoes,Unbranded,Footwear,28,40,70,Optimal,1349,37772,B-Medium,59,9/22/2026
+C-R01-B09-L1,C,Footwear,1,9,1,SHOECNQAQT4QK6UA,Mochi Trendy Loafers,Unbranded,Footwear,28,40,70,Optimal,1690,47320,C-Slow,13,11/7/2026
+C-R01-B09-L2,C,Footwear,1,9,2,,,,,0,40,0,Empty,0,0,,0,
+C-R01-B09-L3,C,Footwear,1,9,3,SNDEBKH7XHJFKG2H,Anira Fashion Women Wedges,Unbranded,Footwear,11,40,27.5,Optimal,545,5995,A-Fast,25,10/26/2026
+C-R01-B09-L4,C,Footwear,1,9,4,SHOEJKK3VZGHMT6T,ShoeBuzz Casuals,ShoeBuzz,Footwear,18,40,45,Optimal,247,4446,C-Slow,116,7/27/2026
+C-R01-B09-L5,C,Footwear,1,9,5,SHOECBN4QGZECV6F,Carlton London Boots,Unbranded,Footwear,29,40,72.5,Optimal,1995,57855,B-Medium,29,10/22/2026
+C-R01-B10-L1,C,Footwear,1,10,1,SNDEHZQ7HFNGH788,Style Buy Style Women Heels,Style Buy Style,Footwear,6,40,15,Low Stock,885,5310,B-Medium,36,10/15/2026
+C-R01-B10-L2,C,Footwear,1,10,2,SNDEB2DMZXGFA9YM,Easy Walk Women Heels,Unbranded,Footwear,4,40,10,Low Stock,689,2756,B-Medium,119,7/24/2026
+C-R01-B10-L3,C,Footwear,1,10,3,SHOEBBWKYRZHMMZN,Kuja paris Loafers,Unbranded,Footwear,22,40,55,Optimal,749,16478,C-Slow,78,9/3/2026
+C-R01-B10-L4,C,Footwear,1,10,4,SNDEBYHEHKFQASJT,Lamere Women Flats,Unbranded,Footwear,9,40,22.5,Blocked,779,7011,B-Medium,40,10/11/2026
+C-R01-B10-L5,C,Footwear,1,10,5,SNDEHZQ7BSZZJRDT,Style Buy Style Women Heels,Style Buy Style,Footwear,38,40,95,Overstock,885,33630,C-Slow,120,7/23/2026
+C-R02-B01-L1,C,Footwear,2,1,1,,,,,0,40,0,Empty,0,0,,0,
+C-R02-B01-L2,C,Footwear,2,1,2,SNDEHZQ7YZAHAZYP,Style Buy Style Women Heels,Style Buy Style,Footwear,7,40,17.5,Low Stock,885,6195,B-Medium,111,8/1/2026
+C-R02-B01-L3,C,Footwear,2,1,3,SNDEEF4THKPERDG9,CoalBlack Women Wedges,Unbranded,Footwear,15,40,37.5,Optimal,1095,16425,C-Slow,118,7/25/2026
+C-R02-B01-L4,C,Footwear,2,1,4,SHOE8SESZFGHMG3S,Clincher SEMV2001 Loafers,Unbranded,Footwear,36,40,90,Overstock,1999,71964,A-Fast,23,10/28/2026
+C-R02-B01-L5,C,Footwear,2,1,5,SHOEAVZPFZTFHHRP,Port Alex-Brwn Loafers,Unbranded,Footwear,35,40,87.5,Optimal,699,24465,C-Slow,102,8/10/2026
+C-R02-B02-L1,C,Footwear,2,2,1,,,,,0,40,0,Empty,0,0,,0,
+C-R02-B02-L2,C,Footwear,2,2,2,SNDEFKFNCHPREWPN,FIla ECHO Women Sports Sandals,FIla,Footwear,33,40,82.5,Optimal,999,32967,A-Fast,66,9/15/2026
+C-R02-B02-L3,C,Footwear,2,2,3,SHOE6HGNZZCTHBUC,GAI Tan Leather Loafers,Unbranded,Footwear,10,40,25,Optimal,1595,15950,C-Slow,77,9/4/2026
+C-R02-B02-L4,C,Footwear,2,2,4,SHOE32FUXGXGBB5Z,Carl 3346-1-Cheetablue Boots,Unbranded,Footwear,9,40,22.5,Optimal,1149,10341,B-Medium,104,8/8/2026
+C-R02-B02-L5,C,Footwear,2,2,5,SNDEHJ6ETMCK2FQQ,Foot Candy Girls Sandals,Foot Candy,Footwear,27,40,67.5,Optimal,899,24273,A-Fast,65,9/16/2026
+C-R02-B03-L1,C,Footwear,2,3,1,SNDDTY8HHGHCR4ZG,Metro 32 Women Wedges,Unbranded,Footwear,4,40,10,Low Stock,1190,4760,A-Fast,82,8/30/2026
+C-R02-B03-L2,C,Footwear,2,3,2,SHOEHX7GDMXQPSC4,GLAMWALK Festive Bellies,GLAMWALK,Footwear,21,40,52.5,Optimal,599,12579,B-Medium,39,10/12/2026
+C-R02-B03-L3,C,Footwear,2,3,3,SNDEAYZZWRXJSFWH,Shezone Women Wedges,Unbranded,Footwear,2,40,5,Low Stock,499,998,C-Slow,24,10/27/2026
+C-R02-B03-L4,C,Footwear,2,3,4,SHOEJGFU7RXZXFEM,Zed Loafers,Zed,Footwear,20,40,50,Optimal,499,9980,B-Medium,53,9/28/2026
+C-R02-B03-L5,C,Footwear,2,3,5,SHOEGHFQKGQVSGHH,DressBerry Bellies,DressBerry,Footwear,10,40,25,Optimal,1259,12590,C-Slow,113,7/30/2026
+C-R02-B04-L1,C,Footwear,2,4,1,SHOEYAYFVXGSD6ES,Wave Walk Deuro Slip On Shoes,Unbranded,Footwear,35,40,87.5,Optimal,699,24465,C-Slow,3,11/17/2026
+C-R02-B04-L2,C,Footwear,2,4,2,SNDEG7DYVFWHZBC4,Beanz Girls Flats,Beanz,Footwear,27,40,67.5,Optimal,1299,35073,C-Slow,30,10/21/2026
+C-R02-B04-L3,C,Footwear,2,4,3,SHOEYAYFVXGSD6ES,Wave Walk Deuro Slip On Shoes,Unbranded,Footwear,33,40,82.5,Optimal,699,23067,C-Slow,59,9/22/2026
+C-R02-B04-L4,C,Footwear,2,4,4,SHOEJ9CTF3KHJD5N,franco Loafers,franco,Footwear,12,40,30,Optimal,1599,19188,B-Medium,74,9/7/2026
+C-R02-B04-L5,C,Footwear,2,4,5,SHOEG9JCNHTZQESY,Red Chief Casuals,Red Chief,Footwear,30,40,75,Optimal,3055,91650,A-Fast,100,8/12/2026
+C-R02-B05-L1,C,Footwear,2,5,1,SHOEJJEVZG39MUMG,Shoe Day Boots,Shoe Day,Footwear,16,40,40,Optimal,2199,35184,C-Slow,87,8/25/2026
+C-R02-B05-L2,C,Footwear,2,5,2,SNDE5YYS52XEGFUY,Liza Women Heels,Unbranded,Footwear,11,40,27.5,Optimal,1113,12243,C-Slow,117,7/26/2026
+C-R02-B05-L3,C,Footwear,2,5,3,SHODZ9AKGHEYPWGT,Select Sporty Walking Shoes,Unbranded,Footwear,12,40,30,Optimal,449,5388,A-Fast,19,11/1/2026
+C-R02-B05-L4,C,Footwear,2,5,4,SNDECYKYFPJHCSEZ,Ladies Zone Women Wedges,Unbranded,Footwear,17,40,42.5,Optimal,449,7633,A-Fast,34,10/17/2026
+C-R02-B05-L5,C,Footwear,2,5,5,SNDEAK7EXPF32JJT,La Isla Women Heels,Unbranded,Footwear,14,40,35,Optimal,1539,21546,A-Fast,71,9/10/2026
+C-R02-B06-L1,C,Footwear,2,6,1,SHOE26U4RBFZHMRC,Blisshoes Ethan Stylish Black Loafers,Unbranded,Footwear,5,40,12.5,Low Stock,1563,7815,C-Slow,108,8/4/2026
+C-R02-B06-L2,C,Footwear,2,6,2,SNDE9GYPHPHJZXB7,Dolphin Miles Women Wedges,Unbranded,Footwear,23,40,57.5,Optimal,345,7935,C-Slow,63,9/18/2026
+C-R02-B06-L3,C,Footwear,2,6,3,SHOEGWYGYKCCFGWH,AMCO Walking Shoes,AMCO,Footwear,26,40,65,Optimal,399,10374,A-Fast,62,9/19/2026
+C-R02-B06-L4,C,Footwear,2,6,4,SHOE2QSWZZFSCHAJ,Zoot24 T22-Dryolive Loafers,Unbranded,Footwear,16,40,40,Optimal,1199,19184,A-Fast,52,9/29/2026
+C-R02-B06-L5,C,Footwear,2,6,5,SHOEJCZFDNVTB3RF,ZOSIGN Loafers,ZOSIGN,Footwear,40,40,100,Overstock,1699,67960,B-Medium,54,9/27/2026
+C-R02-B07-L1,C,Footwear,2,7,1,SHODWMHGWGPPVTD5,La Briza Pradera Loafers,Unbranded,Footwear,14,40,35,Optimal,1899,26586,B-Medium,88,8/24/2026
+C-R02-B07-L2,C,Footwear,2,7,2,SNDE7DZGGD2JVRBN,Dolphin Miles Women Wedges,Unbranded,Footwear,30,40,75,Optimal,349,10470,C-Slow,24,10/27/2026
+C-R02-B07-L3,C,Footwear,2,7,3,SHOEJWZBHYYEAG6E,reenak Running Shoes,reenak,Footwear,19,40,47.5,Optimal,539,10241,C-Slow,27,10/24/2026
+C-R02-B07-L4,C,Footwear,2,7,4,SHOEDFWGHMPZXJKY,Atoms Loafers,Unbranded,Footwear,35,40,87.5,Optimal,1710,59850,C-Slow,98,8/14/2026
+C-R02-B07-L5,C,Footwear,2,7,5,SHOE58EKXSEYAYX6,Trilokani Sport Walking Shoes,Unbranded,Footwear,8,40,20,Low Stock,989,7912,B-Medium,79,9/2/2026
+C-R02-B08-L1,C,Footwear,2,8,1,SHOEA34KZWVUAJUZ,Knotty Derby Goyle Ankle Boots,Unbranded,Footwear,24,40,60,Optimal,1951,46824,B-Medium,15,11/5/2026
+C-R02-B08-L2,C,Footwear,2,8,2,,,,,0,40,0,Empty,0,0,,0,
+C-R02-B08-L3,C,Footwear,2,8,3,SHOEBWFKZGCJFGUY,Spunk Aveo Loafers,Unbranded,Footwear,35,40,87.5,Optimal,879,30765,A-Fast,94,8/18/2026
+C-R02-B08-L4,C,Footwear,2,8,4,SHOEG5XHVBSU5BRW,Niremo Loafers,Niremo,Footwear,34,40,85,Optimal,499,16966,A-Fast,70,9/11/2026
+C-R02-B08-L5,C,Footwear,2,8,5,SHOEC9FZ3BAF7ASF,Belle Gambe Boots,Unbranded,Footwear,23,40,57.5,Optimal,1695,38985,A-Fast,56,9/25/2026
+C-R02-B09-L1,C,Footwear,2,9,1,SNDEHG3DNVBFGAT5,Luca Fashion Girls Heels,Luca Fashion,Footwear,15,40,37.5,Optimal,499,7485,B-Medium,37,10/14/2026
+C-R02-B09-L2,C,Footwear,2,9,2,SHOE34YXWXZ9PCFF,Zoot24 8186-3 Casual Shoes,Unbranded,Footwear,33,40,82.5,Optimal,1299,42867,C-Slow,30,10/21/2026
+C-R02-B09-L3,C,Footwear,2,9,3,SNDEDGBMM8UGED7W,Relexop Women Wedges,Unbranded,Footwear,30,40,75,Optimal,325,9750,C-Slow,55,9/26/2026
+C-R02-B09-L4,C,Footwear,2,9,4,SHOECKEYCF73BXZX,Do Bhai Boots,Unbranded,Footwear,32,40,80,Optimal,699,22368,B-Medium,33,10/18/2026
+C-R02-B09-L5,C,Footwear,2,9,5,SHOEY8RMVZV3UY3A,Do Bhai DBNABALL197-202 Multicolor Loafers,Unbranded,Footwear,22,40,55,Optimal,499,10978,B-Medium,45,10/6/2026
+C-R02-B10-L1,C,Footwear,2,10,1,SHOE3TJTTBRB86GG,Studio 9 Catchy Loafers,Unbranded,Footwear,18,40,45,Optimal,499,8982,B-Medium,94,8/18/2026
+C-R02-B10-L2,C,Footwear,2,10,2,,,,,0,40,0,Empty,0,0,,0,
+C-R02-B10-L3,C,Footwear,2,10,3,SNDEDPHWHMF274KK,Rialto Women Heels,Unbranded,Footwear,30,40,75,Optimal,1999,59970,C-Slow,2,11/18/2026
+C-R02-B10-L4,C,Footwear,2,10,4,SHOE6VH5FY6TXG62,Niremo Light Blue Loafers,Unbranded,Footwear,22,40,55,Optimal,799,17578,A-Fast,81,8/31/2026
+C-R02-B10-L5,C,Footwear,2,10,5,SNDEE34XM8XB6ZEX,Yahe Women Heels,Unbranded,Footwear,12,40,30,Optimal,499,5988,A-Fast,113,7/30/2026
+C-R03-B01-L1,C,Footwear,3,1,1,SHOE2ZNKMZYQFQDV,Blisshoes Aarush Bliss Casuals,Unbranded,Footwear,16,40,40,Optimal,1886,30176,C-Slow,88,8/24/2026
+C-R03-B01-L2,C,Footwear,3,1,2,SNDDPXG7SGBHW6AF,Clarks Shavi Loop Women Flats,Unbranded,Footwear,17,40,42.5,Optimal,1679,28543,C-Slow,92,8/20/2026
+C-R03-B01-L3,C,Footwear,3,1,3,,,,,0,40,0,Empty,0,0,,0,
+C-R03-B01-L4,C,Footwear,3,1,4,SHOE39Q6PDKHYY2F,Infiniti Red Loafers,Unbranded,Footwear,38,40,95,Overstock,499,18962,B-Medium,85,8/27/2026
+C-R03-B01-L5,C,Footwear,3,1,5,SNDEAN42F8EP8NAR,My Foot Women Flats,Unbranded,Footwear,34,40,85,Optimal,956,32504,B-Medium,7,11/13/2026
+C-R03-B02-L1,C,Footwear,3,2,1,SHOE2FQCKJDCP9ZW,Steppings Trendy Boots,Unbranded,Footwear,35,40,87.5,Optimal,639,22365,A-Fast,120,7/23/2026
+C-R03-B02-L2,C,Footwear,3,2,2,,,,,0,40,0,Empty,0,0,,0,
+C-R03-B02-L3,C,Footwear,3,2,3,SNDE7PY9TG8P7YYR,Anand Archies Women Wedges,Unbranded,Footwear,9,40,22.5,Optimal,449,4041,C-Slow,19,11/1/2026
+C-R03-B02-L4,C,Footwear,3,2,4,SNDEDF6CPDWETBKF,Leatherworld Women Wedges,Unbranded,Footwear,29,40,72.5,Optimal,989,28681,C-Slow,98,8/14/2026
+C-R03-B02-L5,C,Footwear,3,2,5,SHOEJUQFQURGGFY4,Pruto Monk Strap,Pruto,Footwear,2,40,5,Low Stock,840,1680,C-Slow,88,8/24/2026
+C-R03-B03-L1,C,Footwear,3,3,1,SFFEGJZQHKNFMPG6,SoleThreads Flip Flops,SoleThreads,Footwear,5,40,12.5,Low Stock,499,2495,B-Medium,41,10/10/2026
+C-R03-B03-L2,C,Footwear,3,3,2,SNDEBGHBQQSVQZMJ,Mochi Women Flats,Unbranded,Footwear,11,40,27.5,Optimal,623,6853,B-Medium,94,8/18/2026
+C-R03-B03-L3,C,Footwear,3,3,3,SNDEASSYEX2D4H65,Diva Women Wedges,Unbranded,Footwear,21,40,52.5,Optimal,549,11529,B-Medium,16,11/4/2026
+C-R03-B03-L4,C,Footwear,3,3,4,SNDE2RSFZ7Y3G7Y8,Do Bhai Women Flats,Unbranded,Footwear,6,40,15,Low Stock,299,1794,B-Medium,36,10/15/2026
+C-R03-B03-L5,C,Footwear,3,3,5,SHOEC8QGMZ3UJFTG,Get Glamr Designer Yuvu Boots,Unbranded,Footwear,32,40,80,Optimal,2799,89568,A-Fast,15,11/5/2026
+C-R03-B04-L1,C,Footwear,3,4,1,SNDEDNFG7ZNRNAGM,MSL Women Flats,Unbranded,Footwear,29,40,72.5,Optimal,499,14471,A-Fast,38,10/13/2026
+C-R03-B04-L2,C,Footwear,3,4,2,SNDEDEWN7MEQVQUN,Dressberry Women Wedges,Unbranded,Footwear,21,40,52.5,Optimal,599,12579,C-Slow,96,8/16/2026
+C-R03-B04-L3,C,Footwear,3,4,3,SHODYKR8QFMVYHT9,Lord's Mens Beige Loafers,Unbranded,Footwear,34,40,85,Optimal,1959,66606,B-Medium,52,9/29/2026
+C-R03-B04-L4,C,Footwear,3,4,4,SNDEJMK8J2ZEZJKX,FAB FASHION Women Wedges,FAB FASHION,Footwear,11,40,27.5,Optimal,295,3245,A-Fast,77,9/4/2026
+C-R03-B04-L5,C,Footwear,3,4,5,SNDEJZ2JZ7GN4FCD,Balujas Men Sandals,Balujas,Footwear,29,40,72.5,Optimal,1100,31900,B-Medium,80,9/1/2026
+C-R03-B05-L1,C,Footwear,3,5,1,SHOE4K54VP44KTZK,Balujas Tokiyo Loafers,Unbranded,Footwear,38,40,95,Overstock,880,33440,B-Medium,104,8/8/2026
+C-R03-B05-L2,C,Footwear,3,5,2,SNDE8F3S7QHTHPVG,Blue Parrot Women Wedges,Unbranded,Footwear,37,40,92.5,Blocked,899,33263,A-Fast,107,8/5/2026
+C-R03-B05-L3,C,Footwear,3,5,3,SNDEBQHGGJJFDQX3,Foot Jewel Women Wedges,Unbranded,Footwear,36,40,90,Overstock,449,16164,C-Slow,65,9/16/2026
+C-R03-B05-L4,C,Footwear,3,5,4,SNDEE2JSJSF3UTVG,Adidas Women Sports Sandals,Adidas,Footwear,39,40,97.5,Overstock,2209,86151,A-Fast,28,10/23/2026
+C-R03-B05-L5,C,Footwear,3,5,5,SHOE4QFHZWCZGCMB,Ruby Sober-047 Loafers,Unbranded,Footwear,4,40,10,Low Stock,349,1396,A-Fast,32,10/19/2026
+C-R03-B06-L1,C,Footwear,3,6,1,SFFEGNVMHRPGZKQN,ANAND ARCHIES Slippers,ANAND ARCHIES,Footwear,9,40,22.5,Optimal,499,4491,A-Fast,25,10/26/2026
+C-R03-B06-L2,C,Footwear,3,6,2,SNDE3FPZ3A4JCXRH,Remson India Brown Medium Women Wedges,Unbranded,Footwear,4,40,10,Low Stock,399,1596,C-Slow,24,10/27/2026
+C-R03-B06-L3,C,Footwear,3,6,3,SHOEAJHWWBJBB8DH,Asian Lace Up Shoes,Asian,Footwear,14,40,35,Optimal,249,3486,C-Slow,101,8/11/2026
+C-R03-B06-L4,C,Footwear,3,6,4,SFFEGJZKQY3CBFJG,Jon Pep Slippers,Jon Pep,Footwear,35,40,87.5,Optimal,229,8015,B-Medium,112,7/31/2026
+C-R03-B06-L5,C,Footwear,3,6,5,SNDEFDZQYAQFRFHE,Mochi Comfortech Women Flats,Unbranded,Footwear,17,40,42.5,Optimal,1990,33830,C-Slow,109,8/3/2026
+C-R03-B07-L1,C,Footwear,3,7,1,SNDEEF4THKPERDG9,CoalBlack Women Wedges,Unbranded,Footwear,5,40,12.5,Low Stock,1095,5475,C-Slow,25,10/26/2026
+C-R03-B07-L2,C,Footwear,3,7,2,SHOECZGYZ5ZCDFTX,Moladz Osritch Lace Up Shoes,Unbranded,Footwear,29,40,72.5,Optimal,1999,57971,B-Medium,69,9/12/2026
+C-R03-B07-L3,C,Footwear,3,7,3,SHOEH76627H5HRHM,JQR JQR Sports Shoes Running Shoes,JQR,Footwear,15,40,37.5,Optimal,1299,19485,A-Fast,1,11/19/2026
+C-R03-B07-L4,C,Footwear,3,7,4,SHOEHXHVTBYRCTYN,Klaur Melbourne Bellies,Klaur Melbourne,Footwear,14,40,35,Optimal,499,6986,A-Fast,119,7/24/2026
+C-R03-B07-L5,C,Footwear,3,7,5,SNDEJU7G9C9SDGCE,PINK FEVER Women Wedges,PINK FEVER,Footwear,39,40,97.5,Overstock,699,27261,B-Medium,25,10/26/2026
+C-R03-B08-L1,C,Footwear,3,8,1,SHOE7ZJ3GQN3ZHNS,Carlton Boots,Unbranded,Footwear,26,40,65,Optimal,1223,31798,C-Slow,12,11/8/2026
+C-R03-B08-L2,C,Footwear,3,8,2,SHOEJCKBGJGZQJHN,Liberty Formal Brown Shoes Slip On,Liberty,Footwear,7,40,17.5,Low Stock,1370,9590,B-Medium,92,8/20/2026
+C-R03-B08-L3,C,Footwear,3,8,3,SNDE8HPWZAQXVGGK,Mochi Women Flats,Unbranded,Footwear,15,40,37.5,Optimal,1290,19350,B-Medium,37,10/14/2026
+C-R03-B08-L4,C,Footwear,3,8,4,SHOEGHF8NXWFY6SV,hi-tech Hiking & Trekking Shoes,hi-tech,Footwear,13,40,32.5,Optimal,459,5967,C-Slow,48,10/3/2026
+C-R03-B08-L5,C,Footwear,3,8,5,SHOEJCKBGJGZQJHN,Liberty Formal Brown Shoes Slip On,Liberty,Footwear,34,40,85,Optimal,1370,46580,C-Slow,44,10/7/2026
+C-R03-B09-L1,C,Footwear,3,9,1,SHOECSWQCEZRR82X,Selfie Boots,Unbranded,Footwear,12,40,30,Optimal,599,7188,C-Slow,38,10/13/2026
+C-R03-B09-L2,C,Footwear,3,9,2,SNDEDKKWEAFRMDR9,Adorn Women Wedges,Unbranded,Footwear,12,40,30,Optimal,799,9588,C-Slow,70,9/11/2026
+C-R03-B09-L3,C,Footwear,3,9,3,SFFEGGGRKZETXKTF,Jon Pep Slippers,Jon Pep,Footwear,33,40,82.5,Optimal,229,7557,C-Slow,6,11/14/2026
+C-R03-B09-L4,C,Footwear,3,9,4,SNDEDNFG7ZNRNAGM,MSL Women Flats,Unbranded,Footwear,12,40,30,Optimal,499,5988,C-Slow,101,8/11/2026
+C-R03-B09-L5,C,Footwear,3,9,5,SHOE6ZQDA5GGTYHS,Salt N Pepper 14-475 Dorthea Almond Boots Boots,Unbranded,Footwear,40,40,100,Overstock,3521,140840,B-Medium,48,10/3/2026
+C-R03-B10-L1,C,Footwear,3,10,1,SHOEAUABZ9EJC7YC,Mochi Trendy Loafers,Unbranded,Footwear,16,40,40,Optimal,1890,30240,B-Medium,11,11/9/2026
+C-R03-B10-L2,C,Footwear,3,10,2,SHOEG52R2AKHFYHH,INDIANO Loafers,INDIANO,Footwear,32,40,80,Optimal,649,20768,C-Slow,99,8/13/2026
+C-R03-B10-L3,C,Footwear,3,10,3,SHOEBHZA5BXBKRDC,Crocs Boots,Unbranded,Footwear,23,40,57.5,Optimal,3995,91885,C-Slow,36,10/15/2026
+C-R03-B10-L4,C,Footwear,3,10,4,SHOEDSGPYVVXQYHY,Lotto Milan Casual Shoes,Unbranded,Footwear,30,40,75,Optimal,1399,41970,B-Medium,95,8/17/2026
+C-R03-B10-L5,C,Footwear,3,10,5,SHOEJP2GGGP2GGPB,FAUSTO Casuals,FAUSTO,Footwear,30,40,75,Optimal,499,14970,C-Slow,43,10/8/2026
+C-R04-B01-L1,C,Footwear,4,1,1,SFFEGJZKQY3CBFJG,Jon Pep Slippers,Jon Pep,Footwear,20,40,50,Optimal,229,4580,B-Medium,96,8/16/2026
+C-R04-B01-L2,C,Footwear,4,1,2,SHOEEPF8KWHTJ9A7,Spick Cricket Shoes,Spick,Footwear,32,40,80,Optimal,489,15648,B-Medium,77,9/4/2026
+C-R04-B01-L3,C,Footwear,4,1,3,SHOEF9G8ZHHCMHTW,Kielz Ladies Boots,Unbranded,Footwear,25,40,62.5,Optimal,1299,32475,A-Fast,73,9/8/2026
+C-R04-B01-L4,C,Footwear,4,1,4,SNDE2HP6K7YXNUWX,Faith Leenise 1000829 Women Heels,Unbranded,Footwear,11,40,27.5,Optimal,985,10835,A-Fast,116,7/27/2026
+C-R04-B01-L5,C,Footwear,4,1,5,SHOE7BZ8KYCYNDCG,Harry Hill Broklyn Loafers,Unbranded,Footwear,22,40,55,Optimal,1599,35178,C-Slow,15,11/5/2026
+C-R04-B02-L1,C,Footwear,4,2,1,SNDEF7Z2TTH4UZGR,Crocs Boys Sandals,Crocs,Footwear,23,40,57.5,Optimal,1197,27531,C-Slow,86,8/26/2026
+C-R04-B02-L2,C,Footwear,4,2,2,SNDEA42M6GZNV7M3,Babylon Women Flats,Unbranded,Footwear,3,40,7.5,Low Stock,499,1497,C-Slow,112,7/31/2026
+C-R04-B02-L3,C,Footwear,4,2,3,SNDE9UM9JYQ4XQGU,Angel Women Wedges,Unbranded,Footwear,6,40,15,Low Stock,599,3594,C-Slow,33,10/18/2026
+C-R04-B02-L4,C,Footwear,4,2,4,SNDEHZQ7HFNGH788,Style Buy Style Women Heels,Style Buy Style,Footwear,15,40,37.5,Optimal,885,13275,B-Medium,39,10/12/2026
+C-R04-B02-L5,C,Footwear,4,2,5,,,,,0,40,0,Empty,0,0,,0,
+C-R04-B03-L1,C,Footwear,4,3,1,SNDEJ9CZPRW8XFGD,Theme United Women Wedges,Theme United,Footwear,14,40,35,Optimal,389,5446,C-Slow,46,10/5/2026
+C-R04-B03-L2,C,Footwear,4,3,2,SHOE37CTDYFKDJBH,Claude Lorrain Black Casuals Shoes,Unbranded,Footwear,35,40,87.5,Optimal,1299,45465,B-Medium,69,9/12/2026
+C-R04-B03-L3,C,Footwear,4,3,3,SHOEHXHVYRDGRZG3,Klaur Melbourne Bellies,Klaur Melbourne,Footwear,31,40,77.5,Optimal,499,15469,B-Medium,70,9/11/2026
+C-R04-B03-L4,C,Footwear,4,3,4,SNDE4BHTMEG9GUMX,Lyc Women Heels,Unbranded,Footwear,40,40,100,Overstock,399,15960,C-Slow,67,9/14/2026
+C-R04-B03-L5,C,Footwear,4,3,5,SHOE2T3QZZNGVPYD,Aerosoft Margaret Loafers,Unbranded,Footwear,22,40,55,Optimal,1049,23078,A-Fast,9,11/11/2026
+C-R04-B04-L1,C,Footwear,4,4,1,SHOE84YKXWATGHFC,Zoot24 Loafers,Unbranded,Footwear,9,40,22.5,Optimal,1299,11691,A-Fast,60,9/21/2026
+C-R04-B04-L2,C,Footwear,4,4,2,SFFEHTGHZGMHTZA7,Rugby Slippers,Rugby,Footwear,33,40,82.5,Optimal,199,6567,C-Slow,8,11/12/2026
+C-R04-B04-L3,C,Footwear,4,4,3,SHOE68H54NZM9MG8,Benera Gman 3 Black Line Boots,Unbranded,Footwear,34,40,85,Blocked,1800,61200,C-Slow,64,9/17/2026
+C-R04-B04-L4,C,Footwear,4,4,4,SHOE38Z4XMXFASBV,Zoot24 8181-Blue Casual Shoes,Unbranded,Footwear,27,40,67.5,Optimal,1099,29673,B-Medium,27,10/24/2026
+C-R04-B04-L5,C,Footwear,4,4,5,SNDE5Y8JBGF2MFBV,Liza Women Wedges,Unbranded,Footwear,10,40,25,Optimal,1134,11340,C-Slow,67,9/14/2026
+C-R04-B05-L1,C,Footwear,4,5,1,SHOED6C5ZGCBKTP2,Credos Loafers,Unbranded,Footwear,30,40,75,Optimal,1099,32970,A-Fast,118,7/25/2026
+C-R04-B05-L2,C,Footwear,4,5,2,SNDDVP9CYXHTZ7XC,Clarks Women Flats,Unbranded,Footwear,13,40,32.5,Optimal,2999,38987,C-Slow,56,9/25/2026
+C-R04-B05-L3,C,Footwear,4,5,3,SNDEAY8QSGZWZEFF,Adorn Women Wedges,Unbranded,Footwear,20,40,50,Optimal,799,15980,A-Fast,71,9/10/2026
+C-R04-B05-L4,C,Footwear,4,5,4,SHOEYV38XMK2MY4F,Faith 1000638 Lace Up,Unbranded,Footwear,12,40,30,Optimal,1610,19320,C-Slow,59,9/22/2026
+C-R04-B05-L5,C,Footwear,4,5,5,SNDEE2JSJSF3UTVG,Adidas Women Sports Sandals,Adidas,Footwear,34,40,85,Optimal,2209,75106,B-Medium,5,11/15/2026
+C-R04-B06-L1,C,Footwear,4,6,1,SHOECGUPWQRCNAHR,Bling Loafers,Unbranded,Footwear,7,40,17.5,Low Stock,595,4165,C-Slow,79,9/2/2026
+C-R04-B06-L2,C,Footwear,4,6,2,SHOEBWFKZGCJFGUY,Spunk Aveo Loafers,Unbranded,Footwear,11,40,27.5,Optimal,879,9669,B-Medium,39,10/12/2026
+C-R04-B06-L3,C,Footwear,4,6,3,SHOEFWQGHEM2FEEG,Red Chief RC2401 Corporate Casuals,Unbranded,Footwear,23,40,57.5,Optimal,1951,44873,C-Slow,94,8/18/2026
+C-R04-B06-L4,C,Footwear,4,6,4,SNDEHZMFFAHHZSHZ,"Katalogue Women, Girls Heels",Katalogue,Footwear,37,40,92.5,Overstock,1750,64750,A-Fast,22,10/29/2026
+C-R04-B06-L5,C,Footwear,4,6,5,SHOEG7NXNBF9PPJV,BrandTrendz Loafers,BrandTrendz,Footwear,36,40,90,Overstock,599,21564,B-Medium,37,10/14/2026
+C-R04-B07-L1,C,Footwear,4,7,1,SHOEBHZA5BXBKRDC,Crocs Boots,Unbranded,Footwear,7,40,17.5,Low Stock,3995,27965,C-Slow,15,11/5/2026
+C-R04-B07-L2,C,Footwear,4,7,2,SHOE73V5DXWZTRQ9,Knotty Derby Michael Outdoor Shoes,Unbranded,Footwear,14,40,35,Optimal,1741,24374,C-Slow,32,10/19/2026
+C-R04-B07-L3,C,Footwear,4,7,3,SNDE33WXXFHJUZPD,Foot Jewel Heel Brown Party Slip On Women Wedges,Unbranded,Footwear,35,40,87.5,Optimal,449,15715,B-Medium,89,8/23/2026
+C-R04-B07-L4,C,Footwear,4,7,4,SHOEJQCKU9ZRGJT8,Pollo Slip On,Pollo,Footwear,35,40,87.5,Optimal,399,13965,B-Medium,22,10/29/2026
+C-R04-B07-L5,C,Footwear,4,7,5,SNDEAN42GMX47ZC7,My Foot Women Flats,Unbranded,Footwear,8,40,20,Low Stock,956,7648,A-Fast,94,8/18/2026
+C-R04-B08-L1,C,Footwear,4,8,1,SNDE9GRQJQQ76ESA,Dolphin Miles Women Wedges,Unbranded,Footwear,35,40,87.5,Optimal,349,12215,C-Slow,84,8/28/2026
+C-R04-B08-L2,C,Footwear,4,8,2,SNDE3UG82VHVW5EX,La Zilver Women Wedges,Unbranded,Footwear,36,40,90,Overstock,1295,46620,C-Slow,62,9/19/2026
+C-R04-B08-L3,C,Footwear,4,8,3,SHOE7CHXSQZ2JQHD,BellBut Casual Shoes,Unbranded,Footwear,18,40,45,Optimal,1590,28620,B-Medium,96,8/16/2026
+C-R04-B08-L4,C,Footwear,4,8,4,SNDECYKYFPJHCSEZ,Ladies Zone Women Wedges,Unbranded,Footwear,40,40,100,Overstock,449,17960,B-Medium,108,8/4/2026
+C-R04-B08-L5,C,Footwear,4,8,5,SNDE4GFHSK7FSFTK,Liza Women Wedges,Unbranded,Footwear,16,40,40,Optimal,894,14304,C-Slow,38,10/13/2026
+C-R04-B09-L1,C,Footwear,4,9,1,,,,,0,40,0,Empty,0,0,,0,
+C-R04-B09-L2,C,Footwear,4,9,2,SHODZKAZZGGBSXFD,Claude Lorrain Patent Loafers Patent Loafers,Unbranded,Footwear,8,40,20,Low Stock,599,4792,C-Slow,31,10/20/2026
+C-R04-B09-L3,C,Footwear,4,9,3,,,,,0,40,0,Empty,0,0,,0,
+C-R04-B09-L4,C,Footwear,4,9,4,SNDEHYMXZTFRYZQV,Flat n Heels Women Heels,Flat n Heels,Footwear,36,40,90,Overstock,2399,86364,C-Slow,85,8/27/2026
+C-R04-B09-L5,C,Footwear,4,9,5,SHOECUZVNVUQ8CJF,Allen Solly Loafers,Unbranded,Footwear,10,40,25,Optimal,800,8000,A-Fast,49,10/2/2026
+C-R04-B10-L1,C,Footwear,4,10,1,,,,,0,40,0,Empty,0,0,,0,
+C-R04-B10-L2,C,Footwear,4,10,2,SHOECYRFRZW9KDY2,Pu-Right Tennis-Black School Shoes,Pu-Right,Footwear,21,40,52.5,Optimal,230,4830,C-Slow,50,10/1/2026
+C-R04-B10-L3,C,Footwear,4,10,3,SNDEHZMFFGGKYHRZ,"Katalogue Women, Girls Flats",Katalogue,Footwear,21,40,52.5,Optimal,1750,36750,C-Slow,63,9/18/2026
+C-R04-B10-L4,C,Footwear,4,10,4,SHOEDGFRZKGZZF8M,Gai Style Loafers,Unbranded,Footwear,15,40,37.5,Optimal,1595,23925,A-Fast,21,10/30/2026
+C-R04-B10-L5,C,Footwear,4,10,5,SHOE3S9BYE5XWSKS,Steppings Trendy Boots,Unbranded,Footwear,20,40,50,Optimal,1099,21980,C-Slow,77,9/4/2026
+D-R01-B01-L1,D,Mobiles & Accessories,1,1,1,,,,,0,40,0,Empty,0,0,,0,
+D-R01-B01-L2,D,Mobiles & Accessories,1,1,2,ACCE9Y6QEZH2U5BN,TheLostPuppy Back Cover for Apple iPad Air,TheLostPuppy,Mobiles & Accessories,3,40,7.5,Low Stock,599,1797,B-Medium,112,7/31/2026
+D-R01-B01-L3,D,Mobiles & Accessories,1,1,3,ACCE7B8NZXHA5ZV9,Mobilecops Flip Cover for Samsung Galaxy Tab 3.7 inch,Mobilecops,Mobiles & Accessories,33,40,82.5,Optimal,699,23067,C-Slow,20,10/31/2026
+D-R01-B01-L4,D,Mobiles & Accessories,1,1,4,ACCEYGZVZRV2HXNM,Avantree Micro USB Retractable USB Cable,Avantree,Mobiles & Accessories,37,40,92.5,Overstock,499,18463,B-Medium,73,9/8/2026
+D-R01-B01-L5,D,Mobiles & Accessories,1,1,5,ACCE9Y6RHQKUXXCS,TheLostPuppy Back Cover for Apple iPad Air 2,TheLostPuppy,Mobiles & Accessories,7,40,17.5,Blocked,599,4193,B-Medium,78,9/3/2026
+D-R01-B02-L1,D,Mobiles & Accessories,1,2,1,ACCE9DJWDCSGHUXC,DailyObjects Back Cover for Apple iPad 2/3/4,DailyObjects,Mobiles & Accessories,19,40,47.5,Optimal,1685,32015,A-Fast,15,11/5/2026
+D-R01-B02-L2,D,Mobiles & Accessories,1,2,2,ACCE9DK5H6H8K4ET,DailyObjects Back Cover for Apple iPad 2/3/4,DailyObjects,Mobiles & Accessories,14,40,35,Optimal,1685,23590,A-Fast,76,9/5/2026
+D-R01-B02-L3,D,Mobiles & Accessories,1,2,3,ACCDZMAPDMFWAAH7,"Enthopia Flip Cover for iPad 2, iPad 3, iPad 4",Enthopia,Mobiles & Accessories,39,40,97.5,Overstock,2000,78000,C-Slow,49,10/2/2026
+D-R01-B02-L4,D,Mobiles & Accessories,1,2,4,,,,,0,40,0,Empty,0,0,,0,
+D-R01-B02-L5,D,Mobiles & Accessories,1,2,5,ACCE9Z4KEMZTUKZP,TheLostPuppy Back Cover for Apple iPad Air 2,TheLostPuppy,Mobiles & Accessories,36,40,90,Overstock,599,21564,B-Medium,68,9/13/2026
+D-R01-B03-L1,D,Mobiles & Accessories,1,3,1,ACCEABVY46SXFZW5,Kasemantra Back Cover for Apple iPad Mini,Kasemantra,Mobiles & Accessories,9,40,22.5,Optimal,649,5841,C-Slow,118,7/25/2026
+D-R01-B03-L2,D,Mobiles & Accessories,1,3,2,,,,,0,40,0,Empty,0,0,,0,
+D-R01-B03-L3,D,Mobiles & Accessories,1,3,3,ACCEFYBA3VFCDG9D,LAIBA  Battery - Laiba Battery - LT30P Lithium Ion Mobile Ba,LAIBA,Mobiles & Accessories,28,40,70,Optimal,699,19572,A-Fast,70,9/11/2026
+D-R01-B03-L4,D,Mobiles & Accessories,1,3,4,ACCEDTNRXHXZKH4G,D'clair Huwai Honor 4X Battery Charger,D'clair,Mobiles & Accessories,7,40,17.5,Low Stock,400,2800,B-Medium,81,8/31/2026
+D-R01-B03-L5,D,Mobiles & Accessories,1,3,5,ACCECRF7VSPDYQKU,Fastway Book Cover for LG G Pad 2 7.0.,Fastway,Mobiles & Accessories,10,40,25,Optimal,290,2900,A-Fast,3,11/17/2026
+D-R01-B04-L1,D,Mobiles & Accessories,1,4,1,ACCDVHJPRBJPWNHT,"Enthopia Back Cover for iPad Mini, iPad Mini 2, iPad Mini Re",Enthopia,Mobiles & Accessories,8,40,20,Low Stock,1699,13592,A-Fast,11,11/9/2026
+D-R01-B04-L2,D,Mobiles & Accessories,1,4,2,ACCDXH5G5BB2BGUA,i-KitPit Pouch for Lenovo A369i,i-KitPit,Mobiles & Accessories,21,40,52.5,Optimal,249,5229,C-Slow,93,8/19/2026
+D-R01-B04-L3,D,Mobiles & Accessories,1,4,3,ACCE9Z5UMATEYZTR,TheLostPuppy Back Cover for Apple iPad Air 2,TheLostPuppy,Mobiles & Accessories,15,40,37.5,Optimal,599,8985,C-Slow,24,10/27/2026
+D-R01-B04-L4,D,Mobiles & Accessories,1,4,4,ACCEEAMDYVBMZHYV,BILLYS Cases with Holder for All 7 Inch Tab/Tablet 360° Rota,BILLYS,Mobiles & Accessories,12,40,30,Optimal,229,2748,A-Fast,59,9/22/2026
+D-R01-B04-L5,D,Mobiles & Accessories,1,4,5,ACCE9DKAJRJVKKYA,DailyObjects Back Cover for Apple iPad Mini/Retina Display,DailyObjects,Mobiles & Accessories,33,40,82.5,Blocked,1685,55605,C-Slow,79,9/2/2026
+D-R01-B05-L1,D,Mobiles & Accessories,1,5,1,ACCEA4DZQGKBJUHM,Thelostpuppy Book Cover for Apple iPad Air 2,Thelostpuppy,Mobiles & Accessories,17,40,42.5,Optimal,599,10183,B-Medium,30,10/21/2026
+D-R01-B05-L2,D,Mobiles & Accessories,1,5,2,ACCEGPCZHTGQCH4S,snjmart E5-J1 Ace Stereo Dynamic Earphone Wired Headphones,snjmart,Mobiles & Accessories,10,40,25,Optimal,299,2990,A-Fast,113,7/30/2026
+D-R01-B05-L3,D,Mobiles & Accessories,1,5,3,ACCDXH5H3FVMCQT8,i-KitPit Pouch for Lenovo A369i,i-KitPit,Mobiles & Accessories,40,40,100,Overstock,649,25960,C-Slow,41,10/10/2026
+D-R01-B05-L4,D,Mobiles & Accessories,1,5,4,ACCE6GFE64ZBRT3Z,"DailyObjects Back Cover for Apple iPad 2, 3, 4",DailyObjects,Mobiles & Accessories,7,40,17.5,Low Stock,1685,11795,B-Medium,79,9/2/2026
+D-R01-B05-L5,D,Mobiles & Accessories,1,5,5,ACCE9Z4KQXADV2KY,TheLostPuppy Back Cover for Apple iPad Air,TheLostPuppy,Mobiles & Accessories,36,40,90,Overstock,599,21564,B-Medium,103,8/9/2026
+D-R01-B06-L1,D,Mobiles & Accessories,1,6,1,,,,,0,40,0,Empty,0,0,,0,
+D-R01-B06-L2,D,Mobiles & Accessories,1,6,2,ACCE9Y6MK7Q8GYKY,TheLostPuppy Back Cover for Apple iPad Air,TheLostPuppy,Mobiles & Accessories,32,40,80,Optimal,599,19168,C-Slow,109,8/3/2026
+D-R01-B06-L3,D,Mobiles & Accessories,1,6,3,ACCEAZCVBHKKDVMZ,Fuson Back Cover for Samsung Galaxy J7,Fuson,Mobiles & Accessories,7,40,17.5,Low Stock,599,4193,B-Medium,16,11/4/2026
+D-R01-B06-L4,D,Mobiles & Accessories,1,6,4,ACCDXFA5QFCZZ4WZ,i-KitPit Pouch for Lenovo A369i,i-KitPit,Mobiles & Accessories,15,40,37.5,Optimal,199,2985,C-Slow,13,11/7/2026
+D-R01-B06-L5,D,Mobiles & Accessories,1,6,5,ACCDVHJPFGRGYSYZ,"Enthopia Back Cover for iPad Mini, iPad Mini 2, iPad Mini Re",Enthopia,Mobiles & Accessories,3,40,7.5,Low Stock,1699,5097,A-Fast,61,9/20/2026
+D-R01-B07-L1,D,Mobiles & Accessories,1,7,1,ACCDXB99QHDWGPCP,Enthopia Back Cover for iPad,Enthopia,Mobiles & Accessories,35,40,87.5,Optimal,1499,52465,C-Slow,57,9/24/2026
+D-R01-B07-L2,D,Mobiles & Accessories,1,7,2,ACCEA4CANABEGP24,TheLostPuppy Back Cover for Apple iPad Air 2,TheLostPuppy,Mobiles & Accessories,15,40,37.5,Optimal,599,8985,B-Medium,70,9/11/2026
+D-R01-B07-L3,D,Mobiles & Accessories,1,7,3,ACCEAHRFVZCK8T8H,BMS Lifestyle Wallet Case Cover for Apple ipad Mini 2,BMS Lifestyle,Mobiles & Accessories,14,40,35,Optimal,699,9786,B-Medium,2,11/18/2026
+D-R01-B07-L4,D,Mobiles & Accessories,1,7,4,ACCE5Y8WZX54NUWT,BMS Lifestyle Book Cover for Apple iPad Mini 3 C82,BMS Lifestyle,Mobiles & Accessories,22,40,55,Optimal,1049,23078,A-Fast,26,10/25/2026
+D-R01-B07-L5,D,Mobiles & Accessories,1,7,5,ACCDVHJZVETHWJAE,"Enthopia Back Cover for iPad 2, iPad 3, iPad 4",Enthopia,Mobiles & Accessories,8,40,20,Blocked,1499,11992,C-Slow,19,11/1/2026
+D-R01-B08-L1,D,Mobiles & Accessories,1,8,1,ACCE9YWEK89BSBZH,TheLostPuppy Back Cover for Apple iPad Air,TheLostPuppy,Mobiles & Accessories,31,40,77.5,Optimal,599,18569,A-Fast,54,9/27/2026
+D-R01-B08-L2,D,Mobiles & Accessories,1,8,2,ACCEGH6SND8XZXTS,kits kart Pouch for Videocon Infinium Z45 Nova+,kits kart,Mobiles & Accessories,35,40,87.5,Optimal,454,15890,B-Medium,81,8/31/2026
+D-R01-B08-L3,D,Mobiles & Accessories,1,8,3,ACCE5VYMHACWSNZS,Bms Lifestyle Book Cover for Apple iPad 2,Bms Lifestyle,Mobiles & Accessories,7,40,17.5,Low Stock,1049,7343,B-Medium,19,11/1/2026
+D-R01-B08-L4,D,Mobiles & Accessories,1,8,4,ACCEGH6SHJECW8UG,kits kart Pouch for Microsoft X Plus,kits kart,Mobiles & Accessories,15,40,37.5,Optimal,454,6810,C-Slow,97,8/15/2026
+D-R01-B08-L5,D,Mobiles & Accessories,1,8,5,PWBEGH7TYBFEEZQK,Wayona 10000mAh Wireless 10000mAh Power bank With Dual USB O,Wayona,Mobiles & Accessories,14,40,35,Optimal,2149,30086,B-Medium,70,9/11/2026
+D-R01-B09-L1,D,Mobiles & Accessories,1,9,1,ACCEBFZGSNMR6SKF,LG EAD63689301 USB Cable,LG,Mobiles & Accessories,16,40,40,Optimal,330,5280,C-Slow,84,8/28/2026
+D-R01-B09-L2,D,Mobiles & Accessories,1,9,2,ACCE6GFGHGCX46VF,"DailyObjects Back Cover for Apple iPad 2, 3, 4",DailyObjects,Mobiles & Accessories,21,40,52.5,Optimal,1685,35385,B-Medium,89,8/23/2026
+D-R01-B09-L3,D,Mobiles & Accessories,1,9,3,ACCE9DJTGEUZ2XP2,DailyObjects Back Cover for Apple iPad Mini/Retina Display,DailyObjects,Mobiles & Accessories,17,40,42.5,Optimal,1685,28645,C-Slow,65,9/16/2026
+D-R01-B09-L4,D,Mobiles & Accessories,1,9,4,ACCEFH5CNYDGAUHZ,AdroitZ Premium Phone Socket Holder For Sony Xperia ZL,AdroitZ,Mobiles & Accessories,22,40,55,Optimal,164,3608,B-Medium,100,8/12/2026
+D-R01-B09-L5,D,Mobiles & Accessories,1,9,5,ACCE9DKFNEBH7AUG,DailyObjects Back Cover for Apple iPad 2/3/4,DailyObjects,Mobiles & Accessories,6,40,15,Low Stock,1685,10110,C-Slow,7,11/13/2026
+D-R01-B10-L1,D,Mobiles & Accessories,1,10,1,ACCEFH5CNYDGAUHZ,AdroitZ Premium Phone Socket Holder For Sony Xperia ZL,AdroitZ,Mobiles & Accessories,3,40,7.5,Low Stock,164,492,B-Medium,30,10/21/2026
+D-R01-B10-L2,D,Mobiles & Accessories,1,10,2,ECOEFYFB2FBGJSEG,ortel earphone99 Earphone Cable Organizer,ortel,Mobiles & Accessories,7,40,17.5,Low Stock,499,3493,B-Medium,67,9/14/2026
+D-R01-B10-L3,D,Mobiles & Accessories,1,10,3,ACCE7MAU5WRZ4VCQ,Hoko Book Cover for Apple iPad Mini 3,Hoko,Mobiles & Accessories,38,40,95,Overstock,1200,45600,B-Medium,91,8/21/2026
+D-R01-B10-L4,D,Mobiles & Accessories,1,10,4,ACCE6S2GA922QHYH,Logitech Book Cover for Apple iPad Air2,Logitech,Mobiles & Accessories,5,40,12.5,Low Stock,2199,10995,B-Medium,16,11/4/2026
+D-R01-B10-L5,D,Mobiles & Accessories,1,10,5,ACCE8XZMKHTPSVFW,Kanu Book Cover for Vizio PCVZK-01,Kanu,Mobiles & Accessories,25,40,62.5,Optimal,599,14975,B-Medium,109,8/3/2026
+D-R02-B01-L1,D,Mobiles & Accessories,2,1,1,ACCE9Y6MGZNGHGNP,TheLostPuppy Back Cover for Apple iPad Air 2,TheLostPuppy,Mobiles & Accessories,13,40,32.5,Optimal,599,7787,C-Slow,28,10/23/2026
+D-R02-B01-L2,D,Mobiles & Accessories,2,1,2,ACCEGYCGPKC3MNY3,XEBAC For Nokia C7 USB Cable,XEBAC,Mobiles & Accessories,24,40,60,Optimal,220,5280,C-Slow,104,8/8/2026
+D-R02-B01-L3,D,Mobiles & Accessories,2,1,3,ACCE9Z5REXFTZH9D,TheLostPuppy Back Cover for Apple iPad Air,TheLostPuppy,Mobiles & Accessories,34,40,85,Optimal,599,20366,B-Medium,74,9/7/2026
+D-R02-B01-L4,D,Mobiles & Accessories,2,1,4,ACCE9DJMDRTWJWKY,DailyObjects Back Cover for Apple iPad Mini/Retina Display,DailyObjects,Mobiles & Accessories,12,40,30,Optimal,1685,20220,C-Slow,104,8/8/2026
+D-R02-B01-L5,D,Mobiles & Accessories,2,1,5,ACCE9Z5RHFTSQXZH,TheLostPuppy Back Cover for Apple iPad Air,TheLostPuppy,Mobiles & Accessories,32,40,80,Optimal,599,19168,A-Fast,117,7/26/2026
+D-R02-B02-L1,D,Mobiles & Accessories,2,2,1,ACCEGGXEA3XUYKMV,Koie  Battery - For Samsung S2 Premium Quality,Koie,Mobiles & Accessories,37,40,92.5,Overstock,599,22163,B-Medium,69,9/12/2026
+D-R02-B02-L2,D,Mobiles & Accessories,2,2,2,ACCEGKXQQTDGDXZP,Lexel High Quality Braided Metal Head Pure Copper Fast Charg,Lexel,Mobiles & Accessories,5,40,12.5,Low Stock,339,1695,C-Slow,19,11/1/2026
+D-R02-B02-L3,D,Mobiles & Accessories,2,2,3,,,,,0,40,0,Empty,0,0,,0,
+D-R02-B02-L4,D,Mobiles & Accessories,2,2,4,SSKEGDY6TVVGYPMQ,Redwave 360 Degree Powered Rotation Bluetooth Selfie Stick,Redwave,Mobiles & Accessories,25,40,62.5,Optimal,2999,74975,B-Medium,96,8/16/2026
+D-R02-B02-L5,D,Mobiles & Accessories,2,2,5,ACCEAZCVKBUXGJHY,Fuson Back Cover for Samsung Galaxy J7,Fuson,Mobiles & Accessories,2,40,5,Low Stock,599,1198,C-Slow,120,7/23/2026
+D-R02-B03-L1,D,Mobiles & Accessories,2,3,1,ACCEAHRFCDZHX2CG,BMS Lifestyle Wallet Case Cover for Apple ipad Mini,BMS Lifestyle,Mobiles & Accessories,31,40,77.5,Optimal,699,21669,A-Fast,51,9/30/2026
+D-R02-B03-L2,D,Mobiles & Accessories,2,3,2,ACCE2A66D6BHFYQK,Hoko Book Cover for New Nexus 7 (2nd Gen),Hoko,Mobiles & Accessories,2,40,5,Low Stock,1300,2600,C-Slow,111,8/1/2026
+D-R02-B03-L3,D,Mobiles & Accessories,2,3,3,ACCDUV7ZSDGZCGJ2,"Enthopia Back Cover for iPad Air, iPad 5",Enthopia,Mobiles & Accessories,4,40,10,Low Stock,1499,5996,C-Slow,48,10/3/2026
+D-R02-B03-L4,D,Mobiles & Accessories,2,3,4,ACCE9ZY9CYAGFPK3,TheLostPuppy Back Cover for Apple iPad Air 2,TheLostPuppy,Mobiles & Accessories,33,40,82.5,Optimal,599,19767,B-Medium,28,10/23/2026
+D-R02-B03-L5,D,Mobiles & Accessories,2,3,5,ACCEAC4R9FT7PDSK,DailyObjects Back Cover for Apple iPad Mini with Retina Disp,DailyObjects,Mobiles & Accessories,20,40,50,Optimal,1685,33700,A-Fast,109,8/3/2026
+D-R02-B04-L1,D,Mobiles & Accessories,2,4,1,ACCDZMAP8WEYKZMH,"Enthopia Flip Cover for iPad 2, iPad 3, iPad 4",Enthopia,Mobiles & Accessories,9,40,22.5,Optimal,1499,13491,B-Medium,6,11/14/2026
+D-R02-B04-L2,D,Mobiles & Accessories,2,4,2,ACCEAC4QMHUXBHQY,DailyObjects Back Cover for Apple iPad Mini with Retina Disp,DailyObjects,Mobiles & Accessories,2,40,5,Low Stock,1685,3370,C-Slow,90,8/22/2026
+D-R02-B04-L3,D,Mobiles & Accessories,2,4,3,ACCEA4CAGEJMVCXH,TheLostPuppy Back Cover for Apple iPad Air 2,TheLostPuppy,Mobiles & Accessories,10,40,25,Optimal,599,5990,A-Fast,72,9/9/2026
+D-R02-B04-L4,D,Mobiles & Accessories,2,4,4,ACCDUV7ZHP6MUVQV,"Enthopia Back Cover for iPad Mini, iPad Mini 2, iPad Mini Re",Enthopia,Mobiles & Accessories,29,40,72.5,Optimal,1699,49271,B-Medium,16,11/4/2026
+D-R02-B04-L5,D,Mobiles & Accessories,2,4,5,ACCE6SJGBGXYHG5P,Theskinmantra Sleeve for All versions of Apple ipad,Theskinmantra,Mobiles & Accessories,26,40,65,Optimal,549,14274,B-Medium,104,8/8/2026
+D-R02-B05-L1,D,Mobiles & Accessories,2,5,1,ACCEAC4QAWFJEFYN,"DailyObjects Back Cover for Apple iPad 2, Apple iPad 3, Appl",DailyObjects,Mobiles & Accessories,12,40,30,Optimal,1685,20220,B-Medium,40,10/11/2026
+D-R02-B05-L2,D,Mobiles & Accessories,2,5,2,ACCE9ZVFRF5VPGYH,Tucano Book Cover for Apple iPad Air 2,Tucano,Mobiles & Accessories,18,40,45,Optimal,3433,61794,C-Slow,35,10/16/2026
+D-R02-B05-L3,D,Mobiles & Accessories,2,5,3,ACCE6RHG47DESW3Q,VES Book Cover for Archos 97,VES,Mobiles & Accessories,22,40,55,Blocked,299,6578,A-Fast,57,9/24/2026
+D-R02-B05-L4,D,Mobiles & Accessories,2,5,4,ACCEDFVFVMKXJGGG,UAG Book Cover for APPLE IPAD MINI 4,UAG,Mobiles & Accessories,19,40,47.5,Optimal,2999,56981,B-Medium,8,11/12/2026
+D-R02-B05-L5,D,Mobiles & Accessories,2,5,5,ACCEFABMRTNCSHJ8,Nillkin NIMS12 Mirror Screen Guard for Nokia Lumia 530,Nillkin,Mobiles & Accessories,35,40,87.5,Optimal,499,17465,B-Medium,28,10/23/2026
+D-R02-B06-L1,D,Mobiles & Accessories,2,6,1,ACCEDJHQHQBZQY46,MOBILECOPS Book Cover for APPLE IPAD AIR2,MOBILECOPS,Mobiles & Accessories,38,40,95,Overstock,1999,75962,C-Slow,83,8/29/2026
+D-R02-B06-L2,D,Mobiles & Accessories,2,6,2,ACCEGKTTMBKZT7JR,AW High Speed Charge and Sync Usb for Iphone 6 Plus Lightnin,AW,Mobiles & Accessories,2,40,5,Low Stock,275,550,C-Slow,1,11/19/2026
+D-R02-B06-L3,D,Mobiles & Accessories,2,6,3,ACCE9Y6M4FUKSHEH,TheLostPuppy Back Cover for Apple iPad Air,TheLostPuppy,Mobiles & Accessories,17,40,42.5,Optimal,599,10183,A-Fast,86,8/26/2026
+D-R02-B06-L4,D,Mobiles & Accessories,2,6,4,ACCDUV7ZE8CAAYZK,"Enthopia Back Cover for iPad Air, iPad 5",Enthopia,Mobiles & Accessories,32,40,80,Blocked,1499,47968,B-Medium,100,8/12/2026
+D-R02-B06-L5,D,Mobiles & Accessories,2,6,5,,,,,0,40,0,Empty,0,0,,0,
+D-R02-B07-L1,D,Mobiles & Accessories,2,7,1,ACCE9Y6QKYA4HPFH,TheLostPuppy Back Cover for Apple iPad Air,TheLostPuppy,Mobiles & Accessories,5,40,12.5,Low Stock,599,2995,B-Medium,100,8/12/2026
+D-R02-B07-L2,D,Mobiles & Accessories,2,7,2,ACCE9Y6QEZNRJ5A7,TheLostPuppy Back Cover for Apple iPad Air,TheLostPuppy,Mobiles & Accessories,33,40,82.5,Optimal,599,19767,B-Medium,12,11/8/2026
+D-R02-B07-L3,D,Mobiles & Accessories,2,7,3,ACCE9DJRJV6JYFGE,DailyObjects Back Cover for Apple iPad Mini/Retina Display,DailyObjects,Mobiles & Accessories,32,40,80,Blocked,1685,53920,A-Fast,65,9/16/2026
+D-R02-B07-L4,D,Mobiles & Accessories,2,7,4,ACCDUFZGNYNJMHGY,"Enthopia Back Cover for Ipad Air, Ipad 5",Enthopia,Mobiles & Accessories,5,40,12.5,Low Stock,1499,7495,B-Medium,82,8/30/2026
+D-R02-B07-L5,D,Mobiles & Accessories,2,7,5,ACCE6GFCFEUGCKH9,"DailyObjects Back Cover for Apple iPad 2, 3, 4",DailyObjects,Mobiles & Accessories,16,40,40,Optimal,1685,26960,B-Medium,117,7/26/2026
+D-R02-B08-L1,D,Mobiles & Accessories,2,8,1,ACCEJTEDZAEE8FZY,signature VM-49 UNIVERSAL HANDSFREE Headphones,signature,Mobiles & Accessories,3,40,7.5,Low Stock,249,747,C-Slow,8,11/12/2026
+D-R02-B08-L2,D,Mobiles & Accessories,2,8,2,ACCEJGYYYCGETMGA,ACM Pouch for Intex Aqua Lions 3g,ACM,Mobiles & Accessories,18,40,45,Optimal,339,6102,A-Fast,67,9/14/2026
+D-R02-B08-L3,D,Mobiles & Accessories,2,8,3,ACCEAY36FYRTFXS4,Nillkin jt003 Tempered Glass for Huawei Honor 6 H60-L04,Nillkin,Mobiles & Accessories,39,40,97.5,Overstock,655,25545,C-Slow,13,11/7/2026
+D-R02-B08-L4,D,Mobiles & Accessories,2,8,4,ACCECZTCGM5QTWWF,TUP Flip Cover for Stand Milagrow 7.16/7.16 pro 7 Inch,TUP,Mobiles & Accessories,21,40,52.5,Optimal,298,6258,A-Fast,94,8/18/2026
+D-R02-B08-L5,D,Mobiles & Accessories,2,8,5,ACCDAHV9MAHKZGZP,JOY Back Cover for iPad 2,JOY,Mobiles & Accessories,24,40,60,Optimal,1700,40800,C-Slow,61,9/20/2026
+D-R02-B09-L1,D,Mobiles & Accessories,2,9,1,ACCEAMGZHGXYJSHR,BMS Lifestyle Book Cover for Apple iPad 2,BMS Lifestyle,Mobiles & Accessories,34,40,85,Optimal,649,22066,A-Fast,2,11/18/2026
+D-R02-B09-L2,D,Mobiles & Accessories,2,9,2,MBPEJMV8TZQRBF9N,CASEDEAL Nokia lumia 720 Back Panel,CASEDEAL,Mobiles & Accessories,30,40,75,Optimal,549,16470,A-Fast,21,10/30/2026
+D-R02-B09-L3,D,Mobiles & Accessories,2,9,3,ACCEA4BDZXBBTAFK,TheLostPuppy Back Cover for Apple iPad Air,TheLostPuppy,Mobiles & Accessories,26,40,65,Optimal,599,15574,A-Fast,118,7/25/2026
+D-R02-B09-L4,D,Mobiles & Accessories,2,9,4,ACCDZMAPRCGSYYQW,"Enthopia Flip Cover for iPad 2, iPad 3, iPad 4",Enthopia,Mobiles & Accessories,4,40,10,Low Stock,1499,5996,A-Fast,64,9/17/2026
+D-R02-B09-L5,D,Mobiles & Accessories,2,9,5,ACCE9Z5U2CQZJKTY,TheLostPuppy Back Cover for Apple iPad Air 2,TheLostPuppy,Mobiles & Accessories,39,40,97.5,Overstock,599,23361,C-Slow,64,9/17/2026
+D-R02-B10-L1,D,Mobiles & Accessories,2,10,1,ECOEFYFBMHNNYFZW,ortel earphone70 Earphone Cable Organizer,ortel,Mobiles & Accessories,20,40,50,Optimal,499,9980,C-Slow,37,10/14/2026
+D-R02-B10-L2,D,Mobiles & Accessories,2,10,2,ACCE9DJM8WYHZFZZ,DailyObjects Back Cover for Apple iPad Mini/Retina Display,DailyObjects,Mobiles & Accessories,26,40,65,Optimal,1685,43810,A-Fast,74,9/7/2026
+D-R02-B10-L3,D,Mobiles & Accessories,2,10,3,ACCEAZCVEKWMNSEY,Fuson Back Cover for Samsung Galaxy J7,Fuson,Mobiles & Accessories,13,40,32.5,Optimal,599,7787,C-Slow,42,10/9/2026
+D-R02-B10-L4,D,Mobiles & Accessories,2,10,4,ACCEDQ5CWGUW4VGV,Fastway Sleeve for Samsung Galaxy Tab 8.9 P7300,Fastway,Mobiles & Accessories,34,40,85,Optimal,299,10166,C-Slow,116,7/27/2026
+D-R02-B10-L5,D,Mobiles & Accessories,2,10,5,ACCE2DCZ8TAFNEAP,Total Care TCMTZC1FB Matte Front & Back Protector for Sony X,Total Care,Mobiles & Accessories,37,40,92.5,Overstock,199,7363,C-Slow,112,7/31/2026
+D-R03-B01-L1,D,Mobiles & Accessories,3,1,1,,,,,0,40,0,Empty,0,0,,0,
+D-R03-B01-L2,D,Mobiles & Accessories,3,1,2,OTAEG356HUUGPCTU,"Newgen Tech USB, Micro USB OTG Adapter",Newgen Tech,Mobiles & Accessories,30,40,75,Optimal,199,5970,A-Fast,31,10/20/2026
+D-R03-B01-L3,D,Mobiles & Accessories,3,1,3,ACCE6SJGBGXYHG5P,Theskinmantra Sleeve for All versions of Apple ipad,Theskinmantra,Mobiles & Accessories,2,40,5,Low Stock,549,1098,C-Slow,54,9/27/2026
+D-R03-B01-L4,D,Mobiles & Accessories,3,1,4,ACCEGKFFSRRVD7Y8,Generix OTG for Nexus 6P OTG Cable,Generix,Mobiles & Accessories,30,40,75,Optimal,199,5970,C-Slow,32,10/19/2026
+D-R03-B01-L5,D,Mobiles & Accessories,3,1,5,ACCEGH6SND8XZXTS,kits kart Pouch for Videocon Infinium Z45 Nova+,kits kart,Mobiles & Accessories,19,40,47.5,Optimal,454,8626,B-Medium,69,9/12/2026
+D-R03-B02-L1,D,Mobiles & Accessories,3,2,1,ACCEGYP2FYTWVKUB,XEBAC XEBAC-ADAPTER-B740 Battery Charger,XEBAC,Mobiles & Accessories,22,40,55,Optimal,269,5918,A-Fast,95,8/17/2026
+D-R03-B02-L2,D,Mobiles & Accessories,3,2,2,ACCEBVT585S73BEW,Dyna Silver Heart Stereo Wireless Bluetooth Headset,Dyna,Mobiles & Accessories,16,40,40,Optimal,1849,29584,B-Medium,107,8/5/2026
+D-R03-B02-L3,D,Mobiles & Accessories,3,2,3,ACCEA4BDRZZCTJFV,TheLostPuppy Back Cover for Apple iPad Air,TheLostPuppy,Mobiles & Accessories,34,40,85,Optimal,599,20366,B-Medium,3,11/17/2026
+D-R03-B02-L4,D,Mobiles & Accessories,3,2,4,ACCE9WVGRNJSJW8G,TheLostPuppy Back Cover for Apple iPad Air,TheLostPuppy,Mobiles & Accessories,36,40,90,Overstock,599,21564,C-Slow,83,8/29/2026
+D-R03-B02-L5,D,Mobiles & Accessories,3,2,5,ACCE6SJGGYETZZNY,Theskinmantra Sleeve for All versions of Apple ipad,Theskinmantra,Mobiles & Accessories,34,40,85,Optimal,549,18666,C-Slow,43,10/8/2026
+D-R03-B03-L1,D,Mobiles & Accessories,3,3,1,ACCECA554ZHRTYAG,JLRS Bumper Case for Acer Iconia W3-810|Acer Iconia W4-820,JLRS,Mobiles & Accessories,19,40,47.5,Optimal,449,8531,C-Slow,24,10/27/2026
+D-R03-B03-L2,D,Mobiles & Accessories,3,3,2,ACCE9Y6MFD79NVTZ,TheLostPuppy Back Cover for Apple iPad Air 2,TheLostPuppy,Mobiles & Accessories,9,40,22.5,Optimal,599,5391,C-Slow,36,10/15/2026
+D-R03-B03-L3,D,Mobiles & Accessories,3,3,3,ACCECZPPZFGBTRUG,casetech Flip Cover for Lenovo LePad S2007,casetech,Mobiles & Accessories,20,40,50,Optimal,249,4980,B-Medium,27,10/24/2026
+D-R03-B03-L4,D,Mobiles & Accessories,3,3,4,,,,,0,40,0,Empty,0,0,,0,
+D-R03-B03-L5,D,Mobiles & Accessories,3,3,5,ACCEFH5CATBWYBXP,AdroitZ Premium Phone Socket Holder For LG CT810 Incite,AdroitZ,Mobiles & Accessories,29,40,72.5,Optimal,164,4756,A-Fast,120,7/23/2026
+D-R03-B04-L1,D,Mobiles & Accessories,3,4,1,ACCE9Y6M2WD4HAGZ,TheLostPuppy Back Cover for Apple iPad Air,TheLostPuppy,Mobiles & Accessories,31,40,77.5,Optimal,599,18569,C-Slow,72,9/9/2026
+D-R03-B04-L2,D,Mobiles & Accessories,3,4,2,ACCEA4BDCPB3A8BH,TheLostPuppy Back Cover for Apple iPad Air,TheLostPuppy,Mobiles & Accessories,9,40,22.5,Optimal,599,5391,C-Slow,111,8/1/2026
+D-R03-B04-L3,D,Mobiles & Accessories,3,4,3,ACCDWSBNGJAQ6GKQ,Rock Flip Cover for iPad Air,Rock,Mobiles & Accessories,30,40,75,Optimal,1499,44970,B-Medium,108,8/4/2026
+D-R03-B04-L4,D,Mobiles & Accessories,3,4,4,ACCE6GFCQGEX4CDA,"DailyObjects Back Cover for Apple iPad 2, 3, 4",DailyObjects,Mobiles & Accessories,35,40,87.5,Optimal,1685,58975,C-Slow,106,8/6/2026
+D-R03-B04-L5,D,Mobiles & Accessories,3,4,5,ACCE9YGG3X5HNMRQ,Thelostpuppy Back Cover for Apple iPad Air,Thelostpuppy,Mobiles & Accessories,5,40,12.5,Low Stock,599,2995,A-Fast,35,10/16/2026
+D-R03-B05-L1,D,Mobiles & Accessories,3,5,1,OTAEG356AVUHKYHG,"Newgen Tech USB, Micro USB OTG Adapter",Newgen Tech,Mobiles & Accessories,37,40,92.5,Overstock,199,7363,C-Slow,70,9/11/2026
+D-R03-B05-L2,D,Mobiles & Accessories,3,5,2,ACCDVHJPXVEYGWGK,"Enthopia Back Cover for iPad 2, iPad 3, iPad 4",Enthopia,Mobiles & Accessories,5,40,12.5,Low Stock,1499,7495,B-Medium,54,9/27/2026
+D-R03-B05-L3,D,Mobiles & Accessories,3,5,3,ACCDVHJZ6NZPXWAM,"Enthopia Back Cover for iPad 2, iPad 3, iPad 4",Enthopia,Mobiles & Accessories,12,40,30,Optimal,1499,17988,B-Medium,11,11/9/2026
+D-R03-B05-L4,D,Mobiles & Accessories,3,5,4,OTAEHTCG45ECK7AD,Sonanjali USB OTG Adapter,Sonanjali,Mobiles & Accessories,2,40,5,Low Stock,200,400,C-Slow,13,11/7/2026
+D-R03-B05-L5,D,Mobiles & Accessories,3,5,5,ACCEGH6THHTB6FHH,kits kart Pouch for Micromax A77 Canvas Juice,kits kart,Mobiles & Accessories,19,40,47.5,Optimal,454,8626,A-Fast,13,11/7/2026
+D-R03-B06-L1,D,Mobiles & Accessories,3,6,1,ACCEGNT9YSEHCDDF,BESTSUIT Black Micro-Usb Type For LG OPTIMUS USB Cable,BESTSUIT,Mobiles & Accessories,34,40,85,Optimal,195,6630,B-Medium,68,9/13/2026
+D-R03-B06-L2,D,Mobiles & Accessories,3,6,2,ACCE9YGGCDWRRXGF,Thelostpuppy Back Cover for Apple iPad Air,Thelostpuppy,Mobiles & Accessories,32,40,80,Optimal,599,19168,C-Slow,81,8/31/2026
+D-R03-B06-L3,D,Mobiles & Accessories,3,6,3,ACCE7B8NZXHA5ZV9,Mobilecops Flip Cover for Samsung Galaxy Tab 3.7 inch,Mobilecops,Mobiles & Accessories,27,40,67.5,Optimal,699,18873,A-Fast,82,8/30/2026
+D-R03-B06-L4,D,Mobiles & Accessories,3,6,4,ACCDVHJP2BA7BWFG,"Enthopia Back Cover for iPad Mini, iPad Mini 2, iPad Mini Re",Enthopia,Mobiles & Accessories,29,40,72.5,Optimal,1699,49271,C-Slow,74,9/7/2026
+D-R03-B06-L5,D,Mobiles & Accessories,3,6,5,ACCE9Y6QCAWYHE7Z,TheLostPuppy Back Cover for Apple iPad Air 2,TheLostPuppy,Mobiles & Accessories,37,40,92.5,Overstock,599,22163,B-Medium,100,8/12/2026
+D-R03-B07-L1,D,Mobiles & Accessories,3,7,1,ACCDXB99ZN5K9GXM,Enthopia Back Cover for iPad,Enthopia,Mobiles & Accessories,35,40,87.5,Optimal,1499,52465,C-Slow,72,9/9/2026
+D-R03-B07-L2,D,Mobiles & Accessories,3,7,2,ACCE9DJTN3JAJEHK,DailyObjects Back Cover for Apple iPad 2/3/4,DailyObjects,Mobiles & Accessories,12,40,30,Optimal,1685,20220,B-Medium,97,8/15/2026
+D-R03-B07-L3,D,Mobiles & Accessories,3,7,3,ACCE9Z2HWUKHJXTH,TheLostPuppy Back Cover for Apple iPad Air 2,TheLostPuppy,Mobiles & Accessories,8,40,20,Low Stock,599,4792,C-Slow,72,9/9/2026
+D-R03-B07-L4,D,Mobiles & Accessories,3,7,4,ACCE6SJGUQWZ4E7F,Theskinmantra Sleeve for All versions of Apple ipad,Theskinmantra,Mobiles & Accessories,7,40,17.5,Low Stock,549,3843,C-Slow,90,8/22/2026
+D-R03-B07-L5,D,Mobiles & Accessories,3,7,5,,,,,0,40,0,Empty,0,0,,0,
+D-R03-B08-L1,D,Mobiles & Accessories,3,8,1,ACCEA4F3EXAFZKZD,TheLostPuppy Back Cover for Apple iPad Air,TheLostPuppy,Mobiles & Accessories,20,40,50,Optimal,599,11980,A-Fast,33,10/18/2026
+D-R03-B08-L2,D,Mobiles & Accessories,3,8,2,ACCE6QH4UHRE7WHQ,Kanu Flip Cover for Acer ICONIA B1-720-81111G00nki,Kanu,Mobiles & Accessories,15,40,37.5,Optimal,329,4935,A-Fast,84,8/28/2026
+D-R03-B08-L3,D,Mobiles & Accessories,3,8,3,ACCE9DK4Z6JHHR3Z,DailyObjects Back Cover for Apple iPad Mini/Retina Display,DailyObjects,Mobiles & Accessories,25,40,62.5,Optimal,1685,42125,C-Slow,48,10/3/2026
+D-R03-B08-L4,D,Mobiles & Accessories,3,8,4,ACCE9Y6RHQKUXXCS,TheLostPuppy Back Cover for Apple iPad Air 2,TheLostPuppy,Mobiles & Accessories,30,40,75,Optimal,599,17970,A-Fast,35,10/16/2026
+D-R03-B08-L5,D,Mobiles & Accessories,3,8,5,ACCEGZZZZDQ9BRYX,Clear Shield Original Anti Glare - (S315) Screen Guard for K,Clear Shield,Mobiles & Accessories,34,40,85,Optimal,174,5916,B-Medium,113,7/30/2026
+D-R03-B09-L1,D,Mobiles & Accessories,3,9,1,ACCE9DJVVZT4X8ZB,DailyObjects Back Cover for Apple iPad 2/3/4,DailyObjects,Mobiles & Accessories,29,40,72.5,Optimal,1685,48865,B-Medium,28,10/23/2026
+D-R03-B09-L2,D,Mobiles & Accessories,3,9,2,ACCEYTXCGP4W36VY,Total Care TC-L830 Screen Guard for Nokia Lumia 830,Total Care,Mobiles & Accessories,10,40,25,Optimal,175,1750,A-Fast,59,9/22/2026
+D-R03-B09-L3,D,Mobiles & Accessories,3,9,3,ACCEA4BDAQMTG8XG,TheLostPuppy Back Cover for Apple iPad Air 2,TheLostPuppy,Mobiles & Accessories,21,40,52.5,Optimal,599,12579,B-Medium,2,11/18/2026
+D-R03-B09-L4,D,Mobiles & Accessories,3,9,4,ACCEGUY9UY7UQTNF,Shortkut enterprises Model no 477 Mobile/Tablet Speaker,Shortkut enterprises,Mobiles & Accessories,15,40,37.5,Optimal,449,6735,C-Slow,77,9/4/2026
+D-R03-B09-L5,D,Mobiles & Accessories,3,9,5,ACCE9YWEFM7KTXVS,TheLostPuppy Back Cover for Apple iPad Air,TheLostPuppy,Mobiles & Accessories,27,40,67.5,Optimal,599,16173,B-Medium,12,11/8/2026
+D-R03-B10-L1,D,Mobiles & Accessories,3,10,1,ACCE6RHSYPAB8TBH,Nillkin G09 Tempered Glass for Samsung Galaxy A3(A300),Nillkin,Mobiles & Accessories,32,40,80,Optimal,440,14080,C-Slow,102,8/10/2026
+D-R03-B10-L2,D,Mobiles & Accessories,3,10,2,ACCDXZK5H9WPZ84Q,APS Sleeve for iBall Slide 7334q Tablet,APS,Mobiles & Accessories,2,40,5,Low Stock,250,500,C-Slow,21,10/30/2026
+D-R03-B10-L3,D,Mobiles & Accessories,3,10,3,MOHEGYZJDMGUJQYB,Cotab R2  360 Degree rotatable Ring stand holder for all sma,Cotab,Mobiles & Accessories,36,40,90,Overstock,339,12204,B-Medium,99,8/13/2026
+D-R03-B10-L4,D,Mobiles & Accessories,3,10,4,ACCEEH83ZXAKGGP7,Bracevor Laptop Case for Apple Macbook Air 13.3 inch,Bracevor,Mobiles & Accessories,11,40,27.5,Optimal,1499,16489,C-Slow,5,11/15/2026
+D-R03-B10-L5,D,Mobiles & Accessories,3,10,5,ACCDMWEGPQXZUTYZ,Rock Book Cover for iPad Mini,Rock,Mobiles & Accessories,21,40,52.5,Optimal,1749,36729,B-Medium,86,8/26/2026
+D-R04-B01-L1,D,Mobiles & Accessories,4,1,1,ACCEGZ8GRVUADQ4Y,LIFE LIKE S450 3.0 WITH MIC GOOD SOUND QUALITY Wired & Wirel,LIFE LIKE,Mobiles & Accessories,33,40,82.5,Optimal,999,32967,C-Slow,105,8/7/2026
+D-R04-B01-L2,D,Mobiles & Accessories,4,1,2,ACCE22EDXGSJT5ZJ,Hoko Book Cover for Nexus 7 K009,Hoko,Mobiles & Accessories,16,40,40,Optimal,1200,19200,A-Fast,91,8/21/2026
+D-R04-B01-L3,D,Mobiles & Accessories,4,1,3,ACCEFH5BNCCAZ3HG,AdroitZ Premium Phone Socket Holder For Galaxy Nexus,AdroitZ,Mobiles & Accessories,29,40,72.5,Optimal,164,4756,B-Medium,40,10/11/2026
+D-R04-B01-L4,D,Mobiles & Accessories,4,1,4,ACCEJFGQSZF7GWEU,Saco SG0516-35 Screen Guard for Asus A553SA-XX050T 15.6-inch,Saco,Mobiles & Accessories,20,40,50,Optimal,450,9000,C-Slow,8,11/12/2026
+D-R04-B01-L5,D,Mobiles & Accessories,4,1,5,ACCEGUY9BNMCFZ8P,Shortkut enterprises Model no 483 Mobile/Tablet Speaker,Shortkut enterprises,Mobiles & Accessories,26,40,65,Optimal,449,11674,C-Slow,18,11/2/2026
+D-R04-B02-L1,D,Mobiles & Accessories,4,2,1,ACCE6GFCNSWTXHPK,"DailyObjects Back Cover for Apple iPad 2, 3, 4",DailyObjects,Mobiles & Accessories,29,40,72.5,Optimal,1685,48865,C-Slow,81,8/31/2026
+D-R04-B02-L2,D,Mobiles & Accessories,4,2,2,ACCEGNYUMARHZWGW,snjmart Gold Note 4 Stereo Dynamic Earphone Wired Headphones,snjmart,Mobiles & Accessories,12,40,30,Optimal,299,3588,A-Fast,93,8/19/2026
+D-R04-B02-L3,D,Mobiles & Accessories,4,2,3,ACCEJGYYYCGETMGA,ACM Pouch for Intex Aqua Lions 3g,ACM,Mobiles & Accessories,6,40,15,Low Stock,339,2034,A-Fast,26,10/25/2026
+D-R04-B02-L4,D,Mobiles & Accessories,4,2,4,ACCE9Z5U2CQZJKTY,TheLostPuppy Back Cover for Apple iPad Air 2,TheLostPuppy,Mobiles & Accessories,22,40,55,Optimal,599,13178,C-Slow,19,11/1/2026
+D-R04-B02-L5,D,Mobiles & Accessories,4,2,5,ACCE9DKA59UT5X2J,DailyObjects Back Cover for Apple iPad 2/3/4,DailyObjects,Mobiles & Accessories,35,40,87.5,Optimal,1685,58975,C-Slow,117,7/26/2026
+D-R04-B03-L1,D,Mobiles & Accessories,4,3,1,ACCDUFZGPZPYYWDT,"Enthopia Back Cover for Ipad Air, Ipad 5",Enthopia,Mobiles & Accessories,7,40,17.5,Low Stock,1895,13265,A-Fast,8,11/12/2026
+D-R04-B03-L2,D,Mobiles & Accessories,4,3,2,ACCECZTBN76ZFNZC,TUP Flip Cover for 7 Inch BSNL Champion W Tab 706,TUP,Mobiles & Accessories,7,40,17.5,Low Stock,298,2086,C-Slow,32,10/19/2026
+D-R04-B03-L3,D,Mobiles & Accessories,4,3,3,ACCEGNYUMARHZWGW,snjmart Gold Note 4 Stereo Dynamic Earphone Wired Headphones,snjmart,Mobiles & Accessories,18,40,45,Optimal,299,5382,C-Slow,83,8/29/2026
+D-R04-B03-L4,D,Mobiles & Accessories,4,3,4,ACCDXH5FBZWDPPHX,i-KitPit Pouch for Lenovo A369i,i-KitPit,Mobiles & Accessories,2,40,5,Low Stock,249,498,B-Medium,76,9/5/2026
+D-R04-B03-L5,D,Mobiles & Accessories,4,3,5,ACCE9Y6Q7QJN9BTT,TheLostPuppy Back Cover for Apple iPad Air,TheLostPuppy,Mobiles & Accessories,35,40,87.5,Optimal,599,20965,C-Slow,52,9/29/2026
+D-R04-B04-L1,D,Mobiles & Accessories,4,4,1,ACCE9Y6QYKUUS5XR,TheLostPuppy Back Cover for Apple iPad Air 2,TheLostPuppy,Mobiles & Accessories,11,40,27.5,Optimal,599,6589,A-Fast,68,9/13/2026
+D-R04-B04-L2,D,Mobiles & Accessories,4,4,2,ACCE3YFFDZYHG4MM,"Icon Book Cover for iPad 2, iPad 3, iPad 4",Icon,Mobiles & Accessories,13,40,32.5,Optimal,599,7787,B-Medium,38,10/13/2026
+D-R04-B04-L3,D,Mobiles & Accessories,4,4,3,ACCECNDZFMXUFYVZ,"MHK Pouch for Apple iPad Air, Apple iPad Air 2, Apple 4th Ge",MHK,Mobiles & Accessories,30,40,75,Optimal,1199,35970,C-Slow,111,8/1/2026
+D-R04-B04-L4,D,Mobiles & Accessories,4,4,4,ACCEAZCVABRA3MXR,Fuson Back Cover for Samsung Galaxy J7,Fuson,Mobiles & Accessories,33,40,82.5,Optimal,599,19767,C-Slow,11,11/9/2026
+D-R04-B04-L5,D,Mobiles & Accessories,4,4,5,ACCE9WVGPZPZHYZC,TheLostPuppy Back Cover for Apple iPad Air,TheLostPuppy,Mobiles & Accessories,31,40,77.5,Optimal,599,18569,B-Medium,108,8/4/2026
+D-R04-B05-L1,D,Mobiles & Accessories,4,5,1,ACCECZTCGM5QTWWF,TUP Flip Cover for Stand Milagrow 7.16/7.16 pro 7 Inch,TUP,Mobiles & Accessories,12,40,30,Blocked,298,3576,B-Medium,120,7/23/2026
+D-R04-B05-L2,D,Mobiles & Accessories,4,5,2,ACCE6SJGGXPUXDGJ,Theskinmantra Sleeve for All versions of Apple ipad,Theskinmantra,Mobiles & Accessories,25,40,62.5,Optimal,549,13725,A-Fast,49,10/2/2026
+D-R04-B05-L3,D,Mobiles & Accessories,4,5,3,ACCE6SJGQHWHN8UZ,Theskinmantra Sleeve for All versions of Apple ipad,Theskinmantra,Mobiles & Accessories,3,40,7.5,Blocked,549,1647,B-Medium,23,10/28/2026
+D-R04-B05-L4,D,Mobiles & Accessories,4,5,4,ACCE9Z2HBDWY8S9N,TheLostPuppy Back Cover for Apple iPad Air,TheLostPuppy,Mobiles & Accessories,31,40,77.5,Optimal,599,18569,B-Medium,113,7/30/2026
+D-R04-B05-L5,D,Mobiles & Accessories,4,5,5,ACCE9Y6R2GZD5ZGC,TheLostPuppy Back Cover for Apple iPad Air 2,TheLostPuppy,Mobiles & Accessories,31,40,77.5,Optimal,599,18569,A-Fast,87,8/25/2026
+D-R04-B06-L1,D,Mobiles & Accessories,4,6,1,ACCE9HC5MEDTHUYB,Rang Rage Pouch for Apple iPad,Rang Rage,Mobiles & Accessories,3,40,7.5,Low Stock,1199,3597,B-Medium,114,7/29/2026
+D-R04-B06-L2,D,Mobiles & Accessories,4,6,2,ACCE9DJXGJKWFVEH,DailyObjects Back Cover for Apple iPad 2/3/4,DailyObjects,Mobiles & Accessories,9,40,22.5,Optimal,1685,15165,C-Slow,14,11/6/2026
+D-R04-B06-L3,D,Mobiles & Accessories,4,6,3,ACCEAZCVGHVNJ5YX,Fuson Back Cover for Samsung Galaxy J7,Fuson,Mobiles & Accessories,39,40,97.5,Overstock,599,23361,C-Slow,61,9/20/2026
+D-R04-B06-L4,D,Mobiles & Accessories,4,6,4,ACCE9Z2HKHDGH7JY,TheLostPuppy Back Cover for Apple iPad Air 2,TheLostPuppy,Mobiles & Accessories,39,40,97.5,Overstock,599,23361,A-Fast,48,10/3/2026
+D-R04-B06-L5,D,Mobiles & Accessories,4,6,5,ACCDQJYMJJ5CF8ZY,"STM Flip Cover for iPad (2nd, 3rd and 4th Generation)",STM,Mobiles & Accessories,33,40,82.5,Optimal,1999,65967,B-Medium,63,9/18/2026
+D-R04-B07-L1,D,Mobiles & Accessories,4,7,1,ACCDUFZGNYNJMHGY,"Enthopia Back Cover for Ipad Air, Ipad 5",Enthopia,Mobiles & Accessories,3,40,7.5,Low Stock,1499,4497,A-Fast,89,8/23/2026
+D-R04-B07-L2,D,Mobiles & Accessories,4,7,2,ACCE8XZMFNFCDPXE,Kanu Book Cover for Spice Mi-720,Kanu,Mobiles & Accessories,27,40,67.5,Optimal,599,16173,B-Medium,94,8/18/2026
+D-R04-B07-L3,D,Mobiles & Accessories,4,7,3,ACCE9DJTEHXUGPCG,DailyObjects Back Cover for Apple iPad 2/3/4,DailyObjects,Mobiles & Accessories,27,40,67.5,Optimal,1685,45495,A-Fast,73,9/8/2026
+D-R04-B07-L4,D,Mobiles & Accessories,4,7,4,ACCEDTNRCATDEC54,D'clair Micromax Bolt Q324 Battery Charger,D'clair,Mobiles & Accessories,20,40,50,Optimal,400,8000,C-Slow,40,10/11/2026
+D-R04-B07-L5,D,Mobiles & Accessories,4,7,5,ACCEGYP28HFF9ATP,XEBAC XEBAC-ADAPTER-B725 Battery Charger,XEBAC,Mobiles & Accessories,10,40,25,Optimal,269,2690,A-Fast,64,9/17/2026
+D-R04-B08-L1,D,Mobiles & Accessories,4,8,1,ACCEJGYYYCGETMGA,ACM Pouch for Intex Aqua Lions 3g,ACM,Mobiles & Accessories,11,40,27.5,Optimal,339,3729,B-Medium,53,9/28/2026
+D-R04-B08-L2,D,Mobiles & Accessories,4,8,2,ACCE9Y6QCYTYZV3S,TheLostPuppy Back Cover for Apple iPad Air,TheLostPuppy,Mobiles & Accessories,20,40,50,Optimal,599,11980,B-Medium,72,9/9/2026
+D-R04-B08-L3,D,Mobiles & Accessories,4,8,3,ACCEGUY9FZGSGFUP,Shortkut enterprises Model no 460 Mobile/Tablet Speaker,Shortkut enterprises,Mobiles & Accessories,6,40,15,Low Stock,449,2694,C-Slow,4,11/16/2026
+D-R04-B08-L4,D,Mobiles & Accessories,4,8,4,ACCE9Y6QKYA4HPFH,TheLostPuppy Back Cover for Apple iPad Air,TheLostPuppy,Mobiles & Accessories,29,40,72.5,Optimal,599,17371,B-Medium,4,11/16/2026
+D-R04-B08-L5,D,Mobiles & Accessories,4,8,5,ACCDUFZGPZPYYWDT,"Enthopia Back Cover for Ipad Air, Ipad 5",Enthopia,Mobiles & Accessories,27,40,67.5,Optimal,1895,51165,B-Medium,110,8/2/2026
+D-R04-B09-L1,D,Mobiles & Accessories,4,9,1,ACCE9Y6RPTWZRBBU,TheLostPuppy Back Cover for Apple iPad Air,TheLostPuppy,Mobiles & Accessories,3,40,7.5,Blocked,599,1797,B-Medium,54,9/27/2026
+D-R04-B09-L2,D,Mobiles & Accessories,4,9,2,ACCE9Z2HWUKHJXTH,TheLostPuppy Back Cover for Apple iPad Air 2,TheLostPuppy,Mobiles & Accessories,30,40,75,Optimal,599,17970,C-Slow,72,9/9/2026
+D-R04-B09-L3,D,Mobiles & Accessories,4,9,3,ACCE6SJGFZK6GS6D,Theskinmantra Sleeve for All versions of Apple ipad,Theskinmantra,Mobiles & Accessories,7,40,17.5,Low Stock,549,3843,B-Medium,74,9/7/2026
+D-R04-B09-L4,D,Mobiles & Accessories,4,9,4,,,,,0,40,0,Empty,0,0,,0,
+D-R04-B09-L5,D,Mobiles & Accessories,4,9,5,ACCE4XC5FAF7S9UY,BMS Lifestyle Keyboard Case for Apple iPad Air,BMS Lifestyle,Mobiles & Accessories,19,40,47.5,Optimal,1499,28481,C-Slow,56,9/25/2026
+D-R04-B10-L1,D,Mobiles & Accessories,4,10,1,ACCEGYP28HFF9ATP,XEBAC XEBAC-ADAPTER-B725 Battery Charger,XEBAC,Mobiles & Accessories,8,40,20,Low Stock,269,2152,B-Medium,98,8/14/2026
+D-R04-B10-L2,D,Mobiles & Accessories,4,10,2,ACCEDHZCASMFY9RR,BMS Book Cover for Apple ipad Pro,BMS,Mobiles & Accessories,22,40,55,Optimal,1199,26378,C-Slow,67,9/14/2026
+D-R04-B10-L3,D,Mobiles & Accessories,4,10,3,ACCDXB9QWFZ4EYSP,Enthopia Back Cover for iPad,Enthopia,Mobiles & Accessories,39,40,97.5,Overstock,1499,58461,B-Medium,110,8/2/2026
+D-R04-B10-L4,D,Mobiles & Accessories,4,10,4,ACCEFH5BCCEAPJEK,AdroitZ Premium Phone Socket Holder For Samsung Infuse 4G,AdroitZ,Mobiles & Accessories,6,40,15,Low Stock,164,984,A-Fast,72,9/9/2026
+D-R04-B10-L5,D,Mobiles & Accessories,4,10,5,ACCDS2HWGTMJGVHP,Rock Flip Cover for iPad Air,Rock,Mobiles & Accessories,31,40,77.5,Optimal,1499,46469,B-Medium,15,11/5/2026
+E-R01-B01-L1,E,Automotive,1,1,1,CRTECN2QZKYVAKTZ,Allure Auto CM 1468 Car Mat Hyundai Santro Xing,Allure Auto,Automotive,29,40,72.5,Optimal,1599,46371,A-Fast,44,10/7/2026
+E-R01-B01-L2,E,Automotive,1,1,2,SUDEGVG6YTPMYPU4,VDRIVE HEAVY NET / JALI_41 Sun Shade For Maruti Esteem,VDRIVE,Automotive,38,40,95,Overstock,899,34162,C-Slow,81,8/31/2026
+E-R01-B01-L3,E,Automotive,1,1,3,CRTECN2QSVZAXMVG,Allure Auto CM 948 Car Mat Nissan Sunny,Allure Auto,Automotive,27,40,67.5,Optimal,1380,37260,C-Slow,48,10/3/2026
+E-R01-B01-L4,E,Automotive,1,1,4,CRTEA7HAC5HFBYGY,3a AUTOCARE Car Mat Maruti Ertiga,3a AUTOCARE,Automotive,11,40,27.5,Blocked,2090,22990,C-Slow,26,10/25/2026
+E-R01-B01-L5,E,Automotive,1,1,5,CRTECN2QUGVQGSCG,Allure Auto CM 1924 Car Mat Maruti Grand Vitara,Allure Auto,Automotive,22,40,55,Optimal,1599,35178,B-Medium,86,8/26/2026
+E-R01-B02-L1,E,Automotive,1,2,1,CRTECN2QWQNYZJ5M,Allure Auto CM 1256 Car Mat Tata Sumo,Allure Auto,Automotive,14,40,35,Optimal,1599,22386,B-Medium,80,9/1/2026
+E-R01-B02-L2,E,Automotive,1,2,2,SUDEGVG2XUU2ABG5,VDRIVE HEAVY NET / JALI_104 Sun Shade For Chevrolet Sail UVA,VDRIVE,Automotive,33,40,82.5,Optimal,899,29667,B-Medium,11,11/9/2026
+E-R01-B02-L3,E,Automotive,1,2,3,CSOE94WXPR8HZJUZ,Viral Shopping Steering Cover For Chevrolet Sail,Viral Shopping,Automotive,17,40,42.5,Optimal,199,3383,C-Slow,84,8/28/2026
+E-R01-B02-L4,E,Automotive,1,2,4,CDBECAF9YQQUJH4E,I-Pop Plastic Car Bumper Guard,I-Pop,Automotive,37,40,92.5,Overstock,578,21386,C-Slow,4,11/16/2026
+E-R01-B02-L5,E,Automotive,1,2,5,CRTECN2QYASYFKGS,Allure Auto CM 663 Car Mat Nissan Micra,Allure Auto,Automotive,39,40,97.5,Overstock,920,35880,B-Medium,11,11/9/2026
+E-R01-B03-L1,E,Automotive,1,3,1,TVCEFGUAYANHKFGT,Joynix Blue Bike Led Light With Motion Sensor Tyre Valve Cap,Joynix,Automotive,4,40,10,Low Stock,199,796,C-Slow,73,9/8/2026
+E-R01-B03-L2,E,Automotive,1,3,2,VMREGZPQ5P8YQQP2,Speedwav 154439 Manual Rear View Mirror,Speedwav,Automotive,23,40,57.5,Optimal,594,13662,B-Medium,45,10/6/2026
+E-R01-B03-L3,E,Automotive,1,3,3,CCVEFX3Y9DFJVJUU,Wadhwa creations Car Cover For Polo,Wadhwa creations,Automotive,18,40,45,Optimal,789,14202,B-Medium,6,11/14/2026
+E-R01-B03-L4,E,Automotive,1,3,4,HBAEGEXDRN2PQ8A6,Speedwav 77489 Handlebar,Speedwav,Automotive,37,40,92.5,Overstock,357,13209,A-Fast,34,10/17/2026
+E-R01-B03-L5,E,Automotive,1,3,5,CRTECN2QTYMM5RGZ,Allure Auto CM 1642 Car Mat Maruti New Dzire,Allure Auto,Automotive,8,40,20,Low Stock,1599,12792,C-Slow,31,10/20/2026
+E-R01-B04-L1,E,Automotive,1,4,1,CBHEJVGFEJAHVEYS,Himmlisch 20881 Car Bottle Holder,Himmlisch,Automotive,16,40,40,Blocked,299,4784,A-Fast,7,11/13/2026
+E-R01-B04-L2,E,Automotive,1,4,2,CDBECTRVD8H3ZG4N,Speedwav Plastic Car Door Guard,Speedwav,Automotive,4,40,10,Low Stock,600,2400,B-Medium,39,10/12/2026
+E-R01-B04-L3,E,Automotive,1,4,3,VLBEJKMQNYGFDJWN,Accessoreez Headlight LED Bulb for  TATA PRIMA,Accessoreez,Automotive,22,40,55,Optimal,949,20878,C-Slow,30,10/21/2026
+E-R01-B04-L4,E,Automotive,1,4,4,,,,,0,40,0,Empty,0,0,,0,
+E-R01-B04-L5,E,Automotive,1,4,5,VHREB3ZY57M2PFUM,Speedwav Single Pipe Car Air Pressure -Nissan Sunny 200 dB V,Speedwav,Automotive,9,40,22.5,Optimal,873,7857,A-Fast,29,10/22/2026
+E-R01-B05-L1,E,Automotive,1,5,1,CRTECN2QSHR5JJUU,Allure Auto CM 854 Car Mat Chevrolet Beat,Allure Auto,Automotive,26,40,65,Optimal,1380,35880,B-Medium,47,10/4/2026
+E-R01-B05-L2,E,Automotive,1,5,2,CRTEB774NVQBZKJ8,3a Autocare Santro Car Mat Hyundai Santro,3a Autocare,Automotive,34,40,85,Optimal,1460,49640,B-Medium,110,8/2/2026
+E-R01-B05-L3,E,Automotive,1,5,3,CRTECN2QY2WRVENS,Allure Auto CM 519 Car Mat Mitsubishi Cielo,Allure Auto,Automotive,26,40,65,Optimal,920,23920,B-Medium,109,8/3/2026
+E-R01-B05-L4,E,Automotive,1,5,4,CRTECN2QU9FYCMKU,Allure Auto CM 551 Car Mat Tata Zest,Allure Auto,Automotive,26,40,65,Optimal,920,23920,C-Slow,59,9/22/2026
+E-R01-B05-L5,E,Automotive,1,5,5,HBAEGEXDRN2PQ8A6,Speedwav 77489 Handlebar,Speedwav,Automotive,14,40,35,Optimal,357,4998,B-Medium,12,11/8/2026
+E-R01-B06-L1,E,Automotive,1,6,1,TWCEAXCCNPYAJUZZ,ATC BLackATC 39 Two Wheeler Cover,ATC,Automotive,12,40,30,Optimal,199,2388,B-Medium,113,7/30/2026
+E-R01-B06-L2,E,Automotive,1,6,2,CRTECN2QTHZGY88Z,Allure Auto CM 914 Car Mat Mahindra Thar,Allure Auto,Automotive,31,40,77.5,Blocked,1380,42780,B-Medium,74,9/7/2026
+E-R01-B06-L3,E,Automotive,1,6,3,CRTEHSSAM5WKZS3V,Packy Poda Car Mat Honda Brio,Packy Poda,Automotive,6,40,15,Low Stock,1402,8412,A-Fast,58,9/23/2026
+E-R01-B06-L4,E,Automotive,1,6,4,,,,,0,40,0,Empty,0,0,,0,
+E-R01-B06-L5,E,Automotive,1,6,5,CRTECN2QVDE3BWFH,Allure Auto CM 925 Car Mat Maruti Celerio,Allure Auto,Automotive,15,40,37.5,Optimal,1380,20700,A-Fast,98,8/14/2026
+E-R01-B07-L1,E,Automotive,1,7,1,,,,,0,40,0,Empty,0,0,,0,
+E-R01-B07-L2,E,Automotive,1,7,2,CRTECN2QUPXANVU9,Allure Auto CM 777 Car Mat Maruti 800,Allure Auto,Automotive,14,40,35,Optimal,1380,19320,C-Slow,53,9/28/2026
+E-R01-B07-L3,E,Automotive,1,7,3,CRTECUWZGQQEHYSC,Allure Auto sur-4621 Car Mat Tata Safari,Allure Auto,Automotive,39,40,97.5,Overstock,1799,70161,A-Fast,38,10/13/2026
+E-R01-B07-L4,E,Automotive,1,7,4,CCVEFX3WAZFJA92K,Wadhwa creations Car Cover For CR-V,Wadhwa creations,Automotive,25,40,62.5,Optimal,989,24725,C-Slow,71,9/10/2026
+E-R01-B07-L5,E,Automotive,1,7,5,CRTECN2QU9FYCMKU,Allure Auto CM 551 Car Mat Tata Zest,Allure Auto,Automotive,22,40,55,Blocked,920,20240,B-Medium,14,11/6/2026
+E-R01-B08-L1,E,Automotive,1,8,1,CRTECN2QTN6QNFW5,Allure Auto CM 1663 Car Mat Renault Pulse,Allure Auto,Automotive,17,40,42.5,Optimal,1599,27183,A-Fast,33,10/18/2026
+E-R01-B08-L2,E,Automotive,1,8,2,CRTECN2QZ8AAVTRS,Allure Auto CM 852 Car Mat Volkswagen Vento,Allure Auto,Automotive,23,40,57.5,Blocked,1380,31740,C-Slow,10,11/10/2026
+E-R01-B08-L3,E,Automotive,1,8,3,CRTECN2R5JRYASA4,Allure Auto CM 1483 Car Mat Mahindra Verito,Allure Auto,Automotive,23,40,57.5,Optimal,1599,36777,B-Medium,115,7/28/2026
+E-R01-B08-L4,E,Automotive,1,8,4,SUDEJFBRVYEUZUDH,Himmlisch ST381 Magnetic Sun Shade For Maruti Alto,Himmlisch,Automotive,17,40,42.5,Optimal,1899,32283,C-Slow,29,10/22/2026
+E-R01-B08-L5,E,Automotive,1,8,5,CSOE94WXZHYY9AYH,Viral Shopping Steering Cover For Datsun Go,Viral Shopping,Automotive,2,40,5,Low Stock,148,296,B-Medium,54,9/27/2026
+E-R01-B09-L1,E,Automotive,1,9,1,CRTECN2QWVXB3XQZ,Allure Auto CM 507 Car Mat Maruti New Swift,Allure Auto,Automotive,22,40,55,Optimal,920,20240,A-Fast,29,10/22/2026
+E-R01-B09-L2,E,Automotive,1,9,2,CRTECN2QXZ3GQWH8,Allure Auto CM 694 Car Mat Toyota Altis,Allure Auto,Automotive,8,40,20,Low Stock,920,7360,C-Slow,117,7/26/2026
+E-R01-B09-L3,E,Automotive,1,9,3,TWCEGVM9UGQCHHYP,AdroitZ PREMIUM Orange & Black Bike Body Cover For Hero Kari,AdroitZ,Automotive,7,40,17.5,Low Stock,211,1477,B-Medium,75,9/6/2026
+E-R01-B09-L4,E,Automotive,1,9,4,CRTECN2QUVRBHDKG,Allure Auto CM 578 Car Mat Chevrolet Tavera,Allure Auto,Automotive,6,40,15,Low Stock,920,5520,C-Slow,93,8/19/2026
+E-R01-B09-L5,E,Automotive,1,9,5,CRTECN2QUFY2YTJK,Allure Auto CM 1157 Car Mat Ford Ecosport,Allure Auto,Automotive,26,40,65,Optimal,1599,41574,C-Slow,92,8/20/2026
+E-R01-B10-L1,E,Automotive,1,10,1,ACCE8XUCYRB9ATHZ,Fonokase Car Mount 03,Fonokase,Automotive,5,40,12.5,Low Stock,750,3750,C-Slow,114,7/29/2026
+E-R01-B10-L2,E,Automotive,1,10,2,SUDEHYGUBYUKVZYJ,Speedwav 240342 Sun Shade For Mahindra Scorpio,Speedwav,Automotive,6,40,15,Low Stock,358,2148,C-Slow,16,11/4/2026
+E-R01-B10-L3,E,Automotive,1,10,3,CRTECN2QTMBYK9HQ,Allure Auto CM 1110 Car Mat Tata Indigo Marina,Allure Auto,Automotive,12,40,30,Optimal,1599,19188,A-Fast,73,9/8/2026
+E-R01-B10-L4,E,Automotive,1,10,4,CRTECN2QT6SYQFNP,Allure Auto CM 100 Car Mat Renault Koleos,Allure Auto,Automotive,17,40,42.5,Optimal,1350,22950,B-Medium,48,10/3/2026
+E-R01-B10-L5,E,Automotive,1,10,5,BLKEBEUNFFPSFKHE,ESHOPITUDE Disk Break Lock ZARGV1097-HONDAINTERCEPTOR U Lock,ESHOPITUDE,Automotive,34,40,85,Optimal,299,10166,B-Medium,104,8/8/2026
+E-R02-B01-L1,E,Automotive,2,1,1,VAREJGRFHDKSGZT9,Himmlisch AAD0524 Car Armrest,Himmlisch,Automotive,33,40,82.5,Optimal,999,32967,A-Fast,50,10/1/2026
+E-R02-B01-L2,E,Automotive,2,1,2,ACCE74HCBUZZYH2X,Orientel Big Bird Mounth double Cip Car Mount Holder for mob,Orientel,Automotive,2,40,5,Low Stock,425,850,A-Fast,74,9/7/2026
+E-R02-B01-L3,E,Automotive,2,1,3,VHREB3NZXGMGYFEJ,Speedwav Twin Tone 2 Pipe Car Air Pressure -Hyundai Verna Ty,Speedwav,Automotive,26,40,65,Optimal,1048,27248,B-Medium,57,9/24/2026
+E-R02-B01-L4,E,Automotive,2,1,4,CRTECN2QVQQNZMRW,Allure Auto CM 1567 Car Mat Chevrolet Enjoy,Allure Auto,Automotive,20,40,50,Optimal,1599,31980,A-Fast,77,9/4/2026
+E-R02-B01-L5,E,Automotive,2,1,5,CRTECN2QSX6JZKKJ,Allure Auto CM 1076 Car Mat Maruti Omni,Allure Auto,Automotive,14,40,35,Optimal,1599,22386,A-Fast,93,8/19/2026
+E-R02-B02-L1,E,Automotive,2,2,1,VHREB3NZD9YGJ2JD,Speedwav Car Loud Hooter Dog -Mitsubishi Outlander 200 dB Ve,Speedwav,Automotive,2,40,5,Low Stock,778,1556,C-Slow,24,10/27/2026
+E-R02-B02-L2,E,Automotive,2,2,2,SUDEHYGVUAJZFGYK,Speedwav 240325 Sun Shade For Chevrolet Captiva,Speedwav,Automotive,4,40,10,Low Stock,358,1432,C-Slow,87,8/25/2026
+E-R02-B02-L3,E,Automotive,2,2,3,HBAEGEXDUS2PXNG6,Speedwav 77555 Handlebar,Speedwav,Automotive,30,40,75,Optimal,314,9420,B-Medium,110,8/2/2026
+E-R02-B02-L4,E,Automotive,2,2,4,CRTECN2RQJGXB54U,Allure Auto CM 1458 Car Mat Honda New City,Allure Auto,Automotive,4,40,10,Low Stock,1599,6396,B-Medium,71,9/10/2026
+E-R02-B02-L5,E,Automotive,2,2,5,CRTECN2QXKEHU7BF,Allure Auto CM 1603 Car Mat Hyundai Elite i20,Allure Auto,Automotive,19,40,47.5,Optimal,1599,30381,B-Medium,101,8/11/2026
+E-R02-B03-L1,E,Automotive,2,3,1,,,,,0,40,0,Empty,0,0,,0,
+E-R02-B03-L2,E,Automotive,2,3,2,CRTECN2QZH8B4DYY,Allure Auto CM 1747 Car Mat Hyundai Fluidic Verna,Allure Auto,Automotive,35,40,87.5,Optimal,1599,55965,C-Slow,120,7/23/2026
+E-R02-B03-L3,E,Automotive,2,3,3,CRTECN2QTGFWHYBY,Allure Auto CM 1832 Car Mat Toyota Corolla,Allure Auto,Automotive,16,40,40,Optimal,1599,25584,A-Fast,49,10/2/2026
+E-R02-B03-L4,E,Automotive,2,3,4,SUDEGGB52W7HYS9U,AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) ,AdroitZ,Automotive,7,40,17.5,Low Stock,199,1393,B-Medium,81,8/31/2026
+E-R02-B03-L5,E,Automotive,2,3,5,ACCEATGZU9QWN3XR,Capdase Car Headrest Mount,Capdase,Automotive,17,40,42.5,Optimal,1550,26350,B-Medium,84,8/28/2026
+E-R02-B04-L1,E,Automotive,2,4,1,,,,,0,40,0,Empty,0,0,,0,
+E-R02-B04-L2,E,Automotive,2,4,2,CRTEA7HAHHCSHCEM,3a AUTOCARE Car Mat Hyundai Xcent,3a AUTOCARE,Automotive,19,40,47.5,Blocked,1790,34010,A-Fast,87,8/25/2026
+E-R02-B04-L3,E,Automotive,2,4,3,BHGEJQY4GJ9PEZX5,AUTOSiTY AS101 Bike Handle Grip For Universal For Bike Unive,AUTOSiTY,Automotive,7,40,17.5,Low Stock,499,3493,C-Slow,118,7/25/2026
+E-R02-B04-L4,E,Automotive,2,4,4,VHRE4ZNGMPBTHHZN,Type R G103 110 dB Vehicle Horn,Type R,Automotive,28,40,70,Optimal,449,12572,B-Medium,38,10/13/2026
+E-R02-B04-L5,E,Automotive,2,4,5,CRTECN2QZZJNSHRZ,Allure Auto CM 904 Car Mat Hyundai Verna,Allure Auto,Automotive,30,40,75,Optimal,1380,41400,B-Medium,56,9/25/2026
+E-R02-B05-L1,E,Automotive,2,5,1,CRTECN2QUTDWFYGA,Allure Auto CM 1700 Car Mat Volkswagen Jetta,Allure Auto,Automotive,4,40,10,Low Stock,1599,6396,C-Slow,113,7/30/2026
+E-R02-B05-L2,E,Automotive,2,5,2,CRTECN2QXC68CTUM,Allure Auto CM 1445 Car Mat Ford Ikon,Allure Auto,Automotive,33,40,82.5,Optimal,1599,52767,C-Slow,20,10/31/2026
+E-R02-B05-L3,E,Automotive,2,5,3,,,,,0,40,0,Empty,0,0,,0,
+E-R02-B05-L4,E,Automotive,2,5,4,COVEJVF7ENJZTYCJ,Craze PU Leather Car Seat Cover For Ford Endeavour,Craze,Automotive,16,40,40,Optimal,7999,127984,B-Medium,67,9/14/2026
+E-R02-B05-L5,E,Automotive,2,5,5,CRTECN2QWPZM7GRF,Allure Auto CM 1268 Car Mat Toyota Etios Liva,Allure Auto,Automotive,2,40,5,Low Stock,1599,3198,B-Medium,115,7/28/2026
+E-R02-B06-L1,E,Automotive,2,6,1,VLBEGZ7SQGDFUXE7,"Bike World Brake Light, Tail Light LED Bulb for  Universal F",Bike World,Automotive,7,40,17.5,Low Stock,244,1708,B-Medium,49,10/2/2026
+E-R02-B06-L2,E,Automotive,2,6,2,,,,,0,40,0,Empty,0,0,,0,
+E-R02-B06-L3,E,Automotive,2,6,3,CDBECKGDNRGKNVW7,Woodman Steel Car Bumper Guard,Woodman,Automotive,32,40,80,Optimal,1099,35168,C-Slow,12,11/8/2026
+E-R02-B06-L4,E,Automotive,2,6,4,CRTECN2QXUBGMWSE,Allure Auto CM 195 Car Mat Hyundai Verna Fluidic,Allure Auto,Automotive,28,40,70,Optimal,1350,37800,C-Slow,41,10/10/2026
+E-R02-B06-L5,E,Automotive,2,6,5,BHGEGTATAHA4HS8Z,Speedwav 202050 Bike Handle Grip For Universal For Bike Univ,Speedwav,Automotive,6,40,15,Low Stock,437,2622,B-Medium,120,7/23/2026
+E-R02-B07-L1,E,Automotive,2,7,1,AVCEJ4W3KFNZ2SGN,"ManeKo 1 Dual Clip Universal Car Mobile Holder, 1 Anti Slip ",ManeKo,Automotive,16,40,40,Optimal,245,3920,C-Slow,72,9/9/2026
+E-R02-B07-L2,E,Automotive,2,7,2,CRTECN2QXHEYVVTX,Allure Auto CM 941 Car Mat Maruti WagonR,Allure Auto,Automotive,40,40,100,Overstock,1380,55200,C-Slow,9,11/11/2026
+E-R02-B07-L3,E,Automotive,2,7,3,CRTECN2QY22FBGAU,Allure Auto CM 591 Car Mat Ford Fiesta,Allure Auto,Automotive,33,40,82.5,Optimal,920,30360,C-Slow,32,10/19/2026
+E-R02-B07-L4,E,Automotive,2,7,4,SUDEHYGURKV9EVVS,Speedwav 240439 Sun Shade For Chevrolet Beat,Speedwav,Automotive,22,40,55,Optimal,358,7876,B-Medium,1,11/19/2026
+E-R02-B07-L5,E,Automotive,2,7,5,SUDEGVG7EFJAEQZE,VDRIVE HEAVY NET / JALI_44 Sun Shade For Toyota Etios Liva,VDRIVE,Automotive,22,40,55,Optimal,899,19778,C-Slow,82,8/30/2026
+E-R02-B08-L1,E,Automotive,2,8,1,CRTECN2QZCEEGDZN,Allure Auto CM 455 Car Mat HM Ambassador MPFi,Allure Auto,Automotive,12,40,30,Optimal,920,11040,C-Slow,81,8/31/2026
+E-R02-B08-L2,E,Automotive,2,8,2,CRTEJQ9XTZWDFSTX,Kingsway Noodle Floor Mats Car Mat Ford Ecosport,Kingsway,Automotive,10,40,25,Optimal,1850,18500,A-Fast,79,9/2/2026
+E-R02-B08-L3,E,Automotive,2,8,3,VHREBBHBKGWZHYF7,Xtreme MB Windtone For Bajaj Discover 100 DTS-i 110 dB Vehic,Xtreme,Automotive,38,40,95,Overstock,349,13262,B-Medium,40,10/11/2026
+E-R02-B08-L4,E,Automotive,2,8,4,CRTECN2QZD4WXYG8,Allure Auto CM 692 Car Mat Tata Vista,Allure Auto,Automotive,6,40,15,Low Stock,920,5520,C-Slow,36,10/15/2026
+E-R02-B08-L5,E,Automotive,2,8,5,CRTECN2QZAPZVBNY,Allure Auto CM 448 Car Mat Ford Endeavour,Allure Auto,Automotive,27,40,67.5,Optimal,920,24840,B-Medium,59,9/22/2026
+E-R02-B09-L1,E,Automotive,2,9,1,,,,,0,40,0,Empty,0,0,,0,
+E-R02-B09-L2,E,Automotive,2,9,2,CRTECN2QWHKJ3PBU,Allure Auto CM 1417 Car Mat Volkswagen Passat,Allure Auto,Automotive,11,40,27.5,Optimal,1599,17589,C-Slow,53,9/28/2026
+E-R02-B09-L3,E,Automotive,2,9,3,CRTE8ZZWHBBQ736Q,3D Mat Floor Car Mat Toyota Innova,3D Mat,Automotive,33,40,82.5,Optimal,6999,230967,C-Slow,16,11/4/2026
+E-R02-B09-L4,E,Automotive,2,9,4,CTTEH9FX5D9BYFYR,Vetra E00TY77 Multifunction Car Tray For Toyota Camry Cup Ho,Vetra,Automotive,8,40,20,Low Stock,448,3584,C-Slow,29,10/22/2026
+E-R02-B09-L5,E,Automotive,2,9,5,HBAEF6G94958PFCM,Favourite BikerZ FBZ MOXI 9340 Customized Handlebar,Favourite BikerZ,Automotive,28,40,70,Optimal,1999,55972,B-Medium,118,7/25/2026
+E-R02-B10-L1,E,Automotive,2,10,1,BPLEB98QF4SZKYVM,Speedwav Red LED Strobe Brake Lights Set Of 2-Mahindra Scorp,Speedwav,Automotive,34,40,85,Optimal,623,21182,B-Medium,9,11/11/2026
+E-R02-B10-L2,E,Automotive,2,10,2,CRTECN2QYGAGSCUU,Allure Auto CM 1208 Car Mat Maruti Baleno,Allure Auto,Automotive,17,40,42.5,Optimal,1599,27183,C-Slow,91,8/21/2026
+E-R02-B10-L3,E,Automotive,2,10,3,CRTECN2QXUGAJF8Y,Allure Auto CM 601 Car Mat Honda CR-V,Allure Auto,Automotive,17,40,42.5,Optimal,920,15640,A-Fast,87,8/25/2026
+E-R02-B10-L4,E,Automotive,2,10,4,CRTECN2QVMFZFNGC,Allure Auto CM 1218 Car Mat Maruti Omni,Allure Auto,Automotive,36,40,90,Overstock,1599,57564,C-Slow,115,7/28/2026
+E-R02-B10-L5,E,Automotive,2,10,5,CRTECUWZXMV2YZ9G,Allure Auto sur-4619 Car Mat Honda Mobilio,Allure Auto,Automotive,8,40,20,Low Stock,1799,14392,B-Medium,47,10/4/2026
+E-R03-B01-L1,E,Automotive,3,1,1,CRTECN2QZWHEJRGA,Allure Auto CM 1253 Car Mat Tata Nano,Allure Auto,Automotive,20,40,50,Optimal,1599,31980,C-Slow,72,9/9/2026
+E-R03-B01-L2,E,Automotive,3,1,2,CRTECN2R778GQBCY,Allure Auto CM 982 Car Mat Toyota Etios,Allure Auto,Automotive,20,40,50,Optimal,1380,27600,B-Medium,20,10/31/2026
+E-R03-B01-L3,E,Automotive,3,1,3,CSOEGTPQFQMAFRJR,V-GRIP Steering Cover For Suzuki Swift Dzire,V-GRIP,Automotive,19,40,47.5,Blocked,599,11381,C-Slow,107,8/5/2026
+E-R03-B01-L4,E,Automotive,3,1,4,CRTECN2QVQQNZMRW,Allure Auto CM 1567 Car Mat Chevrolet Enjoy,Allure Auto,Automotive,7,40,17.5,Blocked,1599,11193,C-Slow,48,10/3/2026
+E-R03-B01-L5,E,Automotive,3,1,5,AVCEJ3CZ7GPK4XSJ,"ManeKo 1 Mobile Holder, 1 Anti Slip Mat Combo",ManeKo,Automotive,34,40,85,Optimal,365,12410,A-Fast,7,11/13/2026
+E-R03-B02-L1,E,Automotive,3,2,1,CTTEH9FX5D9BYFYR,Vetra E00TY77 Multifunction Car Tray For Toyota Camry Cup Ho,Vetra,Automotive,32,40,80,Optimal,448,14336,B-Medium,92,8/20/2026
+E-R03-B02-L2,E,Automotive,3,2,2,CRTECN2QSYVZPU4B,Allure Auto CM 1956 Car Mat Tata Bolt,Allure Auto,Automotive,40,40,100,Overstock,1599,63960,B-Medium,9,11/11/2026
+E-R03-B02-L3,E,Automotive,3,2,3,CRTEHSSAF9QVCGRS,Packy Poda Car Mat Hyundai Creta,Packy Poda,Automotive,17,40,42.5,Optimal,1402,23834,A-Fast,52,9/29/2026
+E-R03-B02-L4,E,Automotive,3,2,4,CRTECN2QVB5MFPF8,Allure Auto CM 1067 Car Mat Maruti Celerio,Allure Auto,Automotive,25,40,62.5,Optimal,1599,39975,B-Medium,118,7/25/2026
+E-R03-B02-L5,E,Automotive,3,2,5,CSREGUNCASVGYYBA,JVC CS J620X Coaxial Car Speaker,JVC,Automotive,21,40,52.5,Optimal,2232,46872,B-Medium,120,7/23/2026
+E-R03-B03-L1,E,Automotive,3,3,1,CRTECN2QWCYXHPGQ,Allure Auto CM 1944 Car Mat Nissan Terrano,Allure Auto,Automotive,23,40,57.5,Optimal,1599,36777,A-Fast,37,10/14/2026
+E-R03-B03-L2,E,Automotive,3,3,2,CRTECN2RFMUGEFRZ,Allure Auto CM 1356 Car Mat Maruti Grand Vitara,Allure Auto,Automotive,19,40,47.5,Optimal,1599,30381,C-Slow,83,8/29/2026
+E-R03-B03-L3,E,Automotive,3,3,3,ACCE6J23PMCFS9ST,Fiesta 360 Degree Spin Mobile Phone Holder Bracket,Fiesta,Automotive,37,40,92.5,Overstock,170,6290,B-Medium,15,11/5/2026
+E-R03-B03-L4,E,Automotive,3,3,4,VMREGZPQGV6ENXFG,Speedwav 145744 Manual Rear View Mirror,Speedwav,Automotive,10,40,25,Optimal,644,6440,B-Medium,76,9/5/2026
+E-R03-B03-L5,E,Automotive,3,3,5,CRTEA7HANRC9HYK3,3a AUTOCARE Car Mat Chevrolet Beat,3a AUTOCARE,Automotive,34,40,85,Blocked,1490,50660,B-Medium,92,8/20/2026
+E-R03-B04-L1,E,Automotive,3,4,1,CRTEA7HAZZEFHSGX,3a AUTOCARE Car Mat Hyundai Grand i10,3a AUTOCARE,Automotive,12,40,30,Optimal,1490,17880,B-Medium,109,8/3/2026
+E-R03-B04-L2,E,Automotive,3,4,2,CRTECN2RCWZTMS2F,Allure Auto CM 1634 Car Mat Maruti Baleno,Allure Auto,Automotive,40,40,100,Overstock,1599,63960,C-Slow,31,10/20/2026
+E-R03-B04-L3,E,Automotive,3,4,3,CRTECN2QWCYT99YB,Allure Auto CM 1896 Car Mat Hyundai Sonata Embera,Allure Auto,Automotive,37,40,92.5,Overstock,1599,59163,C-Slow,91,8/21/2026
+E-R03-B04-L4,E,Automotive,3,4,4,VMREGZPQGETQSRCZ,Speedwav 154326 Manual Rear View Mirror,Speedwav,Automotive,20,40,50,Optimal,594,11880,B-Medium,86,8/26/2026
+E-R03-B04-L5,E,Automotive,3,4,5,CRTECN2QZZKPWSKP,Allure Auto CM 1128 Car Mat Toyota Innova,Allure Auto,Automotive,31,40,77.5,Optimal,1599,49569,A-Fast,38,10/13/2026
+E-R03-B05-L1,E,Automotive,3,5,1,VHRE5Y7G8CMPZP2M,Type R G124 110 dB Vehicle Horn,Type R,Automotive,38,40,95,Overstock,499,18962,A-Fast,26,10/25/2026
+E-R03-B05-L2,E,Automotive,3,5,2,CCVE3Q2TBZRQYZSZ,Galaxy Car Cover For Micra,Galaxy,Automotive,10,40,25,Blocked,1050,10500,B-Medium,108,8/4/2026
+E-R03-B05-L3,E,Automotive,3,5,3,CRTECN2QS6ZFWPEY,Allure Auto CM 1352 Car Mat Maruti Ciaz,Allure Auto,Automotive,29,40,72.5,Optimal,1599,46371,C-Slow,99,8/13/2026
+E-R03-B05-L4,E,Automotive,3,5,4,CRTECN2QVKZ4P6VP,Allure Auto CM 864 Car Mat Daewoo Matiz,Allure Auto,Automotive,18,40,45,Optimal,1380,24840,B-Medium,66,9/15/2026
+E-R03-B05-L5,E,Automotive,3,5,5,,,,,0,40,0,Empty,0,0,,0,
+E-R03-B06-L1,E,Automotive,3,6,1,CRTECN2QVB7UDF2P,Allure Auto CM 1966 Car Mat Tata Sumo,Allure Auto,Automotive,12,40,30,Optimal,1599,19188,C-Slow,34,10/17/2026
+E-R03-B06-L2,E,Automotive,3,6,2,CRTECN2QWPPMVZZ9,Allure Auto CM 1242 Car Mat Skoda Rapid,Allure Auto,Automotive,5,40,12.5,Low Stock,1599,7995,B-Medium,25,10/26/2026
+E-R03-B06-L3,E,Automotive,3,6,3,,,,,0,40,0,Empty,0,0,,0,
+E-R03-B06-L4,E,Automotive,3,6,4,CRTECN2QSSHFDJS5,Allure Auto CM 95 Car Mat Nissan Micra,Allure Auto,Automotive,25,40,62.5,Optimal,1350,33750,C-Slow,104,8/8/2026
+E-R03-B06-L5,E,Automotive,3,6,5,CRTECN2QVWJWMJ9B,Allure Auto CM 1020 Car Mat Ford New Fiesta,Allure Auto,Automotive,16,40,40,Optimal,1599,25584,C-Slow,61,9/20/2026
+E-R03-B07-L1,E,Automotive,3,7,1,,,,,0,40,0,Empty,0,0,,0,
+E-R03-B07-L2,E,Automotive,3,7,2,CRTECN2QUCNBTHBF,Allure Auto CM 1349 Car Mat Maruti Alto K10,Allure Auto,Automotive,23,40,57.5,Optimal,1599,36777,A-Fast,62,9/19/2026
+E-R03-B07-L3,E,Automotive,3,7,3,CRTECN2QZVM6SHSJ,Allure Auto CM 1676 Car Mat Tata Indigo,Allure Auto,Automotive,30,40,75,Optimal,1599,47970,A-Fast,33,10/18/2026
+E-R03-B07-L4,E,Automotive,3,7,4,,,,,0,40,0,Empty,0,0,,0,
+E-R03-B07-L5,E,Automotive,3,7,5,CRTECN2QUCRGWXHP,Allure Auto CM 430 Car Mat Chevrolet Cruze,Allure Auto,Automotive,2,40,5,Low Stock,920,1840,B-Medium,10,11/10/2026
+E-R03-B08-L1,E,Automotive,3,8,1,CRTECN2QS6YHKQ3G,Allure Auto CM 1643 Car Mat Maruti New Swift,Allure Auto,Automotive,20,40,50,Optimal,1599,31980,C-Slow,11,11/9/2026
+E-R03-B08-L2,E,Automotive,3,8,2,CRTECN2QVB8JB3WY,Allure Auto CM 2130 Car Mat Volkswagen Vento,Allure Auto,Automotive,36,40,90,Overstock,1599,57564,B-Medium,114,7/29/2026
+E-R03-B08-L3,E,Automotive,3,8,3,ACCE5UKY6UXGVT9P,Autosun OK Stand Smartphone & Tablet Stand,Autosun,Automotive,15,40,37.5,Optimal,199,2985,A-Fast,81,8/31/2026
+E-R03-B08-L4,E,Automotive,3,8,4,CRTECN2QWA68UMF7,Allure Auto CM 1810 Car Mat Skoda Rapid,Allure Auto,Automotive,36,40,90,Overstock,1599,57564,B-Medium,18,11/2/2026
+E-R03-B08-L5,E,Automotive,3,8,5,CRTECN2QYTYASGCP,Allure Auto CM 2011 Car Mat Ford Fiesta,Allure Auto,Automotive,40,40,100,Overstock,1599,63960,B-Medium,40,10/11/2026
+E-R03-B09-L1,E,Automotive,3,9,1,TWCEJFXHNZ8GB8VX,Cross Fingers Hero Two Wheeler Cover,Cross Fingers,Automotive,10,40,25,Optimal,466,4660,C-Slow,76,9/5/2026
+E-R03-B09-L2,E,Automotive,3,9,2,CRTECN2QZNWFT9PT,Allure Auto CM 1205 Car Mat Maruti Alto,Allure Auto,Automotive,26,40,65,Optimal,1599,41574,C-Slow,40,10/11/2026
+E-R03-B09-L3,E,Automotive,3,9,3,BAKEHZBZFWYNKSA5,Xtremeonlinestore One-way Bike Alarm Kit,Xtremeonlinestore,Automotive,40,40,100,Overstock,999,39960,C-Slow,64,9/17/2026
+E-R03-B09-L4,E,Automotive,3,9,4,VAREGHJH5ABSJB7P,HIMMLISCH Stmpl1528 Car Armrest-Beige Car Armrest,HIMMLISCH,Automotive,2,40,5,Low Stock,1298,2596,C-Slow,27,10/24/2026
+E-R03-B09-L5,E,Automotive,3,9,5,ACCDRREFMB99QZ42,Fly Universal Mobile Holder Crystal Edition For Car Windshie,Fly,Automotive,10,40,25,Optimal,415,4150,A-Fast,49,10/2/2026
+E-R03-B10-L1,E,Automotive,3,10,1,CRTECN2QSN7HAXRJ,Allure Auto CM 1180 Car Mat Hyundai Getz,Allure Auto,Automotive,17,40,42.5,Optimal,1599,27183,B-Medium,51,9/30/2026
+E-R03-B10-L2,E,Automotive,3,10,2,CGCEG28UCFAFNXBH,Carmity RN-020 Maruti Ciaz Car Grill Cover,Carmity,Automotive,4,40,10,Low Stock,2200,8800,A-Fast,51,9/30/2026
+E-R03-B10-L3,E,Automotive,3,10,3,CRTECN2QZZFAB3ZP,Allure Auto CM 1656 Car Mat Mitsubishi Lancer,Allure Auto,Automotive,28,40,70,Optimal,1599,44772,C-Slow,23,10/28/2026
+E-R03-B10-L4,E,Automotive,3,10,4,CRTECN2RTNAPQ9UC,Allure Auto CM 1624 Car Mat Mahindra Thar,Allure Auto,Automotive,7,40,17.5,Low Stock,1599,11193,C-Slow,7,11/13/2026
+E-R03-B10-L5,E,Automotive,3,10,5,CRTEHSSCUCMVN7SP,Packy Poda Car Mat Nissan Terrano,Packy Poda,Automotive,14,40,35,Optimal,1402,19628,B-Medium,78,9/3/2026
+E-R04-B01-L1,E,Automotive,4,1,1,CRTECN2QZYZK9WYV,Allure Auto CM 414 Car Mat Toyota Etios,Allure Auto,Automotive,13,40,32.5,Optimal,920,11960,C-Slow,28,10/23/2026
+E-R04-B01-L2,E,Automotive,4,1,2,VMREGZPQACGUQQCA,Speedwav 154280 Manual Rear View Mirror,Speedwav,Automotive,30,40,75,Optimal,594,17820,C-Slow,104,8/8/2026
+E-R04-B01-L3,E,Automotive,4,1,3,CRTECN2QZVM6SHSJ,Allure Auto CM 1676 Car Mat Tata Indigo,Allure Auto,Automotive,12,40,30,Optimal,1599,19188,A-Fast,44,10/7/2026
+E-R04-B01-L4,E,Automotive,4,1,4,CRTECN2QZNWFT9PT,Allure Auto CM 1205 Car Mat Maruti Alto,Allure Auto,Automotive,10,40,25,Optimal,1599,15990,C-Slow,97,8/15/2026
+E-R04-B01-L5,E,Automotive,4,1,5,VHRE5E9JCDHCUNUZ,Speedwav 77880 95 dB Vehicle Horn,Speedwav,Automotive,33,40,82.5,Optimal,1123,37059,C-Slow,49,10/2/2026
+E-R04-B02-L1,E,Automotive,4,2,1,CRTECN2QZFVWZMTY,Allure Auto CM 745 Car Mat Honda Civic,Allure Auto,Automotive,8,40,20,Low Stock,1380,11040,A-Fast,79,9/2/2026
+E-R04-B02-L2,E,Automotive,4,2,2,CRTECN2QUPEJS8BA,Allure Auto CM 1728 Car Mat Ford Figo,Allure Auto,Automotive,36,40,90,Overstock,1599,57564,C-Slow,44,10/7/2026
+E-R04-B02-L3,E,Automotive,4,2,3,CRTEA7HAZZEFHSGX,3a AUTOCARE Car Mat Hyundai Grand i10,3a AUTOCARE,Automotive,28,40,70,Optimal,1490,41720,B-Medium,6,11/14/2026
+E-R04-B02-L4,E,Automotive,4,2,4,CRTECN2QTWZHNKN2,Allure Auto CM 1154 Car Mat Fiat Palio,Allure Auto,Automotive,26,40,65,Optimal,1599,41574,C-Slow,80,9/1/2026
+E-R04-B02-L5,E,Automotive,4,2,5,VHRE5Y7G8CMPZP2M,Type R G124 110 dB Vehicle Horn,Type R,Automotive,15,40,37.5,Optimal,499,7485,B-Medium,67,9/14/2026
+E-R04-B03-L1,E,Automotive,4,3,1,,,,,0,40,0,Empty,0,0,,0,
+E-R04-B03-L2,E,Automotive,4,3,2,CRTE8389ZZJS6W9E,3a Autocare Rubber Mat Car Mat Suzuki New Swift,3a Autocare,Automotive,16,40,40,Optimal,474,7584,A-Fast,22,10/29/2026
+E-R04-B03-L3,E,Automotive,4,3,3,CTTEH9FXP5DHZWF7,Vetra E00TY98 Multifunction Car Tray For Ford Figo Cup Holde,Vetra,Automotive,39,40,97.5,Overstock,448,17472,B-Medium,66,9/15/2026
+E-R04-B03-L4,E,Automotive,4,3,4,CRTECN2QU7HVFHXU,Allure Auto CM 1310 Car Mat Honda Brio,Allure Auto,Automotive,36,40,90,Overstock,1599,57564,C-Slow,81,8/31/2026
+E-R04-B03-L5,E,Automotive,4,3,5,,,,,0,40,0,Empty,0,0,,0,
+E-R04-B04-L1,E,Automotive,4,4,1,TWCEA96ED9EZN9UW,ATC anbc40 Two Wheeler Cover,ATC,Automotive,3,40,7.5,Low Stock,152,456,B-Medium,22,10/29/2026
+E-R04-B04-L2,E,Automotive,4,4,2,BHGEGTATDSHFENHT,Speedwav 142492 Bike Handle Grip For Yamaha YBR,Speedwav,Automotive,31,40,77.5,Optimal,455,14105,C-Slow,94,8/18/2026
+E-R04-B04-L3,E,Automotive,4,4,3,CRTECN2QYCUNFSZE,Allure Auto CM 1605 Car Mat Hyundai Fluidic Verna,Allure Auto,Automotive,18,40,45,Optimal,1599,28782,B-Medium,102,8/10/2026
+E-R04-B04-L4,E,Automotive,4,4,4,CRTECN2QY8BEJVAB,Allure Auto CM 1365 Car Mat Maruti Versa,Allure Auto,Automotive,2,40,5,Blocked,1599,3198,B-Medium,116,7/27/2026
+E-R04-B04-L5,E,Automotive,4,4,5,CRTECYY4HKRGEPMS,Accessory Mart HC Car Mat Honda City,Accessory Mart,Automotive,37,40,92.5,Overstock,3399,125763,A-Fast,40,10/11/2026
+E-R04-B05-L1,E,Automotive,4,5,1,CRTECN2QVWJWMJ9B,Allure Auto CM 1020 Car Mat Ford New Fiesta,Allure Auto,Automotive,11,40,27.5,Optimal,1599,17589,A-Fast,103,8/9/2026
+E-R04-B05-L2,E,Automotive,4,5,2,VHREBSMGYYUBVHHF,Favourite BikerZ FBZ 6480 110 dB Vehicle Horn,Favourite BikerZ,Automotive,25,40,62.5,Optimal,499,12475,B-Medium,104,8/8/2026
+E-R04-B05-L3,E,Automotive,4,5,3,CRTEA7HABNRWRZSV,3a AUTOCARE Car Mat Maruti Alto K10,3a AUTOCARE,Automotive,24,40,60,Optimal,1490,35760,C-Slow,6,11/14/2026
+E-R04-B05-L4,E,Automotive,4,5,4,CRTECN2QV3Z3GJ8V,Allure Auto CM 1739 Car Mat Honda Civic,Allure Auto,Automotive,33,40,82.5,Optimal,1599,52767,C-Slow,25,10/26/2026
+E-R04-B05-L5,E,Automotive,4,5,5,,,,,0,40,0,Empty,0,0,,0,
+E-R04-B06-L1,E,Automotive,4,6,1,CCVE6FQUJHNHQVNQ,Rainfun Car Cover For 800,Rainfun,Automotive,14,40,35,Optimal,599,8386,B-Medium,37,10/14/2026
+E-R04-B06-L2,E,Automotive,4,6,2,CRTECN2QVH5KUGW4,Allure Auto CM 947 Car Mat Nissan Micra,Allure Auto,Automotive,20,40,50,Optimal,1380,27600,C-Slow,101,8/11/2026
+E-R04-B06-L3,E,Automotive,4,6,3,VHREB3NZEN8HGQHT,Speedwav Tuk Tuk Reverse Gear Safety -Ford Ikon 200 dB Vehic,Speedwav,Automotive,32,40,80,Optimal,278,8896,C-Slow,35,10/16/2026
+E-R04-B06-L4,E,Automotive,4,6,4,SUDEJFBRVYEUZUDH,Himmlisch ST381 Magnetic Sun Shade For Maruti Alto,Himmlisch,Automotive,17,40,42.5,Optimal,1899,32283,A-Fast,50,10/1/2026
+E-R04-B06-L5,E,Automotive,4,6,5,CTTEH9FX5D9BYFYR,Vetra E00TY77 Multifunction Car Tray For Toyota Camry Cup Ho,Vetra,Automotive,39,40,97.5,Overstock,448,17472,B-Medium,89,8/23/2026
+E-R04-B07-L1,E,Automotive,4,7,1,CCVE6FQUJHNHQVNQ,Rainfun Car Cover For 800,Rainfun,Automotive,23,40,57.5,Optimal,599,13777,C-Slow,33,10/18/2026
+E-R04-B07-L2,E,Automotive,4,7,2,CRTECN2QZZTXU2FZ,Allure Auto CM 1733 Car Mat HM Ambassador MPFi,Allure Auto,Automotive,30,40,75,Optimal,1599,47970,C-Slow,37,10/14/2026
+E-R04-B07-L3,E,Automotive,4,7,3,CRTECN2RCNAMYX2E,Allure Auto CM 731 Car Mat Ford Ecosport,Allure Auto,Automotive,7,40,17.5,Low Stock,1380,9660,B-Medium,27,10/24/2026
+E-R04-B07-L4,E,Automotive,4,7,4,CRTEA7HARUAWC7VG,3a AUTOCARE Car Mat Nissan Micra,3a AUTOCARE,Automotive,39,40,97.5,Overstock,1490,58110,B-Medium,39,10/12/2026
+E-R04-B07-L5,E,Automotive,4,7,5,CBHEJVGFEJAHVEYS,Himmlisch 20881 Car Bottle Holder,Himmlisch,Automotive,18,40,45,Optimal,299,5382,A-Fast,60,9/21/2026
+E-R04-B08-L1,E,Automotive,4,8,1,VLBEGG5ZMDBMCWMF,AutoKraftZ Premium Flash Magic Tire Light Set Of 4 for Tata ,AutoKraftZ,Automotive,5,40,12.5,Low Stock,206,1030,C-Slow,23,10/28/2026
+E-R04-B08-L2,E,Automotive,4,8,2,CRTECN2QTBFPEZWQ,Allure Auto CM 120 Car Mat Tata Sumo,Allure Auto,Automotive,10,40,25,Optimal,1350,13500,B-Medium,21,10/30/2026
+E-R04-B08-L3,E,Automotive,4,8,3,CRTECN2QZGCRKMXQ,Allure Auto CM 829 Car Mat Tata Safari Storme,Allure Auto,Automotive,37,40,92.5,Blocked,1380,51060,C-Slow,59,9/22/2026
+E-R04-B08-L4,E,Automotive,4,8,4,CRTECN2QSEPYCPAB,Allure Auto CM 1170 Car Mat Honda City,Allure Auto,Automotive,8,40,20,Low Stock,1599,12792,A-Fast,61,9/20/2026
+E-R04-B08-L5,E,Automotive,4,8,5,CRTECN2QUTDWFYGA,Allure Auto CM 1700 Car Mat Volkswagen Jetta,Allure Auto,Automotive,23,40,57.5,Optimal,1599,36777,C-Slow,12,11/8/2026
+E-R04-B09-L1,E,Automotive,4,9,1,HLUEGBPZSMX2XBCR,RJVON H4 Led Bike Head Light RJ48386 LED Headlight With Bulb,RJVON,Automotive,30,40,75,Optimal,395,11850,A-Fast,53,9/28/2026
+E-R04-B09-L2,E,Automotive,4,9,2,SUDEGGAUR7EGNEQ6,AdroitZ Exclusive Barbie Doll Sunshade / curtain (set of 2) ,AdroitZ,Automotive,12,40,30,Optimal,199,2388,B-Medium,114,7/29/2026
+E-R04-B09-L3,E,Automotive,4,9,3,CRTECN2QVSCZAQEA,Allure Auto CM 26 Car Mat Ford New Fiesta,Allure Auto,Automotive,14,40,35,Optimal,1350,18900,C-Slow,8,11/12/2026
+E-R04-B09-L4,E,Automotive,4,9,4,CRTECN2QZZW6JVNQ,Allure Auto CM 1290 Car Mat Daewoo Matiz,Allure Auto,Automotive,14,40,35,Optimal,1599,22386,A-Fast,25,10/26/2026
+E-R04-B09-L5,E,Automotive,4,9,5,CRTECN2QSTZHJTKF,Allure Auto CM 258 Car Mat Tata Indigo Marina,Allure Auto,Automotive,26,40,65,Optimal,1350,35100,C-Slow,71,9/10/2026
+E-R04-B10-L1,E,Automotive,4,10,1,CRTECN2QTVAGYNZ6,Allure Auto CM 1055 Car Mat Mahindra Scorpio,Allure Auto,Automotive,37,40,92.5,Overstock,1599,59163,B-Medium,110,8/2/2026
+E-R04-B10-L2,E,Automotive,4,10,2,CRTEHSS9P7YWR7J8,Packy Poda Car Mat Hyundai i10 Active,Packy Poda,Automotive,39,40,97.5,Overstock,1402,54678,B-Medium,29,10/22/2026
+E-R04-B10-L3,E,Automotive,4,10,3,SUDEHYGVDNRHYPTW,Speedwav 240319 Sun Shade For Toyota Corolla Altis,Speedwav,Automotive,5,40,12.5,Low Stock,358,1790,A-Fast,96,8/16/2026
+E-R04-B10-L4,E,Automotive,4,10,4,CRTECN2QT988EFGM,Allure Auto CM 1618 Car Mat Hyundai i20,Allure Auto,Automotive,14,40,35,Optimal,1599,22386,C-Slow,75,9/6/2026
+E-R04-B10-L5,E,Automotive,4,10,5,CSOE88UGU7GZPNZS,Modx Steering Cover For Hyundai i10,Modx,Automotive,9,40,22.5,Optimal,477,4293,B-Medium,105,8/7/2026
+F-R01-B01-L1,F,Home Decor & Festive Needs,1,1,1,PHFEG9H7GRQ6Z3QP,Capturing Happiness Wood Photo Frame,Capturing Happiness,Home Decor & Festive Needs,9,40,22.5,Optimal,449,4041,C-Slow,17,11/3/2026
+F-R01-B01-L2,F,Home Decor & Festive Needs,1,1,2,SHIEGWTYGF2TFDPP,Hand Art Showpiece  -  38 cm,Hand Art,Home Decor & Festive Needs,36,40,90,Overstock,639,23004,B-Medium,90,8/22/2026
+F-R01-B01-L3,F,Home Decor & Festive Needs,1,1,3,SHIEA4D3X89GGZSH,Ethnic Regalia Wooden Rajasthani Musicians Showpiece  -  10 ,Ethnic Regalia,Home Decor & Festive Needs,30,40,75,Optimal,450,13500,B-Medium,82,8/30/2026
+F-R01-B01-L4,F,Home Decor & Festive Needs,1,1,4,STIE6JA56ZUYQH8B,Creative Width Decor Small Vinyl Sticker Sticker,Creative Width Decor,Home Decor & Festive Needs,5,40,12.5,Low Stock,399,1995,C-Slow,45,10/6/2026
+F-R01-B01-L5,F,Home Decor & Festive Needs,1,1,5,SHIE3QDHP5RDGMZY,Exotic India Lord Ganesha Playing Flute (Carved in Sunstone),Exotic India,Home Decor & Festive Needs,32,40,80,Optimal,2860,91520,C-Slow,7,11/13/2026
+F-R01-B02-L1,F,Home Decor & Festive Needs,1,2,1,RCLECY4GC7PD4WSG,Indcrown 816 inch Multicolor Rice Lights,Indcrown,Home Decor & Festive Needs,27,40,67.5,Optimal,319,8613,B-Medium,61,9/20/2026
+F-R01-B02-L2,F,Home Decor & Festive Needs,1,2,2,RSFEJT4ZNP5V7HH2,Innovative Single Corner Stainless Steel Wall Shelf,Innovative,Home Decor & Festive Needs,39,40,97.5,Overstock,599,23361,A-Fast,117,7/26/2026
+F-R01-B02-L3,F,Home Decor & Festive Needs,1,2,3,,,,,0,40,0,Empty,0,0,,0,
+F-R01-B02-L4,F,Home Decor & Festive Needs,1,2,4,RAKEJU36JWZQHZM3,Laviva Most Contemporary Design AD & Fancy Rakhi Set of Four,Laviva,Home Decor & Festive Needs,32,40,80,Optimal,531,16992,B-Medium,87,8/25/2026
+F-R01-B02-L5,F,Home Decor & Festive Needs,1,2,5,INSDZKFYE9FHHPNC,Sugandh Vatika Oudh Incense Sticks,Sugandh Vatika,Home Decor & Festive Needs,38,40,95,Overstock,825,31350,A-Fast,62,9/19/2026
+F-R01-B03-L1,F,Home Decor & Festive Needs,1,3,1,,,,,0,40,0,Empty,0,0,,0,
+F-R01-B03-L2,F,Home Decor & Festive Needs,1,3,2,PTGE9A8S8HXQFFFV,KalaSanthe Wheel Of Life And Procession In Saura Art Canvas ,KalaSanthe,Home Decor & Festive Needs,26,40,65,Optimal,1633,42458,A-Fast,104,8/8/2026
+F-R01-B03-L3,F,Home Decor & Festive Needs,1,3,3,STIEYZ5T5FF3RUKQ,DeStudio Tiny Wall Sticker,DeStudio,Home Decor & Festive Needs,12,40,30,Optimal,399,4788,C-Slow,78,9/3/2026
+F-R01-B03-L4,F,Home Decor & Festive Needs,1,3,4,STIE6Q5TCMRCR7SU,Creative Width Decor Medium Vinyl Sticker,Creative Width Decor,Home Decor & Festive Needs,35,40,87.5,Optimal,449,15715,C-Slow,114,7/29/2026
+F-R01-B03-L5,F,Home Decor & Festive Needs,1,3,5,STIE6Q5UZBVBPZZZ,Creative Width Decor Small Vinyl Sticker,Creative Width Decor,Home Decor & Festive Needs,2,40,5,Low Stock,224,448,C-Slow,21,10/30/2026
+F-R01-B04-L1,F,Home Decor & Festive Needs,1,4,1,SHIE3YW8E89ZWPFD,Eventz Gifts Allah Showpiece  -  20 cm,Eventz Gifts,Home Decor & Festive Needs,13,40,32.5,Optimal,910,11830,A-Fast,25,10/26/2026
+F-R01-B04-L2,F,Home Decor & Festive Needs,1,4,2,SHIEAMGZTB3VFZEV,"Krg Enterprises Cow Calf Statue,Handicrafts, Gifts, Showpiec",Krg Enterprises,Home Decor & Festive Needs,12,40,30,Optimal,999,11988,A-Fast,107,8/5/2026
+F-R01-B04-L3,F,Home Decor & Festive Needs,1,4,3,SHIEBBWHSYHSVV4U,Diviniti DG Royal Ornamental Size 4 Gurunanak religious wall,Diviniti,Home Decor & Festive Needs,23,40,57.5,Optimal,17460,401580,C-Slow,65,9/16/2026
+F-R01-B04-L4,F,Home Decor & Festive Needs,1,4,4,STIEEHYKHYS3XCTH,DeStudio Small Wall Sticker,DeStudio,Home Decor & Festive Needs,2,40,5,Low Stock,499,998,C-Slow,60,9/21/2026
+F-R01-B04-L5,F,Home Decor & Festive Needs,1,4,5,DEPEECKGGQEPNCJU,Serebroarts Iron Decorative Platter,Serebroarts,Home Decor & Festive Needs,11,40,27.5,Optimal,1049,11539,B-Medium,93,8/19/2026
+F-R01-B05-L1,F,Home Decor & Festive Needs,1,5,1,STIEGXEYHGGMQ74Z,Thoughtroad Small PAPER Sticker,Thoughtroad,Home Decor & Festive Needs,37,40,92.5,Overstock,325,12025,B-Medium,43,10/8/2026
+F-R01-B05-L2,F,Home Decor & Festive Needs,1,5,2,WCKE2TYZKNRNNXZU,Blacksmith Analog Wall Clock,Unbranded,Home Decor & Festive Needs,20,40,50,Optimal,1049,20980,C-Slow,83,8/29/2026
+F-R01-B05-L3,F,Home Decor & Festive Needs,1,5,3,PTGE8X4XFDTAASHU,Wallmantra Christ The Redeemer Framed Print Canvas Painting,Wallmantra,Home Decor & Festive Needs,21,40,52.5,Optimal,1749,36729,B-Medium,64,9/17/2026
+F-R01-B05-L4,F,Home Decor & Festive Needs,1,5,4,PHFEGTJJFSMEJV25,SViRU Generic Photo Frame,SViRU,Home Decor & Festive Needs,32,40,80,Optimal,549,17568,C-Slow,110,8/2/2026
+F-R01-B05-L5,F,Home Decor & Festive Needs,1,5,5,PTGEGUPKRM4ARQFJ,GAGA Canvas Painting,GAGA,Home Decor & Festive Needs,8,40,20,Low Stock,25510,204080,C-Slow,104,8/8/2026
+F-R01-B06-L1,F,Home Decor & Festive Needs,1,6,1,SHIE4THT2KHHGU8H,Parv Collections Showpiece  -  12 cm,Parv Collections,Home Decor & Festive Needs,29,40,72.5,Optimal,1085,31465,B-Medium,33,10/18/2026
+F-R01-B06-L2,F,Home Decor & Festive Needs,1,6,2,,,,,0,40,0,Empty,0,0,,0,
+F-R01-B06-L3,F,Home Decor & Festive Needs,1,6,3,SHIEB59MMCHHZ4XJ,IndianShelf 3 Drawer Spice Box Showpiece  -  25.4 cm,IndianShelf,Home Decor & Festive Needs,40,40,100,Overstock,999,39960,C-Slow,44,10/7/2026
+F-R01-B06-L4,F,Home Decor & Festive Needs,1,6,4,PTGEJQR3SVBUNGQQ,Sifty Collection Acrylic Painting,Sifty Collection,Home Decor & Festive Needs,7,40,17.5,Low Stock,799,5593,B-Medium,43,10/8/2026
+F-R01-B06-L5,F,Home Decor & Festive Needs,1,6,5,WCKE23K4FHXSXDFP,Regent Analog 31 cm Dia Wall Clock,Unbranded,Home Decor & Festive Needs,35,40,87.5,Optimal,749,26215,B-Medium,42,10/9/2026
+F-R01-B07-L1,F,Home Decor & Festive Needs,1,7,1,STIEYZ62UCEMEGMV,DeStudio Extra Large WALL STICKER Sticker,DeStudio,Home Decor & Festive Needs,31,40,77.5,Optimal,999,30969,A-Fast,16,11/4/2026
+F-R01-B07-L2,F,Home Decor & Festive Needs,1,7,2,SHIE7S69NVNJTJ3E,Karigaari Set Of 5 Adivasi Doing Merry On Trumpet Showpiece ,Karigaari,Home Decor & Festive Needs,8,40,20,Low Stock,2050,16400,B-Medium,67,9/14/2026
+F-R01-B07-L3,F,Home Decor & Festive Needs,1,7,3,SHIEGHNCZBRTKZCR,Treasure Showpiece  -  23 cm,Treasure,Home Decor & Festive Needs,34,40,85,Optimal,399,13566,B-Medium,119,7/24/2026
+F-R01-B07-L4,F,Home Decor & Festive Needs,1,7,4,STIEYZ5TYUFJHDMZ,DeStudio Tiny Wall Sticker,DeStudio,Home Decor & Festive Needs,31,40,77.5,Optimal,399,12369,A-Fast,94,8/18/2026
+F-R01-B07-L5,F,Home Decor & Festive Needs,1,7,5,FGBE8YPGASPUR3EA,Zari Boxes ZBD-AAB976 Wooden Gift Box,Zari Boxes,Home Decor & Festive Needs,25,40,62.5,Optimal,299,7475,B-Medium,5,11/15/2026
+F-R01-B08-L1,F,Home Decor & Festive Needs,1,8,1,RCLEYW4QXDWHDFSZ,"Digilight 200 inch White, Green, Blue Rice Lights",Digilight,Home Decor & Festive Needs,32,40,80,Optimal,159,5088,B-Medium,18,11/2/2026
+F-R01-B08-L2,F,Home Decor & Festive Needs,1,8,2,SHIE25R9XNBE78MY,Abhushan Radha Krishna on Swing Showpiece  -  19 cm,Abhushan,Home Decor & Festive Needs,6,40,15,Low Stock,695,4170,B-Medium,55,9/26/2026
+F-R01-B08-L3,F,Home Decor & Festive Needs,1,8,3,STIE6Q5UZBVBPZZZ,Creative Width Decor Small Vinyl Sticker,Creative Width Decor,Home Decor & Festive Needs,15,40,37.5,Blocked,224,3360,B-Medium,64,9/17/2026
+F-R01-B08-L4,F,Home Decor & Festive Needs,1,8,4,RCLECC9YFXCTZE8M,Toygully 589 inch Multicolor Rice Lights,Toygully,Home Decor & Festive Needs,40,40,100,Overstock,860,34400,B-Medium,102,8/10/2026
+F-R01-B08-L5,F,Home Decor & Festive Needs,1,8,5,SHIE3QDHP5RDGMZY,Exotic India Lord Ganesha Playing Flute (Carved in Sunstone),Exotic India,Home Decor & Festive Needs,25,40,62.5,Optimal,2860,71500,A-Fast,49,10/2/2026
+F-R01-B09-L1,F,Home Decor & Festive Needs,1,9,1,PTGEGUZBS46TGTMM,GAGA Canvas Painting,GAGA,Home Decor & Festive Needs,11,40,27.5,Optimal,3040,33440,C-Slow,14,11/6/2026
+F-R01-B09-L2,F,Home Decor & Festive Needs,1,9,2,WCKE2TFYMTCGDBE6,Blacksmith Analog Wall Clock,Unbranded,Home Decor & Festive Needs,21,40,52.5,Optimal,1099,23079,B-Medium,110,8/2/2026
+F-R01-B09-L3,F,Home Decor & Festive Needs,1,9,3,SHIEHGXG5PNH2HEF,K&P Lord Ganesha Regular 16 Showpiece  -  13 cm,K&P,Home Decor & Festive Needs,35,40,87.5,Optimal,751,26285,C-Slow,35,10/16/2026
+F-R01-B09-L4,F,Home Decor & Festive Needs,1,9,4,SHIEBCQZBRDR89FY,Lal Haveli Decorative manjira Musician Showpiece  -  12.7 cm,Lal Haveli,Home Decor & Festive Needs,13,40,32.5,Blocked,749,9737,A-Fast,79,9/2/2026
+F-R01-B09-L5,F,Home Decor & Festive Needs,1,9,5,STIEYZ5T8JH6GFHX,DeStudio Tiny Wall Sticker,DeStudio,Home Decor & Festive Needs,7,40,17.5,Low Stock,399,2793,A-Fast,36,10/15/2026
+F-R01-B10-L1,F,Home Decor & Festive Needs,1,10,1,TLPEGUHQ2YCYQDHX,DECOREX 18W LED Surface Light (Light Colour : Cool White) Ni,DECOREX,Home Decor & Festive Needs,40,40,100,Overstock,700,28000,B-Medium,20,10/31/2026
+F-R01-B10-L2,F,Home Decor & Festive Needs,1,10,2,PTGEE9CSJWGBQDBY,Vitalwalls With Frame Canvas Painting,Vitalwalls,Home Decor & Festive Needs,40,40,100,Overstock,1649,65960,C-Slow,116,7/27/2026
+F-R01-B10-L3,F,Home Decor & Festive Needs,1,10,3,GRAEDCRWFFYQVH2E,Interio Crafts Brass Gramophone,Interio Crafts,Home Decor & Festive Needs,11,40,27.5,Optimal,3999,43989,C-Slow,115,7/28/2026
+F-R01-B10-L4,F,Home Decor & Festive Needs,1,10,4,FIOEFUXPJQYZKDXZ,Nutcase Multicolor Column Floor Lamp,Nutcase,Home Decor & Festive Needs,21,40,52.5,Optimal,1299,27279,B-Medium,63,9/18/2026
+F-R01-B10-L5,F,Home Decor & Festive Needs,1,10,5,,,,,0,40,0,Empty,0,0,,0,
+F-R02-B01-L1,F,Home Decor & Festive Needs,2,1,1,SHIEASHQC6NHHHZQ,Send Rakhis to India Lovely Metal Ganesh Idol For Car Dashbo,Send Rakhis to India,Home Decor & Festive Needs,25,40,62.5,Optimal,279,6975,A-Fast,107,8/5/2026
+F-R02-B01-L2,F,Home Decor & Festive Needs,2,1,2,SHIE9YM2HQPKZKEF,MSC Shuangmin Japanese Dolls Showpiece  -  12 cm,MSC Shuangmin,Home Decor & Festive Needs,22,40,55,Optimal,1199,26378,B-Medium,15,11/5/2026
+F-R02-B01-L3,F,Home Decor & Festive Needs,2,1,3,,,,,0,40,0,Empty,0,0,,0,
+F-R02-B01-L4,F,Home Decor & Festive Needs,2,1,4,SHIEB657EFEYYGWE,JaipurCrafts Designer Ethnic Collection Floor Rangoli Showpi,JaipurCrafts,Home Decor & Festive Needs,29,40,72.5,Optimal,999,28971,B-Medium,65,9/16/2026
+F-R02-B01-L5,F,Home Decor & Festive Needs,2,1,5,SHIE3FHYRRQGFFXN,S C Handicrafts Sandalwood Carved Chinese Queen Big Showpiec,S C Handicrafts,Home Decor & Festive Needs,32,40,80,Optimal,8900,284800,B-Medium,67,9/14/2026
+F-R02-B02-L1,F,Home Decor & Festive Needs,2,2,1,SHIE7ZWA4HYWCZS4,Ona'S Rajasthani Puppet Showpiece  -  30 cm,Ona'S,Home Decor & Festive Needs,6,40,15,Low Stock,749,4494,C-Slow,33,10/18/2026
+F-R02-B02-L2,F,Home Decor & Festive Needs,2,2,2,SHIE7DFNAFTC6R6M,Shoppingtara Wooden Elephant Showpiece  -  4 cm,Shoppingtara,Home Decor & Festive Needs,14,40,35,Blocked,649,9086,B-Medium,85,8/27/2026
+F-R02-B02-L3,F,Home Decor & Festive Needs,2,2,3,WCKE2TFYZG2SYFH4,Blacksmith Analog Wall Clock,Unbranded,Home Decor & Festive Needs,11,40,27.5,Optimal,699,7689,B-Medium,43,10/8/2026
+F-R02-B02-L4,F,Home Decor & Festive Needs,2,2,4,SHIE9J6ZRMDMGTF9,Lal Haveli Rajasthani Wooden Crafted Unique Chowkidar Statue,Lal Haveli,Home Decor & Festive Needs,34,40,85,Optimal,4795,163030,C-Slow,68,9/13/2026
+F-R02-B02-L5,F,Home Decor & Festive Needs,2,2,5,SHIEA6YVKUQUKCYG,Ravishing Variety Statue Showpiece  -  30 cm,Ravishing Variety,Home Decor & Festive Needs,23,40,57.5,Optimal,830,19090,A-Fast,32,10/19/2026
+F-R02-B03-L1,F,Home Decor & Festive Needs,2,3,1,SHIE8TFNMRZHATFH,Marwar Bicycle Toy Showpiece  -  20 cm,Marwar,Home Decor & Festive Needs,14,40,35,Optimal,799,11186,A-Fast,35,10/16/2026
+F-R02-B03-L2,F,Home Decor & Festive Needs,2,3,2,SHIEAMGZDAP7FWG5,Krg Enterprises Lord Radha Krishna Idol With Cow Showpiece  ,Krg Enterprises,Home Decor & Festive Needs,10,40,25,Optimal,648,6480,C-Slow,113,7/30/2026
+F-R02-B03-L3,F,Home Decor & Festive Needs,2,3,3,SHIE8WYNYRHSFCRR,Sovam International Marble Elephant Pair Showpiece  -  5 cm,Sovam International,Home Decor & Festive Needs,19,40,47.5,Optimal,699,13281,C-Slow,76,9/5/2026
+F-R02-B03-L4,F,Home Decor & Festive Needs,2,3,4,RAKEJU38ZMFGGJWJ,Laviva Stunnig Set of Fancy & Swastik Rakhis Design Designer,Laviva,Home Decor & Festive Needs,15,40,37.5,Optimal,371,5565,C-Slow,83,8/29/2026
+F-R02-B03-L5,F,Home Decor & Festive Needs,2,3,5,HKHEH35SZQY3EY3A,Veensh Red HARB Grinder Diameter 2.25 inch Plastic Hookah,Veensh,Home Decor & Festive Needs,6,40,15,Low Stock,299,1794,A-Fast,106,8/6/2026
+F-R02-B04-L1,F,Home Decor & Festive Needs,2,4,1,SHIE9J6PAJGHYX6B,Lal Haveli House Kitchen Decorative Solid Almirah Wooden Sto,Lal Haveli,Home Decor & Festive Needs,8,40,20,Low Stock,3749,29992,B-Medium,120,7/23/2026
+F-R02-B04-L2,F,Home Decor & Festive Needs,2,4,2,RCLEYW4Q2MXFSCSM,"Digilight 400 inch Red, Blue, Green Rice Lights",Digilight,Home Decor & Festive Needs,6,40,15,Low Stock,269,1614,B-Medium,19,11/1/2026
+F-R02-B04-L3,F,Home Decor & Festive Needs,2,4,3,PTGEGUPF8QMQRVUY,GAGA Canvas Painting,GAGA,Home Decor & Festive Needs,25,40,62.5,Optimal,4220,105500,B-Medium,11,11/9/2026
+F-R02-B04-L4,F,Home Decor & Festive Needs,2,4,4,SHIECZNMYRAQJHRW,Jaipur Crafts Premium Collection Silver Lord Krishna With Ma,Jaipur Crafts,Home Decor & Festive Needs,4,40,10,Low Stock,838,3352,B-Medium,48,10/3/2026
+F-R02-B04-L5,F,Home Decor & Festive Needs,2,4,5,SHIE6ZSBG6MQDHNX,Tiedribbons Super Mom Tile Showpiece  -  28 cm,Tiedribbons,Home Decor & Festive Needs,10,40,25,Optimal,699,6990,B-Medium,73,9/8/2026
+F-R02-B05-L1,F,Home Decor & Festive Needs,2,5,1,SHIEA6XUGR3SJNHN,Apkamart Radha Krishna Wall Hanging 15 Inch Showpiece  -  37,Apkamart,Home Decor & Festive Needs,17,40,42.5,Optimal,849,14433,C-Slow,37,10/14/2026
+F-R02-B05-L2,F,Home Decor & Festive Needs,2,5,2,BNGEB467ZXZZ4HWS,TRUE Bong,TRUE,Home Decor & Festive Needs,27,40,67.5,Optimal,549,14823,A-Fast,106,8/6/2026
+F-R02-B05-L3,F,Home Decor & Festive Needs,2,5,3,STIEYZ5ZCPDHF5HK,DeStudio Extra Large WALL STICKER Sticker,DeStudio,Home Decor & Festive Needs,20,40,50,Optimal,799,15980,B-Medium,26,10/25/2026
+F-R02-B05-L4,F,Home Decor & Festive Needs,2,5,4,SHIEH5HD8ZZZDRRZ,"Astrodidi Gomati Chakra (21 Pieces) for Brings Prosperity, H",Astrodidi,Home Decor & Festive Needs,35,40,87.5,Optimal,349,12215,C-Slow,40,10/11/2026
+F-R02-B05-L5,F,Home Decor & Festive Needs,2,5,5,SHIE853ADDAHYSFQ,Paras Purple Beautyfullady Flower Pot Showpiece  -  70 cm,Paras,Home Decor & Festive Needs,23,40,57.5,Optimal,1958,45034,C-Slow,19,11/1/2026
+F-R02-B06-L1,F,Home Decor & Festive Needs,2,6,1,WCKE84H8CZW3H9TD,eCraftIndia Analog 2.5 cm Dia Wall Clock,Unbranded,Home Decor & Festive Needs,35,40,87.5,Optimal,1153,40355,B-Medium,47,10/4/2026
+F-R02-B06-L2,F,Home Decor & Festive Needs,2,6,2,POSEJUACYNRRFWFH,Tallenge Art For Kitchen - Today's Menu - Premium Quality A3,Tallenge,Home Decor & Festive Needs,23,40,57.5,Optimal,699,16077,A-Fast,76,9/5/2026
+F-R02-B06-L3,F,Home Decor & Festive Needs,2,6,3,SHIE4PZGEARGTGCP,Pindia Showpiece  -  17.7 cm,Pindia,Home Decor & Festive Needs,23,40,57.5,Optimal,983,22609,B-Medium,102,8/10/2026
+F-R02-B06-L4,F,Home Decor & Festive Needs,2,6,4,VASEJQS2NAGCHGCP,eKolhapuri Terracotta Vase,eKolhapuri,Home Decor & Festive Needs,27,40,67.5,Optimal,515,13905,B-Medium,78,9/3/2026
+F-R02-B06-L5,F,Home Decor & Festive Needs,2,6,5,DEPEDN9MUHRGHHK3,Masterhandicraft Brass Decorative Platter,Masterhandicraft,Home Decor & Festive Needs,31,40,77.5,Optimal,1020,31620,C-Slow,106,8/6/2026
+F-R02-B07-L1,F,Home Decor & Festive Needs,2,7,1,SHIE6G82KNDJUCAQ,Exotic India Vaishnava Symbols - Shankha And Chakra Showpiec,Exotic India,Home Decor & Festive Needs,8,40,20,Low Stock,6655,53240,C-Slow,24,10/27/2026
+F-R02-B07-L2,F,Home Decor & Festive Needs,2,7,2,WCKE56UCWM5HHZHE,Regent Analog 28 cm Dia Wall Clock,Unbranded,Home Decor & Festive Needs,3,40,7.5,Low Stock,849,2547,A-Fast,19,11/1/2026
+F-R02-B07-L3,F,Home Decor & Festive Needs,2,7,3,SHIEBATZ6HMJN7ZK,Divinit DG Royal Ornamental Size 2 Shiva religious wall hang,Divinit,Home Decor & Festive Needs,34,40,85,Optimal,1940,65960,B-Medium,15,11/5/2026
+F-R02-B07-L4,F,Home Decor & Festive Needs,2,7,4,SHIEBWNUURZ8BWDZ,FOCI Dancing Couple Showpiece  -  10 cm,FOCI,Home Decor & Festive Needs,9,40,22.5,Optimal,2850,25650,B-Medium,120,7/23/2026
+F-R02-B07-L5,F,Home Decor & Festive Needs,2,7,5,RCLEYW4QKYRGZ7BH,"Digilight 200 inch Green, White, Red Rice Lights",Digilight,Home Decor & Festive Needs,32,40,80,Blocked,159,5088,B-Medium,13,11/7/2026
+F-R02-B08-L1,F,Home Decor & Festive Needs,2,8,1,SHIDYZAGTXAHCJ4G,Villcart Brass Bail Gadi Showpiece  -  5.5 cm,Villcart,Home Decor & Festive Needs,32,40,80,Optimal,680,21760,A-Fast,40,10/11/2026
+F-R02-B08-L2,F,Home Decor & Festive Needs,2,8,2,SHIE9Y8XB8UPYHKS,Aarya 24kt Hanuman Matt Gold Plated Frame Showpiece  -  12 c,Aarya 24kt,Home Decor & Festive Needs,24,40,60,Optimal,340,8160,C-Slow,46,10/5/2026
+F-R02-B08-L3,F,Home Decor & Festive Needs,2,8,3,SHIE7DFN8MFZKQUR,Shoppingtara Amabari Marble Plate Showpiece  -  7 cm,Shoppingtara,Home Decor & Festive Needs,9,40,22.5,Optimal,949,8541,A-Fast,70,9/11/2026
+F-R02-B08-L4,F,Home Decor & Festive Needs,2,8,4,DEPEDXSYGHYWFHRT,Udaipur Art Gallery Wooden Decorative Platter,Udaipur Art Gallery,Home Decor & Festive Needs,9,40,22.5,Optimal,399,3591,B-Medium,106,8/6/2026
+F-R02-B08-L5,F,Home Decor & Festive Needs,2,8,5,SHIEHXZEWWACSXRQ,Services Junction Gold Plated Sitting Ganesh Idol for puja S,Services Junction,Home Decor & Festive Needs,16,40,40,Optimal,1499,23984,B-Medium,42,10/9/2026
+F-R02-B09-L1,F,Home Decor & Festive Needs,2,9,1,SHIEC9AFED2B2EZX,Marwal White Metal Swan Holder Showpiece  -  15.24 cm,Marwal,Home Decor & Festive Needs,19,40,47.5,Optimal,799,15181,B-Medium,23,10/28/2026
+F-R02-B09-L2,F,Home Decor & Festive Needs,2,9,2,SHIE55GTBQGB5QSZ,MA Design Hut Showpiece  -  8 cm,MA Design Hut,Home Decor & Festive Needs,22,40,55,Optimal,449,9878,B-Medium,36,10/15/2026
+F-R02-B09-L3,F,Home Decor & Festive Needs,2,9,3,SHIE7DFN7ZSSVHXC,Shoppingtara Marble Elephant Pair Showpiece  -  5 cm,Shoppingtara,Home Decor & Festive Needs,18,40,45,Optimal,589,10602,C-Slow,62,9/19/2026
+F-R02-B09-L4,F,Home Decor & Festive Needs,2,9,4,WCKE56UCZGPWMNVQ,Regent Analog 28 cm Dia Wall Clock,Unbranded,Home Decor & Festive Needs,9,40,22.5,Optimal,749,6741,C-Slow,41,10/10/2026
+F-R02-B09-L5,F,Home Decor & Festive Needs,2,9,5,WCKE56UC6FHRF8TH,Regent Analog 28 cm Dia Wall Clock,Unbranded,Home Decor & Festive Needs,33,40,82.5,Blocked,799,26367,B-Medium,90,8/22/2026
+F-R02-B10-L1,F,Home Decor & Festive Needs,2,10,1,WCKE2TFYZG2SYFH4,Blacksmith Analog Wall Clock,Unbranded,Home Decor & Festive Needs,7,40,17.5,Low Stock,699,4893,C-Slow,79,9/2/2026
+F-R02-B10-L2,F,Home Decor & Festive Needs,2,10,2,SHIECMGF5WTA2WGG,SignKraft Showpiece  -  30 cm,SignKraft,Home Decor & Festive Needs,6,40,15,Low Stock,599,3594,C-Slow,47,10/4/2026
+F-R02-B10-L3,F,Home Decor & Festive Needs,2,10,3,VASEJQS2JUKGGGGN,eKolhapuri Terracotta Vase,eKolhapuri,Home Decor & Festive Needs,16,40,40,Blocked,520,8320,C-Slow,66,9/15/2026
+F-R02-B10-L4,F,Home Decor & Festive Needs,2,10,4,SHIEC89JFZXDEF6Z,Total Furnishing Jaipuri Handmade Painted Tray Showpiece  - ,Total Furnishing,Home Decor & Festive Needs,6,40,15,Low Stock,280,1680,B-Medium,15,11/5/2026
+F-R02-B10-L5,F,Home Decor & Festive Needs,2,10,5,SHIEAVD8XSPYY8TQ,Kraftnation Terracotta Blue Red Golden Pot Showpiece  -  23.,Kraftnation,Home Decor & Festive Needs,33,40,82.5,Optimal,600,19800,C-Slow,52,9/29/2026
+F-R03-B01-L1,F,Home Decor & Festive Needs,3,1,1,AIRE9B8EKTNR8J4B,Pure Source Psi-As-Hanggnrlx Relaxing Liquid Air Freshener,Pure Source,Home Decor & Festive Needs,24,40,60,Optimal,375,9000,A-Fast,86,8/26/2026
+F-R03-B01-L2,F,Home Decor & Festive Needs,3,1,2,SHIE5U6NBCUHQZTS,Rastogi Handicrafts Showpiece  -  20 cm,Rastogi Handicrafts,Home Decor & Festive Needs,28,40,70,Optimal,450,12600,C-Slow,42,10/9/2026
+F-R03-B01-L3,F,Home Decor & Festive Needs,3,1,3,SHIE3GPARBJ4SBCG,Ninety One Degree Showpiece  -  54 cm,Ninety One Degree,Home Decor & Festive Needs,26,40,65,Optimal,4200,109200,A-Fast,115,7/28/2026
+F-R03-B01-L4,F,Home Decor & Festive Needs,3,1,4,DEPEE6TY9ZYHQCTY,Neha Train Wooden Decorative Platter,Neha,Home Decor & Festive Needs,37,40,92.5,Blocked,974,36038,A-Fast,54,9/27/2026
+F-R03-B01-L5,F,Home Decor & Festive Needs,3,1,5,HOFEDQPJHSNFSYS2,Toygully Super Box of Orange Hookah Flavor,Toygully,Home Decor & Festive Needs,9,40,22.5,Optimal,250,2250,B-Medium,100,8/12/2026
+F-R03-B02-L1,F,Home Decor & Festive Needs,3,2,1,SHIE5HZ5UWWXYXWV,The Crafts House Showpiece  -  6.5 cm,The Crafts House,Home Decor & Festive Needs,13,40,32.5,Optimal,1499,19487,B-Medium,41,10/10/2026
+F-R03-B02-L2,F,Home Decor & Festive Needs,3,2,2,SHIEBFNPCGZERMJB,IndianShelf 2 Drawer Spice Box Showpiece  -  11.17 cm,IndianShelf,Home Decor & Festive Needs,3,40,7.5,Low Stock,685,2055,B-Medium,65,9/16/2026
+F-R03-B02-L3,F,Home Decor & Festive Needs,3,2,3,SPEEEQTWFWGCFSDP,Plus Value PVI- 052 Regular Square Crystal Pebbles,Plus Value,Home Decor & Festive Needs,16,40,40,Optimal,450,7200,A-Fast,1,11/19/2026
+F-R03-B02-L4,F,Home Decor & Festive Needs,3,2,4,SHIE5HBGWKWJWFRA,Orange Tree Dune Wall Decor Set Of 3 Showpiece  -  8 cm,Orange Tree,Home Decor & Festive Needs,37,40,92.5,Blocked,1529,56573,C-Slow,69,9/12/2026
+F-R03-B02-L5,F,Home Decor & Festive Needs,3,2,5,WCKE2TFYMTCGDBE6,Blacksmith Analog Wall Clock,Unbranded,Home Decor & Festive Needs,3,40,7.5,Low Stock,1099,3297,B-Medium,11,11/9/2026
+F-R03-B03-L1,F,Home Decor & Festive Needs,3,3,1,SHIED9AKUTQZQ5ZK,Marwal White Metal Swan Holder Showpiece  -  15.24 cm,Marwal,Home Decor & Festive Needs,19,40,47.5,Optimal,799,15181,A-Fast,14,11/6/2026
+F-R03-B03-L2,F,Home Decor & Festive Needs,3,3,2,STIEAE2Z8QXAZSD7,Hoopoe Decor Large Wall Sticker,Hoopoe Decor,Home Decor & Festive Needs,29,40,72.5,Optimal,5499,159471,B-Medium,58,9/23/2026
+F-R03-B03-L3,F,Home Decor & Festive Needs,3,3,3,RCLECC9YFXCTZE8M,Toygully 589 inch Multicolor Rice Lights,Toygully,Home Decor & Festive Needs,12,40,30,Optimal,860,10320,B-Medium,96,8/16/2026
+F-R03-B03-L4,F,Home Decor & Festive Needs,3,3,4,WCKE25RA9WDHBYKH,Regent Analog 31 cm Dia Wall Clock,Unbranded,Home Decor & Festive Needs,17,40,42.5,Optimal,749,12733,A-Fast,23,10/28/2026
+F-R03-B03-L5,F,Home Decor & Festive Needs,3,3,5,STIEYZ5ZTR7RRGC5,DeStudio Extra Large WALL STICKER Sticker,DeStudio,Home Decor & Festive Needs,24,40,60,Optimal,799,19176,C-Slow,115,7/28/2026
+F-R03-B04-L1,F,Home Decor & Festive Needs,3,4,1,WCKE2TFFT6M6PFCV,Blacksmith Analog Wall Clock,Unbranded,Home Decor & Festive Needs,3,40,7.5,Low Stock,709,2127,C-Slow,20,10/31/2026
+F-R03-B04-L2,F,Home Decor & Festive Needs,3,4,2,,,,,0,40,0,Empty,0,0,,0,
+F-R03-B04-L3,F,Home Decor & Festive Needs,3,4,3,PTGE8X4XSVWSNXEG,Wallmantra Cute Kitty Framed Print Canvas Painting,Wallmantra,Home Decor & Festive Needs,9,40,22.5,Optimal,1749,15741,B-Medium,31,10/20/2026
+F-R03-B04-L4,F,Home Decor & Festive Needs,3,4,4,STIEYZ5T3ZF7VS7V,DeStudio Tiny Wall Sticker,DeStudio,Home Decor & Festive Needs,19,40,47.5,Optimal,399,7581,C-Slow,55,9/26/2026
+F-R03-B04-L5,F,Home Decor & Festive Needs,3,4,5,WCKE26PFPF8BCHUW,Regent Analog 31 cm Dia Wall Clock,Unbranded,Home Decor & Festive Needs,22,40,55,Optimal,749,16478,B-Medium,29,10/22/2026
+F-R03-B05-L1,F,Home Decor & Festive Needs,3,5,1,SHIEBPPVHHH8Z3KE,KalaBhawan Stair Sculpture Showpiece  -  39 cm,KalaBhawan,Home Decor & Festive Needs,14,40,35,Optimal,1399,19586,C-Slow,115,7/28/2026
+F-R03-B05-L2,F,Home Decor & Festive Needs,3,5,2,VASEJQS2NAGCHGCP,eKolhapuri Terracotta Vase,eKolhapuri,Home Decor & Festive Needs,2,40,5,Low Stock,515,1030,C-Slow,113,7/30/2026
+F-R03-B05-L3,F,Home Decor & Festive Needs,3,5,3,SHIEAF2JJFSBXFMH,Monil Cow With Calf Showpiece  -  10.2 cm,Monil,Home Decor & Festive Needs,36,40,90,Overstock,520,18720,A-Fast,44,10/7/2026
+F-R03-B05-L4,F,Home Decor & Festive Needs,3,5,4,WCKE23K4PDUHH5YH,Regent Analog 31 cm Dia Wall Clock,Unbranded,Home Decor & Festive Needs,34,40,85,Optimal,749,25466,C-Slow,30,10/21/2026
+F-R03-B05-L5,F,Home Decor & Festive Needs,3,5,5,STIE6Q5TVFH8YHN5,Creative Width Decor Small Vinyl Sticker,Creative Width Decor,Home Decor & Festive Needs,37,40,92.5,Overstock,224,8288,C-Slow,33,10/18/2026
+F-R03-B06-L1,F,Home Decor & Festive Needs,3,6,1,,,,,0,40,0,Empty,0,0,,0,
+F-R03-B06-L2,F,Home Decor & Festive Needs,3,6,2,,,,,0,40,0,Empty,0,0,,0,
+F-R03-B06-L3,F,Home Decor & Festive Needs,3,6,3,SHIE6ZHNFS9S8FTX,Unravel india Jodhpuri Peacock Multicolored Wine Bottle Hold,Unravel india,Home Decor & Festive Needs,24,40,60,Optimal,1399,33576,A-Fast,51,9/30/2026
+F-R03-B06-L4,F,Home Decor & Festive Needs,3,6,4,SHIEFZ2GJGAHATFG,Redbag Standing Beauty Sculpture BS0240 Showpiece  -  43.18 ,Redbag,Home Decor & Festive Needs,24,40,60,Optimal,7680,184320,C-Slow,90,8/22/2026
+F-R03-B06-L5,F,Home Decor & Festive Needs,3,6,5,SHIEGPXGZTK5B3GT,Reiki Crystal Products Showpiece  -  1.5 cm,Reiki Crystal Products,Home Decor & Festive Needs,30,40,75,Optimal,499,14970,C-Slow,106,8/6/2026
+F-R03-B07-L1,F,Home Decor & Festive Needs,3,7,1,VASEJQQHDBMQZ4PK,eKolhapuri Terracotta Vase,eKolhapuri,Home Decor & Festive Needs,15,40,37.5,Optimal,660,9900,B-Medium,104,8/8/2026
+F-R03-B07-L2,F,Home Decor & Festive Needs,3,7,2,SHIEB7957MQBWGV3,Sunvi Rajasthani Stonework Pooja Chopra Showpiece  -  12 cm,Sunvi,Home Decor & Festive Needs,29,40,72.5,Optimal,239,6931,A-Fast,44,10/7/2026
+F-R03-B07-L3,F,Home Decor & Festive Needs,3,7,3,SHIE954FZSSHYFGG,Bagru Crafts Wall hanging of Lord Ganesha Showpiece  -  21.6,Bagru Crafts,Home Decor & Festive Needs,6,40,15,Low Stock,549,3294,B-Medium,59,9/22/2026
+F-R03-B07-L4,F,Home Decor & Festive Needs,3,7,4,RCLEBTZ3FYGGWGBZ,A To Z Traders 200 inch Yellow Rice Lights,A To Z Traders,Home Decor & Festive Needs,24,40,60,Blocked,999,23976,B-Medium,40,10/11/2026
+F-R03-B07-L5,F,Home Decor & Festive Needs,3,7,5,PTGE8X4XJM4SFDFZ,Wallmantra Motivational Quote Framed Print Canvas Painting,Wallmantra,Home Decor & Festive Needs,20,40,50,Optimal,1749,34980,A-Fast,11,11/9/2026
+F-R03-B08-L1,F,Home Decor & Festive Needs,3,8,1,SHIE9FMP3RBSYMEV,Lal Haveli Beautiful Attractive Hand Painted Decorative Iron,Lal Haveli,Home Decor & Festive Needs,27,40,67.5,Optimal,5549,149823,C-Slow,52,9/29/2026
+F-R03-B08-L2,F,Home Decor & Festive Needs,3,8,2,WCKE26PFGGBFEP9A,Regent Analog 31 cm Dia Wall Clock,Unbranded,Home Decor & Festive Needs,21,40,52.5,Optimal,749,15729,B-Medium,7,11/13/2026
+F-R03-B08-L3,F,Home Decor & Festive Needs,3,8,3,SHIE4Q76YVE6GFHZ,Murtiwala Showpiece  -  45 cm,Murtiwala,Home Decor & Festive Needs,15,40,37.5,Optimal,9500,142500,C-Slow,42,10/9/2026
+F-R03-B08-L4,F,Home Decor & Festive Needs,3,8,4,STIEA4CNGFSU64ZG,Wall1ders Small PVC Vinyl Sticker,Wall1ders,Home Decor & Festive Needs,10,40,25,Optimal,239,2390,C-Slow,32,10/19/2026
+F-R03-B08-L5,F,Home Decor & Festive Needs,3,8,5,SHIEHYHHNPVZEXVZ,Services Junction Beautiful Black and Golden color Diamond G,Services Junction,Home Decor & Festive Needs,35,40,87.5,Optimal,1249,43715,B-Medium,68,9/13/2026
+F-R03-B09-L1,F,Home Decor & Festive Needs,3,9,1,CILEJSE8TP9Z2G3J,nogaiya Pendants Ceiling Lamp,nogaiya,Home Decor & Festive Needs,34,40,85,Optimal,1400,47600,C-Slow,116,7/27/2026
+F-R03-B09-L2,F,Home Decor & Festive Needs,3,9,2,SHIEBCQZF8EQ3FSD,Lal Haveli Decorative Dholak Musician Showpiece  -  8.89 cm,Lal Haveli,Home Decor & Festive Needs,37,40,92.5,Overstock,1085,40145,A-Fast,47,10/4/2026
+F-R03-B09-L3,F,Home Decor & Festive Needs,3,9,3,SHIEBG6FHNFZ2TFP,Marwal Crystal Tortoise Showpiece  -  4 cm,Marwal,Home Decor & Festive Needs,10,40,25,Optimal,345,3450,B-Medium,13,11/7/2026
+F-R03-B09-L4,F,Home Decor & Festive Needs,3,9,4,SHIEFFFPRTTYYF3G,NEHP NEH0012 Showpiece  -  22.86 cm,NEHP,Home Decor & Festive Needs,25,40,62.5,Optimal,699,17475,A-Fast,18,11/2/2026
+F-R03-B09-L5,F,Home Decor & Festive Needs,3,9,5,SHIED8T6GSTTYVBA,Amazing India God Goddess Radha Krishna Statue Idol Showpiec,Amazing India,Home Decor & Festive Needs,38,40,95,Overstock,999,37962,B-Medium,113,7/30/2026
+F-R03-B10-L1,F,Home Decor & Festive Needs,3,10,1,,,,,0,40,0,Empty,0,0,,0,
+F-R03-B10-L2,F,Home Decor & Festive Needs,3,10,2,STIEEHYK7FT2BYPP,DeStudio Small Wall Sticker,DeStudio,Home Decor & Festive Needs,6,40,15,Low Stock,499,2994,B-Medium,59,9/22/2026
+F-R03-B10-L3,F,Home Decor & Festive Needs,3,10,3,SHIEJY5HPVJT9MUE,brass gift center Showpiece  -  48 cm,brass gift center,Home Decor & Festive Needs,30,40,75,Optimal,4550,136500,A-Fast,31,10/20/2026
+F-R03-B10-L4,F,Home Decor & Festive Needs,3,10,4,SHIE7XCGXYYTGFYK,Paras Rajasthani Man 1 Showpiece  -  27 cm,Paras,Home Decor & Festive Needs,12,40,30,Optimal,909,10908,A-Fast,63,9/18/2026
+F-R03-B10-L5,F,Home Decor & Festive Needs,3,10,5,SHIEAPEAHUWDHSDH,Onlineshoppee sha-34-s Showpiece  -  24 cm,Onlineshoppee,Home Decor & Festive Needs,25,40,62.5,Optimal,349,8725,C-Slow,53,9/28/2026
+F-R04-B01-L1,F,Home Decor & Festive Needs,4,1,1,WCKEDV2AHU7T2K2Y,Fieesta Plaza Analog 28 cm Dia Wall Clock,Unbranded,Home Decor & Festive Needs,23,40,57.5,Optimal,949,21827,C-Slow,63,9/18/2026
+F-R04-B01-L2,F,Home Decor & Festive Needs,4,1,2,WCKE23K4PDUHH5YH,Regent Analog 31 cm Dia Wall Clock,Unbranded,Home Decor & Festive Needs,39,40,97.5,Overstock,749,29211,B-Medium,5,11/15/2026
+F-R04-B01-L3,F,Home Decor & Festive Needs,4,1,3,,,,,0,40,0,Empty,0,0,,0,
+F-R04-B01-L4,F,Home Decor & Festive Needs,4,1,4,,,,,0,40,0,Empty,0,0,,0,
+F-R04-B01-L5,F,Home Decor & Festive Needs,4,1,5,SHIE952JNG6M6JWE,Saum Creation Hand crafted Terracotta Men Women Mask Showpie,Saum Creation,Home Decor & Festive Needs,7,40,17.5,Low Stock,450,3150,A-Fast,80,9/1/2026
+F-R04-B02-L1,F,Home Decor & Festive Needs,4,2,1,RCLECBJ9HPGHCYCP,Weldecor 1800 inch Red Rice Lights,Weldecor,Home Decor & Festive Needs,21,40,52.5,Optimal,5999,125979,B-Medium,85,8/27/2026
+F-R04-B02-L2,F,Home Decor & Festive Needs,4,2,2,RCLECBJ9HPGHCYCP,Weldecor 1800 inch Red Rice Lights,Weldecor,Home Decor & Festive Needs,14,40,35,Optimal,5999,83986,B-Medium,14,11/6/2026
+F-R04-B02-L3,F,Home Decor & Festive Needs,4,2,3,,,,,0,40,0,Empty,0,0,,0,
+F-R04-B02-L4,F,Home Decor & Festive Needs,4,2,4,SHIE9FMPQBGXGTTH,Lal Haveli Traditional Hand Crafted Beautiful Iron Musician ,Lal Haveli,Home Decor & Festive Needs,4,40,10,Low Stock,3749,14996,A-Fast,64,9/17/2026
+F-R04-B02-L5,F,Home Decor & Festive Needs,4,2,5,SHIEBCQZBRDR89FY,Lal Haveli Decorative manjira Musician Showpiece  -  12.7 cm,Lal Haveli,Home Decor & Festive Needs,26,40,65,Optimal,749,19474,B-Medium,64,9/17/2026
+F-R04-B03-L1,F,Home Decor & Festive Needs,4,3,1,SHIE9J6P8QHDZWXF,Lal Haveli Antique Indian Home Decor Handmade Painted Pair o,Lal Haveli,Home Decor & Festive Needs,33,40,82.5,Optimal,7049,232617,B-Medium,80,9/1/2026
+F-R04-B03-L2,F,Home Decor & Festive Needs,4,3,2,PTGE8X4XJM4SFDFZ,Wallmantra Motivational Quote Framed Print Canvas Painting,Wallmantra,Home Decor & Festive Needs,5,40,12.5,Low Stock,1749,8745,C-Slow,63,9/18/2026
+F-R04-B03-L3,F,Home Decor & Festive Needs,4,3,3,SNKEBPVFVGG8A5UR,The Art Treasure Decorative Shankh,The Art Treasure,Home Decor & Festive Needs,20,40,50,Optimal,2900,58000,A-Fast,102,8/10/2026
+F-R04-B03-L4,F,Home Decor & Festive Needs,4,3,4,,,,,0,40,0,Empty,0,0,,0,
+F-R04-B03-L5,F,Home Decor & Festive Needs,4,3,5,SHIECBAAUSJFZZGB,Agnihotra Creations Hanger Showpiece  -  37.5 cm,Agnihotra Creations,Home Decor & Festive Needs,38,40,95,Overstock,800,30400,A-Fast,8,11/12/2026
+F-R04-B04-L1,F,Home Decor & Festive Needs,4,4,1,,,,,0,40,0,Empty,0,0,,0,
+F-R04-B04-L2,F,Home Decor & Festive Needs,4,4,2,WCKE2TFYGMCEPV5G,Blacksmith Analog Wall Clock,Unbranded,Home Decor & Festive Needs,7,40,17.5,Low Stock,872,6104,C-Slow,97,8/15/2026
+F-R04-B04-L3,F,Home Decor & Festive Needs,4,4,3,,,,,0,40,0,Empty,0,0,,0,
+F-R04-B04-L4,F,Home Decor & Festive Needs,4,4,4,SHIE7TUJZATVAYVB,The Crystal Jewel Chakra colour Bonded Pyramid Showpiece  - ,The Crystal Jewel,Home Decor & Festive Needs,11,40,27.5,Optimal,650,7150,B-Medium,108,8/4/2026
+F-R04-B04-L5,F,Home Decor & Festive Needs,4,4,5,STIEYZ5TJ8FBPSBV,DeStudio Tiny Wall Sticker,DeStudio,Home Decor & Festive Needs,39,40,97.5,Overstock,399,15561,A-Fast,49,10/2/2026
+F-R04-B05-L1,F,Home Decor & Festive Needs,4,5,1,STIEAE2Z8QXAZSD7,Hoopoe Decor Large Wall Sticker,Hoopoe Decor,Home Decor & Festive Needs,12,40,30,Optimal,5499,65988,A-Fast,77,9/4/2026
+F-R04-B05-L2,F,Home Decor & Festive Needs,4,5,2,SHIEBQF6BNGS946Z,Charu Fashionz CER16 Showpiece  -  33 cm,Charu Fashionz,Home Decor & Festive Needs,6,40,15,Low Stock,350,2100,C-Slow,84,8/28/2026
+F-R04-B05-L3,F,Home Decor & Festive Needs,4,5,3,SHIEBAXYS3FUTX8Z,Diviniti Dg Royal Ornamental Size 2.5 Murgan Religious Wall ,Diviniti,Home Decor & Festive Needs,35,40,87.5,Optimal,5140,179900,A-Fast,117,7/26/2026
+F-R04-B05-L4,F,Home Decor & Festive Needs,4,5,4,,,,,0,40,0,Empty,0,0,,0,
+F-R04-B05-L5,F,Home Decor & Festive Needs,4,5,5,AIREGYP4RAFQGZVN,Itiha Home Liquid Air Freshener,Itiha,Home Decor & Festive Needs,11,40,27.5,Optimal,399,4389,C-Slow,119,7/24/2026
+F-R04-B06-L1,F,Home Decor & Festive Needs,4,6,1,SHIE2XDXQA5SDTYP,S C Handicrafts Showpiece  -  23 cm,S C Handicrafts,Home Decor & Festive Needs,12,40,30,Optimal,4900,58800,B-Medium,108,8/4/2026
+F-R04-B06-L2,F,Home Decor & Festive Needs,4,6,2,SHIE9YDJP6JVWDFK,ARK Creation Baster Tribal Lady Showpiece  -  20 cm,ARK Creation,Home Decor & Festive Needs,14,40,35,Optimal,1480,20720,B-Medium,77,9/4/2026
+F-R04-B06-L3,F,Home Decor & Festive Needs,4,6,3,SHIE7DFN7FEZEQJE,Shoppingtara Paper Mache 3 Piece Elephant Home Decor Gift Sh,Shoppingtara,Home Decor & Festive Needs,11,40,27.5,Optimal,489,5379,B-Medium,11,11/9/2026
+F-R04-B06-L4,F,Home Decor & Festive Needs,4,6,4,PHFEG8HFHPE6ZXZ5,Art N Hub Generic Photo Frame,Art N Hub,Home Decor & Festive Needs,5,40,12.5,Low Stock,356,1780,C-Slow,112,7/31/2026
+F-R04-B06-L5,F,Home Decor & Festive Needs,4,6,5,SHIED8FA8YMGFQNC,Sunita Fashion Shiva Ling Home Pooja Purpose Showpiece  -  1,Sunita Fashion,Home Decor & Festive Needs,32,40,80,Optimal,233,7456,C-Slow,88,8/24/2026
+F-R04-B07-L1,F,Home Decor & Festive Needs,4,7,1,SHIE7ZWANZAZ7R6Z,Ona'S Rajasthani Puppet Showpiece  -  80 cm,Ona'S,Home Decor & Festive Needs,37,40,92.5,Overstock,799,29563,B-Medium,4,11/16/2026
+F-R04-B07-L2,F,Home Decor & Festive Needs,4,7,2,STIEYZ5ZTR7RRGC5,DeStudio Extra Large WALL STICKER Sticker,DeStudio,Home Decor & Festive Needs,23,40,57.5,Optimal,799,18377,A-Fast,34,10/17/2026
+F-R04-B07-L3,F,Home Decor & Festive Needs,4,7,3,SHIECPZPHMWWB4YB,Golmaalshop Showpiece  -  12.7 cm,Golmaalshop,Home Decor & Festive Needs,33,40,82.5,Optimal,649,21417,B-Medium,17,11/3/2026
+F-R04-B07-L4,F,Home Decor & Festive Needs,4,7,4,SHIE3QDHFYNWATPT,Exotic India Bhagwan Vishnu Showpiece  -  22.86 cm,Exotic India,Home Decor & Festive Needs,24,40,60,Optimal,3850,92400,B-Medium,92,8/20/2026
+F-R04-B07-L5,F,Home Decor & Festive Needs,4,7,5,TLPEGUHPCCY9XYMQ,DECOREX 18W LED Down Light (Light Colour : Neutral White) Ni,DECOREX,Home Decor & Festive Needs,30,40,75,Optimal,650,19500,B-Medium,72,9/9/2026
+F-R04-B08-L1,F,Home Decor & Festive Needs,4,8,1,HKHE62MHWS8ANGXU,Being Nawab 6 inch Glass Hookah,Being Nawab,Home Decor & Festive Needs,11,40,27.5,Optimal,195,2145,B-Medium,110,8/2/2026
+F-R04-B08-L2,F,Home Decor & Festive Needs,4,8,2,SHIE7DFNYZC6YWTT,Shoppingtara Beautiful Golden Meenakari Work Marble Table Cl,Shoppingtara,Home Decor & Festive Needs,13,40,32.5,Optimal,549,7137,A-Fast,28,10/23/2026
+F-R04-B08-L3,F,Home Decor & Festive Needs,4,8,3,SHIECKYBUZCBZS8U,Ratash.Com LA_0126_2 Showpiece  -  8 cm,Ratash.Com,Home Decor & Festive Needs,18,40,45,Optimal,498,8964,B-Medium,30,10/21/2026
+F-R04-B08-L4,F,Home Decor & Festive Needs,4,8,4,STIEYZ5TGRMGGMXK,DeStudio Tiny Wall Sticker,DeStudio,Home Decor & Festive Needs,39,40,97.5,Overstock,399,15561,B-Medium,7,11/13/2026
+F-R04-B08-L5,F,Home Decor & Festive Needs,4,8,5,SHIE6G75RNDQSGUQ,Slice of Bengal Dokra Lamp Showpiece  -  18 cm,Slice of Bengal,Home Decor & Festive Needs,34,40,85,Optimal,1800,61200,B-Medium,19,11/1/2026
+F-R04-B09-L1,F,Home Decor & Festive Needs,4,9,1,RCLEYW4QNCRVHCGC,"Digilight 590 inch White, Yellow, Red Rice Lights",Digilight,Home Decor & Festive Needs,16,40,40,Optimal,539,8624,C-Slow,52,9/29/2026
+F-R04-B09-L2,F,Home Decor & Festive Needs,4,9,2,SHIEF8DUHZJP8MVC,R S Jewels Handmade Decoretive Designs Iron Pot Vase Showpie,R S Jewels,Home Decor & Festive Needs,28,40,70,Optimal,780,21840,B-Medium,65,9/16/2026
+F-R04-B09-L3,F,Home Decor & Festive Needs,4,9,3,SHIEBTT2SZQJKGDM,Shree Homdecor Floor rangoli Showpiece  -  21 cm,Shree Homdecor,Home Decor & Festive Needs,38,40,95,Overstock,899,34162,B-Medium,86,8/26/2026
+F-R04-B09-L4,F,Home Decor & Festive Needs,4,9,4,SHIEYZF6GPYGTTWY,Unravel India Showpiece  -  15 cm,Unravel India,Home Decor & Festive Needs,3,40,7.5,Low Stock,575,1725,C-Slow,59,9/22/2026
+F-R04-B09-L5,F,Home Decor & Festive Needs,4,9,5,SHIE6G75RNDQSGUQ,Slice of Bengal Dokra Lamp Showpiece  -  18 cm,Slice of Bengal,Home Decor & Festive Needs,7,40,17.5,Low Stock,1800,12600,B-Medium,113,7/30/2026
+F-R04-B10-L1,F,Home Decor & Festive Needs,4,10,1,STIEYZ5TNP7UCJQG,DeStudio Extra Large Wall Sticker,DeStudio,Home Decor & Festive Needs,4,40,10,Low Stock,1099,4396,A-Fast,29,10/22/2026
+F-R04-B10-L2,F,Home Decor & Festive Needs,4,10,2,SHIE3HHCY7MQHSHK,Home India Radha Krishna Showpiece  -  13.97 cm,Home India,Home Decor & Festive Needs,16,40,40,Optimal,599,9584,A-Fast,10,11/10/2026
+F-R04-B10-L3,F,Home Decor & Festive Needs,4,10,3,SHIE5U6NBCUHQZTS,Rastogi Handicrafts Showpiece  -  20 cm,Rastogi Handicrafts,Home Decor & Festive Needs,11,40,27.5,Optimal,450,4950,B-Medium,32,10/19/2026
+F-R04-B10-L4,F,Home Decor & Festive Needs,4,10,4,SHIEAKXK6FC6PVDD,ARK Creation Hindu Goddess Durga Sitting On Lion Showpiece  ,ARK Creation,Home Decor & Festive Needs,25,40,62.5,Optimal,1000,25000,C-Slow,27,10/24/2026
+F-R04-B10-L5,F,Home Decor & Festive Needs,4,10,5,STIEAE2Z2JKZHKNH,Hoopoe Decor Large Wall Sticker,Hoopoe Decor,Home Decor & Festive Needs,36,40,90,Overstock,6799,244764,B-Medium,106,8/6/2026
